@@ -16,6 +16,7 @@ For users without an Oracle Linux support subscription, the following resources 
 * The [Oracle Linux Space](https://community.oracle.com/community/server_%26_storage_systems/linux/oracle_linux) on OTN.
 * The [Containers and Orchestration Space](https://community.oracle.com/community/server_&_storage_systems/linux/containers-and-orchestration) on OTN.
 * The ```#oracle-linux``` IRC channel on Freenode.
+* The [#oracle-linux](irc://chat.freenode.net/oracle-linux) channel on Freenode.net chat.
 
 ### Official resources
 
