@@ -1,6 +1,26 @@
-![Oracle Linux logo](logo.png "Oracle Linux logo")  
+# What's in this repository?
 
-# Oracle Linux
+This repo stores the [official Oracle Linux base images](https://hub.docker.com/_/oraclelinux) in the form of tarballs containing a rootfs in two architecture-specific branches. These images are automatically consumed by the Docker Hub and are not intended for direct use by end-users.
+
+## How to use these images
+
+The Oracle Linux images are intended for use in the **FROM** field of a downstream `Dockerfile`. For example, to use the latest optimized Oracle Linux 7 image, specify `FROM oraclelinux:7-slim`.
+
+## What is the difference between `oraclelinux:7` and `oraclelinux:7-slim`?
+
+Oracle recommends using `oraclelinux:7-slim` as your base layer as it contains just enough packages for `yum` to work to install more packages. Therefore, it has the smallest size and the least amount of unneeded content.
+
+The `oraclelinux:7` images is based off the package set what would be installed via a Minimal install of Oracle Linux.
+
+## What is the difference between `oraclelinux:8` and `oraclelinux:8-slim`?
+
+As with Oracle Linux 7, the `8-slim` variant contains just enough packages to install more. However, it also replaces the standard `dnf` client with the tiny `microdnf` tool to further reduce space. If you need the functionality of the full client, you can install it via `RUN microdnf -y install dnf` in your downstream `Dockerfile`.
+
+## Where can I find images of Oracle products?
+
+We provide sample Dockerfiles for several Oracle products in the [Oracle Docker Images](https://github.com/oracle/docker-images) repository on GitHub. Many of these images are also available for direct download from the [Oracle Container Registry](https://container-registry.oracle.com).
+
+# What is Oracle Linux?
 
 Oracle Linux is an open-source operating system available under the GNU General Public License (GPLv2). Suitable for general purpose or Oracle workloads, it benefits from rigorous testing of more than 128,000 hours per day with real-world workloads and includes unique innovations such as Ksplice for zero-downtime kernel patching, DTrace for real-time diagnostics, the powerful Btrfs file system, and more.
 
