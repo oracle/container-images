@@ -1,5 +1,8 @@
 # Changelog
 
+# 2020-02-25
+* Fixing incorrect architecture tarball in `dist-arm64v8` for the `oraclelinux:8.1` image
+
 # 2020-02-11
 * Updated Oracle Linux `8` and `8-slim` images for `amd64` and `arm64v8`
   * Updated `systemd` to `systemd-239-18.0.2.el8_1.2`
