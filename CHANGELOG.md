@@ -1,5 +1,11 @@
 # Changelog
 
+# 2020-03-10
+* Updated Oracle Linux `7` and `7-slim` images for `amd64` and `arm64v8`
+  * Updated `curl` to `curl-7.29.0-54.0.5.el7_7.2`
+  * https://linux.oracle.com/errata/ELSA-2020-5562.html
+* https://github.com/docker-library/official-images/pull/7600
+
 # 2020-03-04
 * Updated Oracle Linux `8` and `8-slim` images for `amd64` and `arm64v8`
   * Updated `systemd` to `systemd-239-18.0.2.el8_1.4`
