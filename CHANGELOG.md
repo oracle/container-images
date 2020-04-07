@@ -1,5 +1,10 @@
 # Changelog
 
+# 2020-04-08
+* Added Oracle Linux `7.8` images for `amd64` and `arm64v8`
+* Updated Oracle Linux `7-slim` images to 7.8 for `amd64` and `arm64v8`
+* https://github.com/docker-library/official-images/pull/7754
+
 # 2020-03-11
 * Updated Oracle Linux `6` and `6-slim` images for `amd64`
   * Updated `curl` to `curl-7.19.7-54.0.2.el6_10`
