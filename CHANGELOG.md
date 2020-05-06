@@ -1,5 +1,9 @@
 # Changelog
 
+# 2020-05-07
+* Added Oracle Linux 8 Update 2 for `amd64` and `arm64v8`
+* https://github.com/docker-library/official-images/pull/7955
+
 # 2020-05-02
 * Updated Oracle Linux `7.8` image for `amd64` and `arm64v8`
   * `tzdata-2020a-1.el7`
