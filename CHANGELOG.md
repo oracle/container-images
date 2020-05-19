@@ -1,10 +1,12 @@
 # Changelog
 
-# 2020-05-07
+## 2020-05-07
+
 * Added Oracle Linux 8 Update 2 for `amd64` and `arm64v8`
 * https://github.com/docker-library/official-images/pull/7955
 
-# 2020-05-02
+## 2020-05-02
+
 * Updated Oracle Linux `7.8` image for `amd64` and `arm64v8`
   * `tzdata-2020a-1.el7`
   * `systemd-219-73.0.1.el7_8.5`, `systemd-libs-219-73.0.1.el7_8.5`, `libgudev1-219-73.0.1.el7_8.5`
@@ -12,19 +14,21 @@
   * `bind-export-libs-32:9.11.4-16.P2.el7_8.2`
 * Updated Oracle Linux `6.10` and `6-slim`, `7-slim` images for `amd64` and `arm64v8`
   * `tzdata-2020a-1.el7`
-* https://github.com/docker-library/official-images/pull/7928
+* <https://github.com/docker-library/official-images/pull/7928>
 
-# 2020-04-08
+## 2020-04-08
+
 * Added Oracle Linux `7.8` images for `amd64` and `arm64v8`
 * Updated Oracle Linux `7-slim` images to 7.8 for `amd64` and `arm64v8`
-* Release notes: https://docs.oracle.com/en/operating-systems/oracle-linux/7/relnotes7.8/
-* https://github.com/docker-library/official-images/pull/7769
+* Release notes: <https://docs.oracle.com/en/operating-systems/oracle-linux/7/relnotes7.8/>
+* <https://github.com/docker-library/official-images/pull/7769>
 
-# 2020-03-11
+## 2020-03-11
+
 * Updated Oracle Linux `6` and `6-slim` images for `amd64`
   * Updated `curl` to `curl-7.19.7-54.0.2.el6_10`
-  * https://linux.oracle.com/errata/ELSA-2020-5561.html
-* https://github.com/docker-library/official-images/pull/7605
+  * <https://linux.oracle.com/errata/ELSA-2020-5561.html>
+* <https://github.com/docker-library/official-images/pull/7605>
 
 # 2020-03-10
 * Updated Oracle Linux `7` and `7-slim` images for `amd64` and `arm64v8`
