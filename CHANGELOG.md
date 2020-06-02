@@ -1,9 +1,20 @@
 # Changelog
 
+## 2020-06-02
+
+* Updated `oraclelinux:8.2` images for `amd64` and `arm64v8`
+  * Updated `systemd-239-30.0.2.el8_2`
+  * <https://linux.oracle.com/errata/ELBA-2020-5701.html>
+  * Resolves issue #22
+* Updated `oraclelinux:7.8` images for `amd64` and `arm64v8`
+  * Updated `bind-export-libs-9.11.4-16.P2.el7_8.6` to address CVE-2020-8616 and CVE-2020-8617
+  * <https://linux.oracle.com/errata/ELSA-2020-2344.html>
+* <https://github.com/docker-library/official-images/pull/8103>
+
 ## 2020-05-07
 
 * Added Oracle Linux 8 Update 2 for `amd64` and `arm64v8`
-* https://github.com/docker-library/official-images/pull/7955
+* <https://github.com/docker-library/official-images/pull/7955>
 
 ## 2020-05-02
 
