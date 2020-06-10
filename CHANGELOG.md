@@ -1,5 +1,12 @@
 # Changelog
 
+## 2020-06-10
+
+* Updated `oraclelinux:7.8` and `oraclelinux:7-slim` images for `amd64` and `arm64v8`
+  * Updated `systemd-219-73.0.1`
+  * <https://linux.oracle.com/errata/ELBA-2020-5711.html>
+* <https://github.com/docker-library/official-images/pull/8162>
+
 ## 2020-06-02
 
 * Updated `oraclelinux:8.2` images for `amd64` and `arm64v8`
