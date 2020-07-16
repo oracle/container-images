@@ -1,5 +1,11 @@
 # Changelog
 
+## 2010-07-17
+
+* Updated `oraclelinux:7-slim` for `amd64` and `arm64v8`
+  * Structural changes only; no package changes.
+* <https://github.com/docker-library/official-images/pull/8377>
+
 ## 2020-07-16
 
 * Updated `oraclelinux:7.8` for `amd64` and `arm64v8`
