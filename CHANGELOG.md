@@ -1,12 +1,20 @@
 # Changelog
 
-## 2010-07-21
+## 2020-07-24
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for both `amd64` and `arm64v8`:
+  * `iptables`: <https://oss.oracle.com/pipermail/el-errata/2020-July/010144.html>
+  * `libdnf`: <https://oss.oracle.com/pipermail/el-errata/2020-July/010146.html>
+  * `systemd`: <https://oss.oracle.com/pipermail/el-errata/2020-July/010149.html>
+* <https://github.com/docker-library/official-images/pull/8426>
+
+## 2020-07-21
 
 * Updated `oraclelinux:8.2` and `oraclelinux:8-slim` for `amd64` and `arm64v8`
   * Structural changes only; no package changes.
 * <https://github.com/docker-library/official-images/pull/8393>
 
-## 2010-07-17
+## 2020-07-17
 
 * Updated `oraclelinux:7-slim` for `amd64` and `arm64v8`
   * Structural changes only; no package changes.
