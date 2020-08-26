@@ -1,5 +1,13 @@
 # Changelog
 
+## 2020-08-27
+
+* Update `oraclelinux:6` and `oraclelinux:6-slim` for `amd64`:
+  * `ca-certificates`: <https://oss.oracle.com/pipermail/el-errata/2020-August/010249.html>
+  * RootFS tarballs renamed to include architecture
+* <https://github.com/docker-library/official-images/pull/8615>
+
+
 ## 2020-07-24
 
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for both `amd64` and `arm64v8`:
