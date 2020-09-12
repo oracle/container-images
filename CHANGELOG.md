@@ -1,5 +1,11 @@
 # Changelog
 
+## 2020-09-13
+
+* Add `shadow-utils` to the `oraclelinux:8-slim` image for `amd64` and `arm64v8`
+  * This is a usability change to allow non-root users to be created and used
+* <https://github.com/docker-library/official-images/pull/8714>
+
 ## 2020-09-11
 
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for both `amd64` and `arm64v8`:
