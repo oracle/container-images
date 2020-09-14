@@ -1,5 +1,10 @@
 # Changelog
 
+## 2020-09-15
+
+* Added OpenContainers `image-spec` labels to each of the currently maintained tags
+* <https://github.com/docker-library/official-images/pull/8722>
+
 ## 2020-09-13
 
 * Add `shadow-utils` to the `oraclelinux:8-slim` image for `amd64` and `arm64v8`
@@ -9,7 +14,7 @@
 ## 2020-09-11
 
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for both `amd64` and `arm64v8`:
-  * `bind`: <https://linux.oracle.com/errata/ELBA-2020-3653.html
+  * `bind`: <https://linux.oracle.com/errata/ELBA-2020-3653.html>
 * <https://github.com/docker-library/official-images/pull/8704>
 
 ## 2020-08-27
@@ -18,7 +23,6 @@
   * `ca-certificates`: <https://oss.oracle.com/pipermail/el-errata/2020-August/010249.html>
   * RootFS tarballs renamed to include architecture
 * <https://github.com/docker-library/official-images/pull/8615>
-
 
 ## 2020-07-24
 
