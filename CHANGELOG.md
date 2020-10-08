@@ -1,5 +1,10 @@
 # Changelog
 
+## 2020-10-7
+
+* Release of Oracle Linux 7 Update 9 for `amd64` and `arm64v8`
+* <https://github.com/docker-library/official-images/pull/8858>
+
 ## 2020-09-15
 
 * Added OpenContainers `image-spec` labels to each of the currently maintained tags
