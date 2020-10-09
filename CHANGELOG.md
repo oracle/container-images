@@ -2,7 +2,10 @@
 
 ## 2020-10-7
 
-* Release of Oracle Linux 7 Update 9 for `amd64` and `arm64v8`
+* Release of Oracle Linux 7 Update 9 for `amd64` and `arm64v8`:
+  * Created `oraclelinux:7.9`
+  * Switched `oraclelinux:7` to map to `oraclelinux:7.9`
+  * Updated `oraclelinux:7-slim` with Oracle Linux 7 Update 9 packages
 * <https://github.com/docker-library/official-images/pull/8858>
 
 ## 2020-09-15
