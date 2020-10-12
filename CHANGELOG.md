@@ -1,5 +1,11 @@
 # Changelog
 
+## 2020-10-13
+
+* Updated `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  * ELSA-2020-4076: [`nss` and `nspr` security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2020-4076.html)
+* <https://github.com/docker-library/official-images/pull/8889>
+
 ## 2020-10-7
 
 * Release of Oracle Linux 7 Update 9 for `amd64` and `arm64v8`:
