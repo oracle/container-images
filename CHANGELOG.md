@@ -1,5 +1,12 @@
 # Changelog
 
+## 2020-10-22
+
+* Updated `oraclelinux:7`, `oraclelinux:7-slim`, `oraclelinux:8` and `oraclelinux:8-slim`
+  for `amd64` and `arm64v8`:
+  * [ELBA-2020-4282](https://linux.oracle.com/errata/ELBA-2020-4282.html)
+* <https://github.com/docker-library/official-images/pull/8931>
+
 ## 2020-10-13
 
 * Updated `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
