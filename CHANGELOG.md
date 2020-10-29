@@ -1,5 +1,11 @@
 # Changelog
 
+## 2020-10-30
+
+* Updated `6.10`, `6-slim`, `7.9`, `7-slim`, `8.2`, `8-slim` for `amd64` and `arm64v8`:
+  * [ELBA-2020-4329](https://linux.oracle.com/errata/ELBA-2020-4329.html) - `tzdata-2020d`
+* <https://github.com/docker-library/official-images/pull/8990>
+
 ## 2020-10-23
 
 * Updated `oraclelinux:6` and `oraclelinux:6-slim` for `amd64`:
