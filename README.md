@@ -1,9 +1,8 @@
 # Oracle Linux base images
 
-This repo stores the source for the [official Oracle Linux base images](https://hub.docker.com/_/oraclelinux)
-in the form of tarballs containing a rootfs in two architecture-specific branches.
-These images are automatically consumed by the Docker Hub and are not intended
-for direct use by end-users.
+This repo stores the architecture-specific rootfs tarballs for the official
+Oracle Linux base images published on [Docker Hub](https://hub.docker.com/_/oraclelinux)
+and [GitHub Container Registry](https://github.com/orgs/oracle/packages/container/package/oraclelinux).
 
 ## Oracle Linux
 
