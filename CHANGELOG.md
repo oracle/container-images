@@ -1,5 +1,12 @@
 # Changelog
 
+## 2020-11-16
+
+* Release Oracle Linux 8 Update 3 for `arm64` and `arm64v8`:
+  * Shift `oraclelinux:8` to point to `oraclelinux:8.3`
+  * Update `oraclelinux:8-slim` to Update 3
+* <https://github.com/docker-library/official-images/pull/9091>
+
 ## 2020-10-30
 
 * Updated `6.10`, `6-slim`, `7.9`, `7-slim`, `8.2`, `8-slim` for `amd64` and `arm64v8`:
