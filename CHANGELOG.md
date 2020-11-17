@@ -1,5 +1,11 @@
 # Changelog
 
+## 2020-11-18
+
+* Release `oraclelinux:7` and `oraclelinux:7-slim` for `arm64v8` and `amd64`:
+  * [ELSA-2020-5011 - bind security and bug fix update](https://linux.oracle.com/errata/ELSA-2020-5011.html)
+* <https://github.com/docker-library/official-images/pull/9113>
+
 ## 2020-11-16
 
 * Release Oracle Linux 8 Update 3 for `arm64` and `arm64v8`:
@@ -10,13 +16,13 @@
 ## 2020-10-30
 
 * Updated `6.10`, `6-slim`, `7.9`, `7-slim`, `8.2`, `8-slim` for `amd64` and `arm64v8`:
-  * [ELBA-2020-4329](https://linux.oracle.com/errata/ELBA-2020-4329.html) - `tzdata-2020d`
+  * [ELBA-2020-4329 - tzdata enhancement update](https://linux.oracle.com/errata/ELBA-2020-4329.html) - `tzdata-2020d`
 * <https://github.com/docker-library/official-images/pull/8990>
 
 ## 2020-10-23
 
 * Updated `oraclelinux:6` and `oraclelinux:6-slim` for `amd64`:
-  * [ELBA-2020-4282](https://linux.oracle.com/errata/ELBA-2020-4282.html)
+  * [ELBA-2020-4282 - tzdata enhancement update](https://linux.oracle.com/errata/ELBA-2020-4282.html)
 * <https://github.com/docker-library/official-images/pull/8942>
 
 ## 2020-10-22
@@ -29,7 +35,7 @@
 ## 2020-10-13
 
 * Updated `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
-  * ELSA-2020-4076: [`nss` and `nspr` security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2020-4076.html)
+  * [ELSA-2020-4076: `nss` and `nspr` security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2020-4076.html)
 * <https://github.com/docker-library/official-images/pull/8889>
 
 ## 2020-10-7
