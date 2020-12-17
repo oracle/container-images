@@ -1,5 +1,11 @@
 # Changelog
 
+## 2020-12-17
+
+* Release `oraclelinux:7` and `oraclelinux:7-slim` for `arm64v8` and `amd64`:
+  * [ELSA-2020-5443 - gd security update](https://linux.oracle.com/errata/ELSA-2020-5443.html)
+* <https://github.com/docker-library/official-images/pull/9301>
+
 ## 2020-11-18
 
 * Release `oraclelinux:7` and `oraclelinux:7-slim` for `arm64v8` and `amd64`:
