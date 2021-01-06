@@ -1,5 +1,12 @@
 # Changelog
 
+## 2021-01-06
+
+* Release `oraclelinux:7`, `oraclelinux:7-slim`, `oraclelinux:8`, `oraclelinux:8-slim` for `arm64v8` and `amd64`:
+  * [ELBA-2021-0013 - tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2021-0013.html)
+* Remove unsupported container images to reduce repo space consumption
+* <https://github.com/docker-library/official-images/pull/9380>
+
 ## 2020-12-22
 
 * Release `oraclelinux:7` and `oraclelinux:7-slim` for `arm64v8` and `amd64`:
