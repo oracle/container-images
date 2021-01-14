@@ -1,5 +1,10 @@
 # Changelog
 
+## 2021-01-15
+
+* Republished all images to remove the `LABEL` directive to avoid downstream images being misidentified.
+* <https://github.com/docker-library/official-images/pull/9429>
+
 ## 2021-01-06
 
 * Release `oraclelinux:7`, `oraclelinux:7-slim`, `oraclelinux:8`, `oraclelinux:8-slim` for `arm64v8` and `amd64`:
