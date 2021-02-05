@@ -1,5 +1,12 @@
 # Changelog
 
+## 2021-02-01
+
+* Republish all images for `tzdata-2021a-1`:
+  * OL7, OL8: <https://linux.oracle.com/errata/ELBA-2021-0276.html>
+  * OL6: <https://linux.oracle.com/errata/ELBA-2021-9022.html>
+* <https://github.com/docker-library/official-images/pull/9537>
+
 ## 2021-01-15
 
 * Republished all images to remove the `LABEL` directive to avoid downstream images being misidentified.
