@@ -1,5 +1,23 @@
 # Changelog
 
+## 2020-02-06
+
+### Significant change to `oraclelinux:8` for `amd64` and `arm64v8`
+
+In this release,  `glibc-all-langpacks`  is replaced by  `glibc-langpack-en`
+which means only the  `en` language/locale is available by default.
+This change reduces the final size of the image by over 200MB.
+
+If any additional locales are required, simply run `dnf install glibc-langpack-XX`
+in your downstream `Dockerfile` (replaceing `XX` with the required language
+identifier).
+
+To revert back to the previous behaviour where all locales were
+available, simply run `dnf swap glibc-langpack-en glibc-all-langpacks` in your
+downstream `Dockerfile`.
+
+* <https://github.com/docker-library/official-images/pull/9584>
+
 ## 2021-02-01
 
 * Republish all images for `tzdata-2021a-1`:
