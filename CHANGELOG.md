@@ -1,5 +1,14 @@
 # Changelog
 
+## 2021-02-12
+
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2021-0348 - glibc security and bug fix update](https://linux.oracle.com/errata/ELSA-2021-0348.html)
+    * CVE-2020-10029: <https://linux.oracle.com/cve/CVE-2020-10029.html>
+    * CVE-2020-29573: <https://linux.oracle.com/cve/CVE-2020-29573.html>
+    * CVE-2019-25013: <https://linux.oracle.com/cve/CVE-2019-25013.html>
+* <https://github.com/docker-library/official-images/pull/**9617**>
+
 ## 2021-02-06
 
 ### Significant change to `oraclelinux:8` for `amd64` and `arm64v8`
