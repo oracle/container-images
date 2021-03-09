@@ -1,11 +1,11 @@
 # Changelog
 
-## 20201-03-03
+## 20201-03-09
 
 * Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
   * [ELSA-2021-0670 - bind security update](https://linux.oracle.com/errata/ELSA-2021-0670.html)
     * CVE-2020-8625: <https://linux.oracle.com/cve/CVE-2020-8625.html>
-* <https://github.com/docker-library/official-images/pull/9732>
+* <https://github.com/docker-library/official-images/pull/9768>
 
 ## 2021-02-12
 
