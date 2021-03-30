@@ -1,6 +1,14 @@
 # Changelog
 
-## 20201-03-09
+## 2021-03-31
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2021-1024 - openssl security update](https://linux.oracle.com/errata/ELSA-2021-1024.html)
+    * [CVE-2021-3449](https://linux.oracle.com/cve/CVE-2021-3449.html)
+    * [CVE-2021-3450](https://linux.oracle.com/cve/CVE-2021-3450.html)
+  * <https://github.com/docker-library/official-images/pull/9887>
+
+## 2021-03-09
 
 * Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
   * [ELSA-2021-0670 - bind security update](https://linux.oracle.com/errata/ELSA-2021-0670.html)
