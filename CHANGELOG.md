@@ -1,5 +1,16 @@
 # Changelog
 
+## 2021-05-01
+
+* Update `oraclelinux:7` and `oraclelinux:7slim` for `amd64` and `arm64v8`:
+  * [ELSA-2021-1469 - bind security update](https://linux.oracle.com/errata/ELSA-2021-1469.html)
+    * [CVE-2021-25215](https://linux.oracle.com/cve/CVE-2021-25215.html)
+  * [ELSA-2021-1384 - nss security and bug fix update](https://linux.oracle.com/errata/ELSA-2021-1384.html)
+    * [CVE-2020-25648](https://linux.oracle.com/cve/CVE-2020-25648.html)
+  * [ELSA-2021-1389 - openldap security update](https://linux.oracle.com/errata/ELSA-2021-1389.html)
+    * [CVE-2020-25692](https://linux.oracle.com/cve/CVE-2020-25692.html)
+<https://github.com/docker-library/official-images/pull/10091>
+
 ## 2021-03-31
 
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
