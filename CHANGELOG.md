@@ -1,5 +1,12 @@
 # Changelog
 
+## 2021-06-01
+
+* Update `oraclelinux:7` and `oraclelinux:7slim` for `amd64` and `arm64v8`:
+  * [ELSA-2021-2147 - glib2 security update](https://linux.oracle.com/errata/ELSA-2021-2147.html)
+    * [CVE-2021-27219](https://linux.oracle.com/cve/CVE-2021-27219.html)
+* <https://github.com/docker-library/official-images/pull/10275>
+
 ## 2021-05-28
 
 * Release Oracle Linux 8 Update 4 for `amd64` and `arm64v8`
@@ -16,7 +23,7 @@
     * [CVE-2020-25648](https://linux.oracle.com/cve/CVE-2020-25648.html)
   * [ELSA-2021-1389 - openldap security update](https://linux.oracle.com/errata/ELSA-2021-1389.html)
     * [CVE-2020-25692](https://linux.oracle.com/cve/CVE-2020-25692.html)
-<https://github.com/docker-library/official-images/pull/10091>
+* <https://github.com/docker-library/official-images/pull/10091>
 
 ## 2021-03-31
 
@@ -24,7 +31,7 @@
   * [ELSA-2021-1024 - openssl security update](https://linux.oracle.com/errata/ELSA-2021-1024.html)
     * [CVE-2021-3449](https://linux.oracle.com/cve/CVE-2021-3449.html)
     * [CVE-2021-3450](https://linux.oracle.com/cve/CVE-2021-3450.html)
-  * <https://github.com/docker-library/official-images/pull/9887>
+* <https://github.com/docker-library/official-images/pull/9887>
 
 ## 2021-03-09
 
