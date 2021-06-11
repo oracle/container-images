@@ -1,5 +1,13 @@
 # Changelog
 
+## 2021-06-11
+
+* Update `oraclelinux:7` and `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2021-2357 - dhcp security update](https://linux.oracle.com/errata/ELSA-2021-2357.html)
+  * [ELSA-2021-2359 - dhcp security update](https://linux.oracle.com/errata/ELSA-2021-2359.html)
+  * [CVE-2021-25217](https://linux.oracle.com/cve/CVE-2021-25217.html)
+* <https://github.com/docker-library/official-images/pull/10344>
+
 ## 2021-06-03
 
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
