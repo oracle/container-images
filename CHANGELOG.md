@@ -1,5 +1,12 @@
 # Changelog
 
+## 2021-06-17
+
+* Update `oraclelinux:7` and `oraclelinux:7slim` for `amd64` and `arm64v8`:
+  * [ELSA-2021-9294 - krb5 security update](https://linux.oracle.com/errata/ELSA-2021-9294.html)
+    * [CVE-2020-28196](https://linux.oracle.com/cve/CVE-2020-28196.html)
+* <https://github.com/docker-library/official-images/pull/10382>
+
 ## 2021-06-11
 
 * Update `oraclelinux:7` and `oraclelinux:8` for `amd64` and `arm64v8`:
