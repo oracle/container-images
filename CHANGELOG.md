@@ -1,5 +1,14 @@
 # Changelog
 
+## 2021-06-30
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2021-2574 - rpm security update](https://linux.oracle.com/errata/ELSA-2021-2574.html)
+    * [CVE-2021-20271](https://linux.oracle.com/cve/CVE-2021-20271.html)
+  * [ELSA-2021-2575 - lz4 security update](https://linux.oracle.com/errata/ELSA-2021-2575.html)
+    * [CVE-2021-3520](https://linux.oracle.com/cve/CVE-2021-3520.html)
+* <https://github.com/docker-library/official-images/pull/10454>
+
 ## 2021-06-17
 
 * Update `oraclelinux:7` and `oraclelinux:7slim` for `amd64` and `arm64v8`:
