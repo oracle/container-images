@@ -1,5 +1,16 @@
 # Changelog
 
+## 2021-07-13
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2021-2569 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2021-2569.html)
+    * [CVE-2021-3516](https://linux.oracle.com/cve/CVE-2021-3516.html)
+    * [CVE-2021-3518](https://linux.oracle.com/cve/CVE-2021-3518.html)
+    * [CVE-2021-3537](https://linux.oracle.com/cve/CVE-2021-3537.html)
+    * [CVE-2021-3517](https://linux.oracle.com/cve/CVE-2021-3517.html)
+    * [CVE-2021-3541](https://linux.oracle.com/cve/CVE-2021-3541.html)
+* <https://github.com/docker-library/official-images/pull/10524>
+
 ## 2021-06-30
 
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
