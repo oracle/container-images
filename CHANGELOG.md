@@ -1,5 +1,12 @@
 # Changelog
 
+## 2021-08-12
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2021-3058 - glib2 security update](https://linux.oracle.com/errata/ELSA-2021-3058.html)
+    * [CVE-2021-27218](https://linux.oracle.com/cve/CVE-2021-27218.html)
+* <https://github.com/docker-library/official-images/pull/10706>
+
 ## 2021-07-22
 
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
