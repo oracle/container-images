@@ -1,5 +1,20 @@
 # Changelog
 
+## 2021-09.28
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2021-3582 - curl security update](https://linux.oracle.com/errata/ELSA-2021-3582.html)
+    * [CVE-2021-22922](https://linux.oracle.com/cve/CVE-2021-22922.html)
+    * [CVE-2021-22923](https://linux.oracle.com/cve/CVE-2021-22923.html)
+    * [CVE-2021-22924](https://linux.oracle.com/cve/CVE-2021-22924.html)
+  * [ELSA-2021-3576 - krb5 security update](https://linux.oracle.com/errata/ELSA-2021-3576.html)
+    * [CVE-2021-36222](https://linux.oracle.com/cve/CVE-2021-36222.html)
+    * [CVE-2021-37750](https://linux.oracle.com/cve/CVE-2021-37750.html)
+  * [ELBA-2021-3573 - ca-certificates bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2021-3573.html)
+* Update `oraclelinux:7` for `amd64` and `arm64v8`:
+  * [ELBA-2021-3649 - ca-certificates bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2021-3649.html)
+* <https://github.com/docker-library/official-images/pull/10978>
+
 ## 2021-09-02
 
 * Update `oraclelinux:7` for `amd64` and `arm64v8`:
