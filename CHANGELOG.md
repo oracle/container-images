@@ -1,6 +1,6 @@
 # Changelog
 
-## 2021-09.28
+## 2021-09-28
 
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
   * [ELSA-2021-3582 - curl security update](https://linux.oracle.com/errata/ELSA-2021-3582.html)
