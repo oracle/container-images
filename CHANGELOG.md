@@ -1,5 +1,18 @@
 # Changelog
 
+## 2021-10-13
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELBA-2021-3790 - tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2021-3790.html)
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  * [ELBA-2021-3790 - tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2021-3790.html)
+  * [ELSA-2021-3798 - openssl security update](https://linux.oracle.com/errata/ELSA-2021-3798.html)
+    * [CVE-2021-23840](https://linux.oracle.com/cve/CVE-2021-23840.html)
+    * [CVE-2021-23841](https://linux.oracle.com/cve/CVE-2021-23841.html)
+  * [ELSA-2021-3810 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2021-3810.html)
+    * [CVE-2016-4658](https://linux.oracle.com/cve/CVE-2016-4658.html)
+* <https://github.com/docker-library/official-images/pull/11096>
+
 ## 2021-09-28
 
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
