@@ -1,5 +1,12 @@
 # Changelog
 
+## 2021-10-27
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELBA-2021-4003 - tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2021-4003.html)
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  * [ELBA-2021-4003 - tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2021-4003.html)
+
 ## 2021-10-13
 
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
