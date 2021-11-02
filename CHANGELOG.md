@@ -1,5 +1,12 @@
 # Changelog
 
+## 2021-11-02
+
+* Update `oraclelinux:7` for `amd64` and `arm64v8`:
+  * [ELSA-2021-4033 - binutils update](https://linux.oracle.com/errata/ELSA-2021-4033.html)
+    * [CVE-2021-42574](https://linux.oracle.com/cve/CVE-2021-42574.html)
+* <https://github.com/docker-library/official-images/pull/11231>
+
 ## 2021-10-27
 
 * Republish all images for `tzdata-2021e-1`:
