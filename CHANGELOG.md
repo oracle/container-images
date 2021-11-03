@@ -1,5 +1,20 @@
 # Changelog
 
+## 2021-11-03
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2021-4057 - python3 security update](https://linux.oracle.com/errata/ELSA-2021-4057.html)
+    * [CVE-2021-3733](https://linux.oracle.com/cve/CVE-2021-3733.html)
+  * [ELSA-2021-4059 - curl security update](https://linux.oracle.com/errata/ELSA-2021-4059.html)
+    * [CVE-2021-22946](https://linux.oracle.com/cve/CVE-2021-22946.html)
+    * [CVE-2021-22947](https://linux.oracle.com/cve/CVE-2021-22947.html)
+  * [ELBA-2021-4060 - libsolv security update](https://linux.oracle.com/errata/ELBA-2021-4060.html)
+    * [CVE-2021-33928](https://linux.oracle.com/cve/CVE-2021-33928.html)
+    * [CVE-2021-33929](https://linux.oracle.com/cve/CVE-2021-33929.html)
+    * [CVE-2021-33930](https://linux.oracle.com/cve/CVE-2021-33930.html)
+    * [CVE-2021-33938](https://linux.oracle.com/cve/CVE-2021-33938.html)
+* <https://github.com/docker-library/official-images/pull/11233>
+
 ## 2021-11-02
 
 * Update `oraclelinux:7` for `amd64` and `arm64v8`:
