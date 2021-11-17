@@ -1,5 +1,12 @@
 # Changelog
 
+## 2021-11-17
+
+* Release Oracle Linux 8 Update 5 for `amd64` and `arm64v8`
+  * Shift `oraclelinux:8` to point to `oraclelinux:8.5`
+  * Update `oraclelinux:8-slim` to Update 5
+* <https://github.com/docker-library/official-images/pull/11324>
+
 ## 2021-11-03
 
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
