@@ -1,5 +1,12 @@
 # Changelog
 
+## 2021-11-18
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2021-4587 - gcc security update](https://linux.oracle.com/errata/ELSA-2021-4587.html)
+    * [CVE-2021-42574](https://linux.oracle.com/cve/CVE-2021-42574.html)
+* <https://github.com/docker-library/official-images/pull/11337>
+
 ## 2021-11-17
 
 * Release Oracle Linux 8 Update 5 for `amd64` and `arm64v8`
