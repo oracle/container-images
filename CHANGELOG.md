@@ -1,5 +1,16 @@
 # Changelog
 
+## 2021-11-25
+
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2021-4782 - openssh security update](https://linux.oracle.com/errata/ELSA-2021-4782.html)
+    * [CVE-2021-41617](https://linux.oracle.com/cve/CVE-2021-41617.html)
+  * [ELSA-2021-4785 - rpm security update](https://linux.oracle.com/errata/ELSA-2021-4785.html)
+    * [CVE-2021-20271](https://linux.oracle.com/cve/CVE-2021-20271.html)
+  * [ELSA-2021-4788 - krb5 security update](https://linux.oracle.com/errata/ELSA-2021-4788.html)
+    * [CVE-2021-37750](https://linux.oracle.com/cve/CVE-2021-37750.html)
+* <https://github.com/docker-library/official-images/pull/11387>
+
 ## 2021-11-18
 
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
