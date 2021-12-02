@@ -1,5 +1,12 @@
 # Changelog
 
+## 2021-12-01
+
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2021-4904 - nss security update](https://linux.oracle.com/errata/ELSA-2021-4904.html)
+    * [CVE-2021-43527](https://linux.oracle.com/cve/CVE-2021-43527.html)
+* <https://github.com/docker-library/official-images/pull/11428>
+
 ## 2021-11-25
 
 * Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
