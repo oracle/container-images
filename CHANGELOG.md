@@ -1,5 +1,12 @@
 # Changelog
 
+## 2021-12-22
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2021-5226 - openssl security update](https://linux.oracle.com/errata/ELSA-2021-5226.html)
+    * [CVE-2021-3712](https://linux.oracle.com/cve/CVE-2021-3712.html)
+* <https://github.com/docker-library/official-images/pull/11573>
+
 ## 2021-12-01
 
 * Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
