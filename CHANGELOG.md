@@ -1,5 +1,23 @@
 # Changelog
 
+## 2022-02-03
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2022-0366 - vim security update](https://linux.oracle.com/errata/ELSA-2022-0366.html)
+    * [CVE-2021-3872](https://linux.oracle.com/cve/CVE-2021-3872.html)
+    * [CVE-2021-3984](https://linux.oracle.com/cve/CVE-2021-3984.html)
+    * [CVE-2021-4019](https://linux.oracle.com/cve/CVE-2021-4019.html)
+    * [CVE-2021-4192](https://linux.oracle.com/cve/CVE-2021-4192.html)
+    * [CVE-2021-4193](https://linux.oracle.com/cve/CVE-2021-4193.html)
+
+  * [ELSA-2022-0368 - rpm security update](https://linux.oracle.com/errata/ELSA-2022-0368.html)
+    * [CVE-2021-3521](https://linux.oracle.com/cve/CVE-2021-3521.html)
+
+  * ELSA-2022-0370 - cryptsetup security update](https://linux.oracle.com/errata/ELSA-2022-0370.html)
+    * [CVE-2021-4122](https://linux.oracle.com/cve/CVE-2021-4122.html)
+
+* <https://github.com/docker-library/official-images/pull/11799>
+
 ## 2022-01-12
 
 * Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
