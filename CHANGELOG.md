@@ -1,5 +1,14 @@
 # Changelog
 
+## 2022-02-23
+
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2022-0621 - openldap security update](https://linux.oracle.com/errata/ELSA-2022-0621.html)
+    * [CVE-2020-25709](https://linux.oracle.com/cve/CVE-2020-25709.html)
+    * [CVE-2020-25710](https://linux.oracle.com/cve/CVE-2020-25710.html)
+
+* <https://github.com/docker-library/official-images/pull/11918>
+
 ## 2022-02-11
 
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
