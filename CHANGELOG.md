@@ -1,5 +1,17 @@
 # Changelog
 
+## 2022-02-24
+
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2022-0666 - cyrus-sasl security update](https://linux.oracle.com/errata/ELSA-2022-0666.html)
+    * [CVE-2022-24407](https://linux.oracle.com/cve/CVE-2022-24407.html)
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2022-0658 - cyrus-sasl security update](https://linux.oracle.com/errata/ELSA-2022-0658.html)
+    * [CVE-2022-24407](https://linux.oracle.com/cve/CVE-2022-24407.html)
+
+* <https://github.com/docker-library/official-images/pull/11927>
+
 ## 2022-02-23
 
 * Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
