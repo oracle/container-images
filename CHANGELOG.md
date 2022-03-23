@@ -1,5 +1,14 @@
 # Changelog
 
+## 2022-03-23
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2022-9233 - openssl security update](https://linux.oracle.com/errata/ELSA-2022-9233.html)
+    * [CVE-2022-0778](https://linux.oracle.com/cve/CVE-2022-0778.html)
+  * [ELSA-2022-9232 - expat security update](https://linux.oracle.com/errata/ELSA-2022-9232.html)
+    * [CVE-2022-23990](https://linux.oracle.com/cve/CVE-2022-23990.html)
+
+* <https://github.com/docker-library/official-images/pull/12108>
+
 ## 2022-03-18
 * Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
   * [ELSA-2022-9224 - openssl security update](https://linux.oracle.com/errata/ELSA-2022-9224.html)
