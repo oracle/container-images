@@ -1,5 +1,10 @@
 # Changelog
 
+## 2022-03-24
+* Republish all images for `tzdata-2022a-1`:
+  * OL7, OL8: <https://linux.oracle.com/errata/ELBA-2022-1032.html>
+* <https://github.com/docker-library/official-images/pull/12118>
+
 ## 2022-03-23
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
   * [ELSA-2022-9233 - openssl security update](https://linux.oracle.com/errata/ELSA-2022-9233.html)
