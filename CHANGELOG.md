@@ -1,5 +1,30 @@
 # Changelog
 
+## 2022-03-29
+* Update `oraclelinux:7` and `oraclelinux:7-slim' for `amd64` and `arm64v8`:
+  * [ELSA-2022-1066 - openssl security update](https://linux.oracle.com/errata/ELSA-2022-1066.html)
+    * [CVE-2022-0778](https://linux.oracle.com/cve/CVE-2022-0778.html)
+  * [ELSA-2022-1069 - expat security update](https://linux.oracle.com/errata/ELSA-2022-1069.html)
+    * [CVE-2021-45960](https://linux.oracle.com/cve/CVE-2021-45960.html)
+    * [CVE-2021-46143](https://linux.oracle.com/cve/CVE-2021-46143.html)
+    * [CVE-2022-22822](https://linux.oracle.com/cve/CVE-2022-22822.html)
+    * [CVE-2022-22823](https://linux.oracle.com/cve/CVE-2022-22823.html)
+    * [CVE-2022-22824](https://linux.oracle.com/cve/CVE-2022-22824.html)
+    * [CVE-2022-22825](https://linux.oracle.com/cve/CVE-2022-22825.html)
+    * [CVE-2022-22826](https://linux.oracle.com/cve/CVE-2022-22826.html)
+    * [CVE-2022-22827](https://linux.oracle.com/cve/CVE-2022-22827.html)
+    * [CVE-2022-23852](https://linux.oracle.com/cve/CVE-2022-23852.html)
+    * [CVE-2022-25235](https://linux.oracle.com/cve/CVE-2022-25235.html)
+    * [CVE-2022-25236](https://linux.oracle.com/cve/CVE-2022-25236.html)
+    * [CVE-2022-25315](https://linux.oracle.com/cve/CVE-2022-25315.html)
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2022-1065 - openssl security update](https://linux.oracle.com/errata/ELSA-2022-1065.html)
+    * [CVE-2022-0778](https://linux.oracle.com/cve/CVE-2022-0778.html)
+
+
+* <https://github.com/docker-library/official-images/pull/12147>
+
 ## 2022-03-24
 * Republish all images for `tzdata-2022a-1`:
   * OL7, OL8: <https://linux.oracle.com/errata/ELBA-2022-1032.html>
