@@ -1,5 +1,12 @@
 # Changelog
 
+## 2022-04-27
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2022-1537 - gzip security update] (https://linux.oracle.com/errata/ELSA-2022-1537.html)
+    * [CVE-2022-1271] (https://linux.oracle.com/cve/CVE-2022-1271.html)
+
+* <https://github.com/docker-library/official-images/pull/12320>
+
 ## 2022-03-29
 * Update `oraclelinux:7` and `oraclelinux:7-slim' for `amd64` and `arm64v8`:
   * [ELSA-2022-1066 - openssl security update](https://linux.oracle.com/errata/ELSA-2022-1066.html)
