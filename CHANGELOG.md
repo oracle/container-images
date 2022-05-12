@@ -1,6 +1,15 @@
 # Changelog
 
-## 2022-05-22
+## 2022-05-12
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2022-2191 - gzip security update] (https://linux.oracle.com/errata/ELSA-2022-2191.html)
+    * [CVE-2022-1271] (https://linux.oracle.com/cve/CVE-2022-1271.html)
+  * [ELSA-2022-2213 - zlib security update] (https://linux.oracle.com/errata/ELSA-2022-2213.html)
+    * [CVE-2018-25032] (https://linux.oracle.com/cve/CVE-2018-25032.html)
+
+* <https://github.com/docker-library/official-images/pull/12421>
+
+## 2022-05-02
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
   * [ELSA-2022-1552 - vim security update] (https://linux.oracle.com/errata/ELSA-2022-1552.html)
     * [CVE-2022-1154] (https://linux.oracle.com/cve/CVE-2022-1154.html)
