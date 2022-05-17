@@ -1,5 +1,12 @@
 # Changelog
 
+## 2022-05-17
+
+* Release Oracle Linux 8 Update 6 for `amd64` and `arm64v8`
+  * Shift `oraclelinux:8` to point to `oraclelinux:8.6`
+  * Update `oraclelinux:8-slim` to Update 6
+* <https://github.com/docker-library/official-images/pull/12451>
+
 ## 2022-05-12
 * Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
   * [ELSA-2022-2191 - gzip security update] (https://linux.oracle.com/errata/ELSA-2022-2191.html)
