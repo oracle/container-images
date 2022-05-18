@@ -1,5 +1,13 @@
 # Changelog
 
+## 2022-05-18
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2022-9358 - glibc security update] (https://linux.oracle.com/errata/ELSA-2022-9358.html)
+    * [CVE-2022-23219] (https://linux.oracle.com/cve/CVE-2022-23219.html)
+    * [CVE-2022-23218] (https://linux.oracle.com/cve/CVE-2022-23218.html)
+
+* <https://github.com/docker-library/official-images/pull/12458>
+
 ## 2022-05-17
 
 * Release Oracle Linux 8 Update 6 for `amd64` and `arm64v8`
