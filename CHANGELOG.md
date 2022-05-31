@@ -1,5 +1,16 @@
 # Changelog
 
+## 2022-05-31
+* Update `oraclelinux:7` for `amd64` and `arm64v8`:
+  * [ELSA-2022-4803 - rsyslog security update] (https://linux.oracle.com/errata/ELSA-2022-4803.html)
+    * [CVE-2022-24903] (https://linux.oracle.com/cve/CVE-2022-24903.html)
+
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2022-4799 - rsyslog security update] (https://linux.oracle.com/errata/ELSA-2022-4799.html)
+    * [CVE-2022-24903] (https://linux.oracle.com/cve/CVE-2022-24903.html)
+
+* <https://github.com/docker-library/official-images/pull/12554>
+
 ## 2022-05-18
 * Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
   * [ELSA-2022-9358 - glibc security update] (https://linux.oracle.com/errata/ELSA-2022-9358.html)
