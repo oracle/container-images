@@ -1,5 +1,18 @@
 # Changelog
 
+## 2022-06-30
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2022-5314 - expat security update] (https://linux.oracle.com/errata/ELSA-2022-5314.html)
+    * [CVE-2022-25313] (https://linux.oracle.com/cve/CVE-2022-25313.html)
+    * [CVE-2022-25314] (https://linux.oracle.com/cve/CVE-2022-25314.html)
+  * [ELSA-2022-5313 - curl security update] (https://linux.oracle.com/errata/ELSA-2022-5313.html)
+    * [CVE-2022-22576] (https://linux.oracle.com/cve/CVE-2022-22576.html)
+    * [CVE-2022-27774] (https://linux.oracle.com/cve/CVE-2022-27774.html)
+    * [CVE-2022-27776] (https://linux.oracle.com/cve/CVE-2022-27776.html)
+    * [CVE-2022-27782] (https://linux.oracle.com/cve/CVE-2022-27782.html)
+
+* <https://github.com/docker-library/official-images/pull/12719>
+
 ## 2022-06-15
 * Update `oraclelinux:7` for `amd64` and `arm64v8`:
   * [ELSA-2022-5052 - xz security update] (https://linux.oracle.com/errata/ELSA-2022-5052.html)
