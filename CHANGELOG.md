@@ -1,6 +1,24 @@
 # Changelog
 
 ## 2022-07-05
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2022-5235 - python security update] (https://linux.oracle.com/errata/ELSA-2022-5235.html)
+    * [CVE-2020-26116] (https://linux.oracle.com/cve/CVE-2020-26116.html)
+    * [CVE-2020-26137] (https://linux.oracle.com/cve/CVE-2020-26137.html)
+    * [CVE-2021-3177] (https://linux.oracle.com/cve/CVE-2021-3177.html)
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2022-5317 - libxml2 security update] (https://linux.oracle.com/errata/ELSA-2022-5317.html)
+    * [CVE-2022-29824] (https://linux.oracle.com/cve/CVE-2022-29824.html)
+  * [ELSA-2022-5311 - libgcrypt security update] (https://linux.oracle.com/errata/ELSA-2022-5311.html)
+    * [CVE-2021-40528] (https://linux.oracle.com/cve/CVE-2021-40528.html)
+  * [ELSA_2022-5319 - vim security update] (https://linux.oracle.com/errata/ELSA-2022-5319.html)
+    * [CVE-2022-1621] (https://linux.oracle.com/cve/CVE-2022-1621.html)
+    * [CVE-2022-1629] (https://linux.oracle.com/cve/CVE-2022-1629.html)
+
+* <https://github.com/docker-library/official-images/pull/12744>
+
+## 2022-07-05
 * Release Oracle Linux 9 for `amd64` and `arm64v8`
 * <https://github.com/docker-library/official-images/pull/12733>
 
