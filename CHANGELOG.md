@@ -1,5 +1,9 @@
 # Changelog
 
+## 2022-07-05
+* Release Oracle Linux 9 for `amd64` and `arm64v8`
+* <https://github.com/docker-library/official-images/pull/12733>
+
 ## 2022-06-30
 * Update `oraclelinux:8` for `amd64` and `arm64v8`:
   * [ELSA-2022-5314 - expat security update] (https://linux.oracle.com/errata/ELSA-2022-5314.html)
