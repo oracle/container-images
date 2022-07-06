@@ -1,5 +1,40 @@
 # Changelog
 
+## 2022-07-06
+* Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2022-5245 -  curl security update] (https://linux.oracle.com/errata/ELSA-2022-5245.html)
+    * [CVE-2022-22576] (https://linux.oracle.com/cve/CVE-2022-22576.html)
+    * [CVE-2022-27774] (https://linux.oracle.com/cve/CVE-2022-27774.html)
+    * [CVE-2022-27776] (https://linux.oracle.com/cve/CVE-2022-27776.html)
+    * [CVE-2022-27782] (https://linux.oracle.com/cve/CVE-2022-27782.html)
+  *[ELSA-2022-5244 -  expat security update] (https://linux.oracle.com/errata/ELSA-2022-5244.html)
+    * [CVE-2022-25313] (https://linux.oracle.com/cve/CVE-2022-25313.html)
+    * [CVE-2022-25314] (https://linux.oracle.com/cve/CVE-2022-25314.html)
+  *[ELSA-2022-4582 -  gzip security update] (https://linux.oracle.com/errata/ELSA-2022-4582.html)
+    * [CVE-2022-1271] (https://linux.oracle.com/cve/CVE-2022-1271.html)
+  *[ELSA-2022-5252 -  libarchive security update] (https://linux.oracle.com/errata/ELSA-2022-5252.html)
+    * [CVE-2022-26280] (https://linux.oracle.com/cve/CVE-2022-26280.html)
+  *[ELSA-2022-5250 -  libxml2 security update] (https://linux.oracle.com/errata/ELSA-2022-5250.html)
+    * [CVE-2022-29824] (https://linux.oracle.com/cve/CVE-2022-29824.html)
+  *[ELSA-2022-5251 -  pcre2 security update] (https://linux.oracle.com/errata/ELSA-2022-5251.html)
+    * [CVE-2022-1586] (https://linux.oracle.com/cve/CVE-2022-1586.html)
+    * [CVE-2022-1587] (https://linux.oracle.com/cve/CVE-2022-1587.html)
+  *[ELSA-2022-4795 -  rsyslog security update] (https://linux.oracle.com/errata/ELSA-2022-4795.html)
+    * [CVE-2022-24903] (https://linux.oracle.com/cve/none.html)
+  *[ELSA-2022-5242 -  vim security update] (https://linux.oracle.com/errata/ELSA-2022-5242.html)
+    * [CVE-2022-0554] (https://linux.oracle.com/cve/CVE-2022-0554.html)
+    * [CVE-2022-0943] (https://linux.oracle.com/cve/CVE-2022-0943.html)
+    * [CVE-2022-1154] (https://linux.oracle.com/cve/CVE-2022-1154.html)
+    * [CVE-2022-1420] (https://linux.oracle.com/cve/CVE-2022-1420.html)
+    * [CVE-2022-1621] (https://linux.oracle.com/cve/CVE-2022-1621.html)
+    * [CVE-2022-1629] (https://linux.oracle.com/cve/CVE-2022-1629.html)
+  *[ELSA-2022-4940 -  xz security update] (https://linux.oracle.com/errata/ELSA-2022-4940.html)
+    * [CVE-2022-1271] (https://linux.oracle.com/cve/CVE-2022-1271.html)
+  *[ELSA-2022-4584 -  zlib security update] (https://linux.oracle.com/errata/ELSA-2022-4584.html)
+    * [CVE-2018-25032] (https://linux.oracle.com/cve/CVE-2018-25032.html)
+
+* <https://github.com/docker-library/official-images/pull/12752>
+
 ## 2022-07-05
 * Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
   * [ELSA-2022-5235 - python security update] (https://linux.oracle.com/errata/ELSA-2022-5235.html)
