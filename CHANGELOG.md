@@ -1,5 +1,12 @@
 # Changelog
 
+## 2022-08-30
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2022-6206 -  systemd security update] (https://linux.oracle.com/errata/ELSA-2022-6206.html)
+    * [CVE-2022-2526] (https://linux.oracle.com/cve/CVE-2022-2526.html)
+
+* <https://github.com/docker-library/official-images/pull/13070>
+
 ## 2022-08-26
 * Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
   *[ELSA-2022-6157 -  curl security update] (https://linux.oracle.com/errata/ELSA-2022-6157.html)
