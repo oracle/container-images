@@ -1,4 +1,14 @@
 # Changelog
+## 2022-09-14
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  *[ELBA-2022-6459 - ca-certificates bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2022-6459.html)
+  *[ELSA-2022-6463 -  gnupg2 security update](https://linux.oracle.com/errata/ELSA-2022-6463.html)
+    * [CVE-2022-34903](https://linux.oracle.com/cve/CVE-2022-34903.html)
+  *[ELSA-2022-6457 -  python3 security update](https://linux.oracle.com/errata/ELSA-2022-6457.html)
+    * [CVE-2015-20107](https://linux.oracle.com/cve/CVE-2015-20107.html)
+    * [CVE-2022-0391](https://linux.oracle.com/cve/CVE-2022-0391.html)
+
+* <https://github.com/docker-library/official-images/pull/13148>
 
 ## 2022-08-31
 * Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
