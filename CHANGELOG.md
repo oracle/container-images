@@ -1,4 +1,10 @@
 # Changelog
+## 2022-09-22
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  *[ELBA-2022-6572 - ca-certificates bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2022-6572.html)
+
+* <https://github.com/docker-library/official-images/pull/13202>
+
 ## 2022-09-14
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
   *[ELBA-2022-6459 - ca-certificates bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2022-6459.html)
