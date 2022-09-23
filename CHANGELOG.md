@@ -1,4 +1,15 @@
 # Changelog
+## 2022-09-23
+* Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+  *[ELBA-2022-6597 - ca-certificates bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2022-6597.html)
+  *[ELSA-2022-6602 -  gnupg2 security update](https://linux.oracle.com/errata/ELSA-2022-6602.html)
+    * [CVE-2022-34903](https://linux.oracle.com/cve/CVE-2022-34903.html)
+  *[ELSA-2022-6608 -  dbus-broker security update](https://linux.oracle.com/errata/ELSA-2022-6608.html)
+    * [CVE-2022-31212](https://linux.oracle.com/cve/CVE-2022-31212.html)
+    * [CVE-2022-31213](https://linux.oracle.com/cve/CVE-2022-31213.html)
+
+* <https://github.com/docker-library/official-images/pull/13212>
+
 ## 2022-09-22
 * Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
   *[ELBA-2022-6572 - ca-certificates bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2022-6572.html)
