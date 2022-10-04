@@ -1,4 +1,12 @@
 # Changelog
+## 2022-10-03
+* Update `oraclelinux:7` for `amd64` and `arm64v8`:
+  *[ELSA-2022-6765 -  bind security update](https://linux.oracle.com/errata/ELSA-2022-6765.html)
+    * [CVE-2022-38177](https://linux.oracle.com/cve/CVE-2022-38177.html)
+    * [CVE-2022-38178](https://linux.oracle.com/cve/CVE-2022-38178.html)
+
+* <https://github.com/docker-library/official-images/pull/13280>
+
 ## 2022-09-23
 * Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
   *[ELBA-2022-6597 - ca-certificates bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2022-6597.html)
