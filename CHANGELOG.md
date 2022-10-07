@@ -1,4 +1,24 @@
 # Changelog
+
+## 2022-10-07
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2022-6778 -  bind security update](https://linux.oracle.com/errata/ELSA-2022-6778.html)
+    * [CVE-2022-38177](https://linux.oracle.com/cve/CVE-2022-38177.html)
+    * [CVE-2022-38178](https://linux.oracle.com/cve/CVE-2022-38178.html)
+
+* Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2022-6838 -  expat security update](https://linux.oracle.com/errata/ELSA-2022-6838.html)
+    * [CVE-2022-40674](https://linux.oracle.com/cve/CVE-2022-40674.html)
+
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2022-6834 -  expat security update](https://linux.oracle.com/errata/ELSA-2022-6834.html)
+    * [CVE-2022-40674](https://linux.oracle.com/cve/CVE-2022-40674.html)
+
+* Republish all images for `tzdata-2022d-1`:
+  * OL7, OL8, OL9: <https://linux.oracle.com/errata/ELBA-2022-6827.html>
+
+* <https://github.com/docker-library/official-images/pull/13302>
+
 ## 2022-10-03
 * Update `oraclelinux:7` for `amd64` and `arm64v8`:
   *[ELSA-2022-6765 -  bind security update](https://linux.oracle.com/errata/ELSA-2022-6765.html)
