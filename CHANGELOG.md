@@ -1,4 +1,13 @@
 # Changelog
+## 2022-10-12
+* Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2022-6854 -  gnutls and nettle security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2022-6854.html)
+    * [CVE-2022-2509](https://linux.oracle.com/cve/CVE-2022-2509.html)
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2022-6878 -  expat security update](https://linux.oracle.com/errata/ELSA-2022-6878.html)
+    * [CVE-2022-40674](https://linux.oracle.com/cve/CVE-2022-40674.html)
+
+* <https://github.com/docker-library/official-images/pull/13323>
 
 ## 2022-10-07
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
