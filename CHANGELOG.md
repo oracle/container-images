@@ -1,4 +1,10 @@
 # Changelog
+## 2022-10-21
+* Republish all images for `tzdata-2022e-1`:
+  * OL7, OL8, OL9: <https://linux.oracle.com/errata/ELBA-2022-7067.html>
+
+* <https://github.com/docker-library/official-images/pull/13385>
+
 ## 2022-10-12
 * Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
   *[ELSA-2022-6854 -  gnutls and nettle security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2022-6854.html)
