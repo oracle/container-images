@@ -1,4 +1,27 @@
 # Changelog
+
+## 2022-10-26
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2022-7108 -  sqlite security update](https://linux.oracle.com/errata/ELSA-2022-7108.html)
+    * [CVE-2020-35525](https://linux.oracle.com/cve/CVE-2020-35525.html)
+    * [CVE-2020-35527](https://linux.oracle.com/cve/CVE-2020-35527.html)
+  *[ELSA-2022-7105 -  gnutls security update](https://linux.oracle.com/errata/ELSA-2022-7105.html)
+    * [CVE-2022-2509](https://linux.oracle.com/cve/CVE-2022-2509.html)
+  *[ELSA-2022-7106 -  zlib security update](https://linux.oracle.com/errata/ELSA-2022-7106.html)
+    * [CVE-2022-37434](https://linux.oracle.com/cve/CVE-2022-37434.html)
+  *[ELSA-2022-7192 -  device-mapper-multipath security update](https://linux.oracle.com/errata/ELSA-2022-7192.html)
+    * [CVE-2022-41974](https://linux.oracle.com/cve/CVE-2022-41974.html)
+  *[ELSA-2022-7089 -  libksba security update](https://linux.oracle.com/errata/ELSA-2022-7089.html)
+    * [CVE-2022-3515](https://linux.oracle.com/cve/CVE-2022-3515.html)
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2022-7186 -  device-mapper-multipath security update](https://linux.oracle.com/errata/ELSA-2022-7186.html)
+    * [CVE-2022-41974](https://linux.oracle.com/cve/CVE-2022-41974.html)
+* Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2022-7090 -  libksba security update](https://linux.oracle.com/errata/ELSA-2022-7090.html)
+    * [CVE-2022-3515](https://linux.oracle.com/cve/CVE-2022-3515.html)
+
+* <https://github.com/docker-library/official-images/pull/13419>
+
 ## 2022-10-21
 * Republish all images for `tzdata-2022e-1`:
   * OL7, OL8, OL9: <https://linux.oracle.com/errata/ELBA-2022-7067.html>
