@@ -1,4 +1,10 @@
 # Changelog
+## 2022-11-04
+* Republish all images for `tzdata-2022f-1`:
+  * OL7, OL8, OL9: <https://linux.oracle.com/errata/ELBA-2022-7404.html>
+
+* <https://github.com/docker-library/official-images/pull/13480>
+
 ## 2022-11-02
 * Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
   *[ELSA-2022-7329 -  lua security update](https://linux.oracle.com/errata/ELSA-2022-7329.html)
