@@ -1,4 +1,11 @@
 # Changelog
+## 2022-11-15
+* Release Oracle Linux 8 Update 7 for `amd64` and `arm64v8`
+  * Shift `oraclelinux:8` to point to `oraclelinux:8.7`
+  * Update `oraclelinux:8-slim` to Update 7
+
+* <https://github.com/docker-library/official-images/pull/13537>
+
 ## 2022-11-04
 * Republish all images for `tzdata-2022f-1`:
   * OL7, OL8, OL9: <https://linux.oracle.com/errata/ELBA-2022-7404.html>
