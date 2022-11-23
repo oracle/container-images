@@ -1,4 +1,11 @@
 # Changelog
+## 2022-11-23
+* Release Oracle Linux 9 Update 1 for `amd64` and `arm64v8`:
+  * Update `oraclelinux:9` to Update 1
+  * Update `oraclelinux:9-slim` to Update 1
+
+* <https://github.com/docker-library/official-images/pull/13585>
+
 ## 2022-11-15
 * Release Oracle Linux 8 Update 7 for `amd64` and `arm64v8`
   * Shift `oraclelinux:8` to point to `oraclelinux:8.7`
