@@ -1,4 +1,25 @@
 # Changelog
+## 2022-11-29
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2022-8640 - krb5 security update](https://linux.oracle.com/errata/ELSA-2022-8640.html)
+    * [CVE-2022-42898](https://linux.oracle.com/cve/CVE-2022-42898.html)
+  *[ELSA-2022-9987 - zlib security update] (https://linux.oracle.com/errata/ELSA-2022-9987.html) 
+    * [CVE-2022-37434](https://linux.oracle.com/cve/CVE-2022-37434.html)
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2022-8638 - krb5 security update](https://linux.oracle.com/errata/ELSA-2022-8638.html)
+    * [CVE-2022-42898](https://linux.oracle.com/cve/CVE-2022-42898.html)
+
+* Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+  *[ELBA-2022-8447 - tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2022-8447.html)
+  *[ELBA-2022-8499 - tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2022-8499.html)
+  *[ELSA-2022-8493 - python3.9 security update](https://linux.oracle.com/errata/ELSA-2022-8493.html)
+    * [CVE-2022-42919](https://linux.oracle.com/cve/CVE-2022-42919.html)
+  *[ELSA-2022-8637 - krb5 security update](https://linux.oracle.com/errata/ELSA-2022-8637.html)
+    * [CVE-2022-42898](https://linux.oracle.com/cve/CVE-2022-42898.html)
+
+* <https://github.com/docker-library/official-images/pull/13612>
+
 ## 2022-11-23
 * Release Oracle Linux 9 Update 1 for `amd64` and `arm64v8`:
   * Update `oraclelinux:9` to Update 1
