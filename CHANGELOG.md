@@ -1,4 +1,10 @@
 # Changelog
+## 2022-12-06
+* Republish all images for `tzdata-2022g-1`:
+  * OL7, OL8, OL9: <https://linux.oracle.com/errata/ELBA-2022-8785.html>
+
+* <https://github.com/docker-library/official-images/pull/13676>
+
 ## 2022-11-29
 * Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
   *[ELSA-2022-8640 - krb5 security update](https://linux.oracle.com/errata/ELSA-2022-8640.html)
