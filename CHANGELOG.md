@@ -1,4 +1,24 @@
 # Changelog
+## 2023-01-17
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-0116 -  libtasn1 security update](https://linux.oracle.com/errata/ELSA-2023-0116.html)
+    * [CVE-2021-46848](https://linux.oracle.com/cve/CVE-2021-46848.html)
+  *[ELSA-2023-0110 -  sqlite security update](https://linux.oracle.com/errata/ELSA-2023-0110.html)
+    * [CVE-2022-35737](https://linux.oracle.com/cve/CVE-2022-35737.html)
+  *[ELSA-2023-0103 -  expat security update](https://linux.oracle.com/errata/ELSA-2023-0103.html)
+    * [CVE-2022-43680](https://linux.oracle.com/cve/CVE-2022-43680.html)
+  *[ELSA-2023-0096 -  dbus security update](https://linux.oracle.com/errata/ELSA-2023-0096.html)
+    * [CVE-2022-42010](https://linux.oracle.com/cve/CVE-2022-42010.html)
+    * [CVE-2022-42011](https://linux.oracle.com/cve/CVE-2022-42011.html)
+    * [CVE-2022-42012](https://linux.oracle.com/cve/CVE-2022-42012.html)
+  *[ELSA-2023-0100 -  systemd security and bug fix update](https://linux.oracle.com/errata/ELSA-2023-0100.html)
+    * [CVE-2022-3821](https://linux.oracle.com/cve/CVE-2022-3821.html)
+  *[ELSA-2023-0173 -  libxml2 security update](https://linux.oracle.com/errata/ELSA-2023-0173.html)
+    * [CVE-2022-40303](https://linux.oracle.com/cve/CVE-2022-40303.html)
+    * [CVE-2022-40304](https://linux.oracle.com/cve/CVE-2022-40304.html)
+
+* <https://github.com/docker-library/official-images/pull/13906>
+
 ## 2022-12-06
 * Republish all images for `tzdata-2022g-1`:
   * OL7, OL8, OL9: <https://linux.oracle.com/errata/ELBA-2022-8785.html>
