@@ -1,4 +1,33 @@
 # Changelog
+## 2023-01-27
+* Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-0340 -  bash security update](https://linux.oracle.com/errata/ELSA-2023-0340.html)
+    * [CVE-2022-3715](https://linux.oracle.com/cve/CVE-2022-3715.html)
+  *[ELSA-2023-0339 -  sqlite security update](https://linux.oracle.com/errata/ELSA-2023-0339.html)
+    * [CVE-2022-35737](https://linux.oracle.com/cve/CVE-2022-35737.html)
+  *[ELSA-2023-0335 -  dbus security update](https://linux.oracle.com/errata/ELSA-2023-0335.html)
+    * [CVE-2022-42010](https://linux.oracle.com/cve/CVE-2022-42010.html)
+    * [CVE-2022-42011](https://linux.oracle.com/cve/CVE-2022-42011.html)
+    * [CVE-2022-42012](https://linux.oracle.com/cve/CVE-2022-42012.html)
+  *[ELSA-2023-0338 -  libxml2 security update](https://linux.oracle.com/errata/ELSA-2023-0338.html)
+    * [CVE-2022-40303](https://linux.oracle.com/cve/CVE-2022-40303.html)
+    * [CVE-2022-40304](https://linux.oracle.com/cve/CVE-2022-40304.html)
+  *[ELSA-2023-0337 -  expat security update](https://linux.oracle.com/errata/ELSA-2023-0337.html)
+    * [CVE-2022-43680](https://linux.oracle.com/cve/CVE-2022-43680.html)
+  *[ELSA-2023-0333 -  curl security update](https://linux.oracle.com/errata/ELSA-2023-0333.html)
+    * [CVE-2022-32221](https://linux.oracle.com/cve/CVE-2022-32221.html)
+  *[ELSA-2023-0343 -  libtasn1 security update](https://linux.oracle.com/errata/ELSA-2023-0343.html)
+    * [CVE-2021-46848](https://linux.oracle.com/cve/CVE-2021-46848.html)
+  *[ELSA-2023-0336 -  systemd security update](https://linux.oracle.com/errata/ELSA-2023-0336.html)
+    * [CVE-2022-3821](https://linux.oracle.com/cve/CVE-2022-3821.html)
+
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-0402 -  bind security update](https://linux.oracle.com/errata/ELSA-2023-0402.html)
+    * [CVE-2021-25220](https://linux.oracle.com/cve/CVE-2021-25220.html)
+    * [CVE-2022-2795](https://linux.oracle.com/cve/CVE-2022-2795.html)
+
+* <https://github.com/docker-library/official-images/pull/13955>
+
 ## 2023-01-17
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
   *[ELSA-2023-0116 -  libtasn1 security update](https://linux.oracle.com/errata/ELSA-2023-0116.html)
