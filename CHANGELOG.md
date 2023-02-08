@@ -1,4 +1,14 @@
 # Changelog
+## 2023-02-08
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-0625 -  libksba security update](https://linux.oracle.com/errata/ELSA-2023-0625.html)
+    * [CVE-2022-47629](https://linux.oracle.com/cve/CVE-2022-47629.html)
+* Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-0626 -  libksba security update](https://linux.oracle.com/errata/ELSA-2023-0626.html)
+    * [CVE-2022-47629](https://linux.oracle.com/cve/CVE-2022-47629.html)
+
+* <https://github.com/docker-library/official-images/pull/14043>
+
 ## 2023-01-27
 * Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
   *[ELSA-2023-0340 -  bash security update](https://linux.oracle.com/errata/ELSA-2023-0340.html)
