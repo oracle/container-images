@@ -1,4 +1,17 @@
 # Changelog
+## 2023-02-23
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-0835 -  python-setuptools security update](https://linux.oracle.com/errata/ELSA-2023-0835.html)
+    * [CVE-2022-40897](https://linux.oracle.com/cve/CVE-2022-40897.html)
+  *[ELSA-2023-0837 -  systemd security and bug fix update](https://linux.oracle.com/errata/ELSA-2023-0837.html)
+    * [CVE-2022-4415](https://linux.oracle.com/cve/CVE-2022-4415.html)
+  *[ELSA-2023-0833 -  python3 security update](https://linux.oracle.com/errata/ELSA-2023-0833.html)
+    * [CVE-2020-10735](https://linux.oracle.com/cve/CVE-2020-10735.html)
+    * [CVE-2021-28861](https://linux.oracle.com/cve/CVE-2021-28861.html)
+    * [CVE-2022-45061](https://linux.oracle.com/cve/CVE-2022-45061.html)
+
+* <https://github.com/docker-library/official-images/pull/14142>
+
 ## 2023-02-08
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
   *[ELSA-2023-0625 -  libksba security update](https://linux.oracle.com/errata/ELSA-2023-0625.html)
