@@ -1,4 +1,30 @@
 # Changelog
+## 2023-03-01
+* Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-0952 -  python-setuptools security update](https://linux.oracle.com/errata/ELSA-2023-0952.html)
+    * [CVE-2022-40897](https://linux.oracle.com/cve/CVE-2022-40897.html)
+  *[ELSA-2023-0957 -  lua security update](https://linux.oracle.com/errata/ELSA-2023-0957.html)
+    * [CVE-2021-43519](https://linux.oracle.com/cve/CVE-2021-43519.html)
+    * [CVE-2021-44964](https://linux.oracle.com/cve/CVE-2021-44964.html)
+  *[ELSA-2023-0953 -  python3.9 security update](https://linux.oracle.com/errata/ELSA-2023-0953.html)
+    * [CVE-2022-45061](https://linux.oracle.com/cve/CVE-2022-45061.html)
+  *[ELSA-2023-0946 -  openssl security and bug fix update](https://linux.oracle.com/errata/ELSA-2023-0946.html)
+    * [CVE-2022-4203](https://linux.oracle.com/cve/CVE-2022-4203.html)
+    * [CVE-2022-4304](https://linux.oracle.com/cve/CVE-2022-4304.html)
+    * [CVE-2022-4450](https://linux.oracle.com/cve/CVE-2022-4450.html)
+    * [CVE-2023-0215](https://linux.oracle.com/cve/CVE-2023-0215.html)
+    * [CVE-2023-0216](https://linux.oracle.com/cve/CVE-2023-0216.html)
+    * [CVE-2023-0217](https://linux.oracle.com/cve/CVE-2023-0217.html)
+    * [CVE-2023-0286](https://linux.oracle.com/cve/CVE-2023-0286.html)
+    * [CVE-2023-0401](https://linux.oracle.com/cve/CVE-2023-0401.html)
+  *[ELSA-2023-0958 -  vim security update](https://linux.oracle.com/errata/ELSA-2023-0958.html)
+    * [CVE-2022-47024](https://linux.oracle.com/cve/CVE-2022-47024.html)
+  *[ELSA-2023-0954 -  systemd security update](https://linux.oracle.com/errata/ELSA-2023-0954.html)
+    * [CVE-2022-4415](https://linux.oracle.com/cve/CVE-2022-4415.html)
+    * [CVE-2022-45873](https://linux.oracle.com/cve/CVE-2022-45873.html)
+
+* <https://github.com/docker-library/official-images/pull/14171>
+
 ## 2023-02-23
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
   *[ELSA-2023-0835 -  python-setuptools security update](https://linux.oracle.com/errata/ELSA-2023-0835.html)
