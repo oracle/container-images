@@ -1,4 +1,13 @@
 # Changelog
+## 2023-03-21
+* Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-1332 -  nss security update](https://linux.oracle.com/errata/ELSA-2023-1332.html)
+    * [CVE-2023-0767](https://linux.oracle.com/cve/CVE-2023-0767.html)
+  *[ELSA-2023-1335 -  openssl security update](https://linux.oracle.com/errata/ELSA-2023-1335.html)
+    * [CVE-2023-0286](https://linux.oracle.com/cve/CVE-2023-0286.html)
+
+* <https://github.com/docker-library/official-images/pull/14297>
+
 ## 2023-03-08
 * Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
   *[ELSA-2023-1095 -  zlib security update](https://linux.oracle.com/errata/ELSA-2023-1095.html)
