@@ -1,4 +1,10 @@
 # Changelog
+## 2023-03-28
+* Republish all images for `tzdata-2023b-1`:
+  * OL7, OL8, OL9: <https://linux.oracle.com/errata/ELBA-2023-1491.html>
+
+* <https://github.com/docker-library/official-images/pull/14360>
+
 ## 2023-03-22
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
   *[ELSA-2023-1405 -  openssl security update](https://linux.oracle.com/errata/ELSA-2023-1405.html)
