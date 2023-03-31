@@ -1,4 +1,10 @@
 # Changelog
+## 2023-03-31
+* Republish all images for `tzdata-2023c-1`:
+  * OL7, OL8, OL9: <https://linux.oracle.com/errata/ELBA-2023-1534.html>
+
+* <https://github.com/docker-library/official-images/pull/14380>
+
 ## 2023-03-28
 * Republish all images for `tzdata-2023b-1`:
   * OL7, OL8, OL9: <https://linux.oracle.com/errata/ELBA-2023-1491.html>
