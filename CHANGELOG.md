@@ -1,4 +1,11 @@
 # Changelog
+## 2023-04-06
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-1569 -  gnutls security and bug fix update](https://linux.oracle.com/errata/ELSA-2023-1569.html)
+    * [CVE-2023-0361](https://linux.oracle.com/cve/CVE-2023-0361.html)
+
+* <https://github.com/docker-library/official-images/pull/14415>
+
 ## 2023-03-31
 * Republish all images for `tzdata-2023c-1`:
   * OL7, OL8, OL9: <https://linux.oracle.com/errata/ELBA-2023-1534.html>
