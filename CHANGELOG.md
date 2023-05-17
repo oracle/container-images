@@ -1,4 +1,11 @@
 # Changelog
+## 2023-05-17
+* Release Oracle Linux 9 Update 2 for `amd64` and `arm64v8`:
+  * Update `oraclelinux:9` to Update 2
+  * Update `oraclelinux:9-slim` to Update 2
+
+* <https://github.com/docker-library/official-images/pull/14684>
+
 ## 2023-04-11
 * Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
   *[ELSA-2023-1701 -  curl security update](https://linux.oracle.com/errata/ELSA-2023-1701.html)
