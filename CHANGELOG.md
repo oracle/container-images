@@ -3,6 +3,8 @@
 * Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
   *[ELSA-2023-2650 - curl security update](https://linux.oracle.com/errata/ELSA-2023-2650.html)
     * [CVE-2023-27535](https://linux.oracle.com/cve/CVE-2023-27535.html)
+  *[ELSA-2023-2645 - openssh security update](https://linux.oracle.com/errata/ELSA-2023-2645.html)
+    * [CVE-2023-25136](https://linux.oracle.com/cve/CVE-2023-25136.html)
 
 * <https://github.com/docker-library/official-images/pull/14698>
 
