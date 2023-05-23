@@ -1,4 +1,9 @@
 # Changelog
+## 2023-05-23
+* Create `oraclelinux:7-slim-fips` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`.
+
+* <https://github.com/docker-library/official-images/pull/14715>
+
 ## 2023-05-19
 * Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
   *[ELSA-2023-2650 - curl security update](https://linux.oracle.com/errata/ELSA-2023-2650.html)
