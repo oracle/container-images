@@ -1,5 +1,12 @@
 # Changelog
 ## 2023-05-23
+* Release Oracle Linux 8 Update 8 for `amd64` and `arm64v8`:
+  * Update `oraclelinux:8` to Update 8
+  * Update `oraclelinux:8-slim` to Update 8
+
+* <https://github.com/docker-library/official-images/pull/14718>
+
+## 2023-05-23
 * Create `oraclelinux:7-slim-fips` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`.
 
 * <https://github.com/docker-library/official-images/pull/14715>
