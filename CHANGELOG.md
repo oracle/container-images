@@ -1,4 +1,11 @@
 # Changelog
+## 2023-06-02
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-3106 - curl security update](https://linux.oracle.com/errata/ELSA-2023-3106.html)
+    * [CVE-2023-27535](https://linux.oracle.com/cve/CVE-2023-27535.html)
+
+* <https://github.com/docker-library/official-images/pull/14776>
+
 ## 2023-05-23
 * Release Oracle Linux 8 Update 8 for `amd64` and `arm64v8`:
   * Update `oraclelinux:8` to Update 8
