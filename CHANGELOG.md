@@ -1,4 +1,15 @@
 # Changelog
+## 2023-06-15
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  *[ELSA-2023-3595 - python3.9 security update](https://linux.oracle.com/errata/ELSA-2023-3595.html)
+    * [CVE-2023-24329](https://linux.oracle.com/cve/CVE-2023-24329.html)
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-3591 - python3 security update](https://linux.oracle.com/errata/ELSA-2023-3591.html)
+    * [CVE-2023-24329](https://linux.oracle.com/cve/CVE-2023-24329.html)
+
+* <https://github.com/docker-library/official-images/pull/14869>
+
 ## 2023-06-13
 * Update `oraclelinux:7` and `oraclelinux:7-slim` for `amd64` and `arm64v8`:
   *[ELSA-2023-3555 - python security update](https://linux.oracle.com/errata/ELSA-2023-3555.html)
