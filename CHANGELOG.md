@@ -1,4 +1,16 @@
 # Changelog
+## 2023-07-21
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-4102 - bind security update](https://linux.oracle.com/errata/ELSA-2023-4102.html)
+    * [CVE-2023-2828](https://linux.oracle.com/cve/CVE-2023-2828.html)
+  *[ELSA-2023-3837 - systemd security and bug fix update](https://linux.oracle.com/errata/ELSA-2023-3837.html)
+    * [CVE-2023-26604](https://linux.oracle.com/cve/CVE-2023-26604.html)
+* Update `oraclelinux:7` for `amd64` and `arm64v8`:
+  *[ELSA-2023-4152 - bind security update](https://linux.oracle.com/errata/ELSA-2023-4152.html)
+    * [CVE-2023-2828](https://linux.oracle.com/cve/CVE-2023-2828.html)
+
+* <https://github.com/docker-library/official-images/pull/15073>
+
 ## 2023-07-03
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
   *[ELSA-2023-3840 - sqlite security update](https://linux.oracle.com/errata/ELSA-2023-3840.html)
