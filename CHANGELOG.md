@@ -1,4 +1,25 @@
 # Changelog
+## 2023-08-04
+* Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-4347 - libeconf security update](https://linux.oracle.com/errata/ELSA-2023-4347.html)
+    * [CVE-2023-22652](https://linux.oracle.com/cve/CVE-2023-22652.html)
+  *[ELSA-2023-4349 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2023-4349.html)
+    * [CVE-2023-28484](https://linux.oracle.com/cve/CVE-2023-28484.html)
+    * [CVE-2023-29469](https://linux.oracle.com/cve/CVE-2023-29469.html)
+  *[ELSA-2023-4412 - openssh security update](https://linux.oracle.com/errata/ELSA-2023-4412.html)
+    * [CVE-2023-38408](https://linux.oracle.com/cve/CVE-2023-38408.html)
+  *[ELSA-2023-4354 - curl security update](https://linux.oracle.com/errata/ELSA-2023-4354.html)
+    * [CVE-2023-28321](https://linux.oracle.com/cve/CVE-2023-28321.html)
+    * [CVE-2023-28322](https://linux.oracle.com/cve/CVE-2023-28322.html)
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  *[ELSA-2023-4419 - openssh security update](https://linux.oracle.com/errata/ELSA-2023-4419.html)
+    * [CVE-2023-38408](https://linux.oracle.com/cve/CVE-2023-38408.html)
+* Update `oraclelinux:7` for `amd64` and `arm64v8`:
+  *[ELSA-2023-4382 - openssh security update](https://linux.oracle.com/errata/ELSA-2023-4382.html)
+    * [CVE-2023-38408](https://linux.oracle.com/cve/CVE-2023-38408.html)
+
+* <https://github.com/docker-library/official-images/pull/15151>
+
 ## 2023-07-21
 * Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
   *[ELSA-2023-4102 - bind security update](https://linux.oracle.com/errata/ELSA-2023-4102.html)
