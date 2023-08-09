@@ -1,4 +1,10 @@
 # Changelog
+## 2023-08-09
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  * Rebuilt to remove a pre-release errata package.
+
+* <https://github.com/docker-library/official-images/pull/15170>
+
 ## 2023-08-04
 * Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
   *[ELSA-2023-4347 - libeconf security update](https://linux.oracle.com/errata/ELSA-2023-4347.html)
