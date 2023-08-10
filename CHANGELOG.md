@@ -1,4 +1,23 @@
 # Changelog
+## 2023-08-10
+* Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-4569 - dbus security update](https://linux.oracle.com/errata/ELSA-2023-4569.html)
+    * [CVE-2023-34969](https://linux.oracle.com/cve/CVE-2023-34969.html)
+* Update `oraclelinux:8` and `oraclelinux:8-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-4523 - curl security update](https://linux.oracle.com/errata/ELSA-2023-4523.html)
+    * [CVE-2023-27536](https://linux.oracle.com/cve/CVE-2023-27536.html)
+    * [CVE-2023-28321](https://linux.oracle.com/cve/CVE-2023-28321.html)
+  *[ELSA-2023-4524 - libcap security update](https://linux.oracle.com/errata/ELSA-2023-4524.html)
+    * [CVE-2023-2602](https://linux.oracle.com/cve/CVE-2023-2602.html)
+    * [CVE-2023-2603](https://linux.oracle.com/cve/CVE-2023-2603.html)
+  *[ELSA-2023-4529 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2023-4529.html)
+    * [CVE-2023-28484](https://linux.oracle.com/cve/CVE-2023-28484.html)
+    * [CVE-2023-29469](https://linux.oracle.com/cve/CVE-2023-29469.html)
+  *[ELSA-2023-4498 - dbus security update](https://linux.oracle.com/errata/ELSA-2023-4498.html)
+    * [CVE-2023-34969](https://linux.oracle.com/cve/CVE-2023-34969.html)
+
+* <https://github.com/docker-library/official-images/pull/15175>
+
 ## 2023-08-09
 * Update `oraclelinux:9` for `amd64` and `arm64v8`:
   * Rebuilt to remove a pre-release errata package.
