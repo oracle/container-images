@@ -1,4 +1,10 @@
 # Changelog
+## 2023-08-11
+* Update `oraclelinux:7-slim-fips` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * Incorporates latest errata.
+
+* <https://github.com/docker-library/official-images/pull/15187>
+
 ## 2023-08-10
 * Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
   *[ELSA-2023-4569 - dbus security update](https://linux.oracle.com/errata/ELSA-2023-4569.html)
