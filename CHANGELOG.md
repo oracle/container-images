@@ -1,4 +1,16 @@
 # Changelog
+## 2023-09-15
+* Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  *[ELSA-2023-12788 - ](https://linux.oracle.com/errata/ELSA-2023-12788.html)
+* Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-5071 - libcap security update](https://linux.oracle.com/errata/ELSA-2023-5071.html)
+    * [CVE-2023-2602](https://linux.oracle.com/cve/CVE-2023-2602.html)
+    * [CVE-2023-2603](https://linux.oracle.com/cve/CVE-2023-2603.html)
+* Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+  *[ELBA-2023-5063 - ca-certificates bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2023-5063.html)
+
+* <https://github.com/docker-library/official-images/pull/15376>
+
 ## 2023-08-11
 * Update `oraclelinux:7-slim-fips` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * Incorporates latest errata.
