@@ -1,4 +1,13 @@
 # Changelog
+## 2023-09-21
+* Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  *[ELSA-2023-5249 - ncurses security update](https://linux.oracle.com/errata/ELSA-2023-5249.html)
+    * [CVE-2023-29491](https://linux.oracle.com/cve/CVE-2023-29491.html)
+  *[ELBA-2023-5248 - ](https://linux.oracle.com/errata/ELBA-2023-5248.html)
+    * ca-certificates Update to CKBI 2.60_v7.0.306
+
+* <https://github.com/docker-library/official-images/pull/15414>
+
 ## 2023-09-15
 * Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   *[ELSA-2023-12788 - ](https://linux.oracle.com/errata/ELSA-2023-12788.html)
