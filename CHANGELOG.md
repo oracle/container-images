@@ -1,4 +1,19 @@
 # Changelog
+## 2023-10-11
+* Update `oraclelinux:7`, `oraclelinux:7-slim` and `oraclelinux:7-slim-fips` for `amd64` and `arm64v8`:
+  *[ELSA-2023-5615 - Moderate: libssh2 security update](https://linux.oracle.com/errata/ELSA-2023-5616.html)
+    * [CVE-2020-22218](https://linux.oracle.com/cve/CVE-2020-22218.html)
+  *[ELBA-2023-5623 - ca-certificates bug fix update](https://linux.oracle.com/errata/ELBA-2023-5623.html)
+
+* Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  *[ELSA-2023-5474 - Important: bind security update](https://linux.oracle.com/errata/ELSA-2023-5474.html)
+    * [CVE-2023-3341](https://linux.oracle.com/cve/CVE-2023-3341.html)
+  *[ELSA-2023-5455 - Important: glibc security update](https://linux.oracle.com/errata/ELSA-2023-5455.html)
+    * [CVE-2023-4527](https://linux.oracle.com/cve/CVE-2023-4527.html)
+    * [CVE-2023-4806](https://linux.oracle.com/cve/CVE-2023-4806.html)
+    * [CVE-2023-4813](https://linux.oracle.com/cve/CVE-2023-4813.html)
+    * [CVE-2023-4911](https://linux.oracle.com/cve/CVE-2023-4911.html)
+
 ## 2023-09-21
 * Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   *[ELSA-2023-5249 - ncurses security update](https://linux.oracle.com/errata/ELSA-2023-5249.html)
