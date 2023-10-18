@@ -62,6 +62,14 @@ We provide sample Dockerfiles for several Oracle products in the
 GitHub. Many of these images are also available for direct download from
 the [Oracle Container Registry](https://container-registry.oracle.com).
 
+## Contributing
+
+This project welcomes contributions from the community. Before submitting a pull request, please [review our contribution guide](./CONTRIBUTING.md)
+
+## Security
+
+Please consult the [security guide](./SECURITY.md) for our responsible security vulnerability disclosure process
+
 ## License
 
 Oracle Linux is released under the GPLv2. See the ```LICENSE``` file in this
