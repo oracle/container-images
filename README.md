@@ -72,7 +72,7 @@ Please consult the [security guide](./SECURITY.md) for our responsible security 
 
 ## License
 
-Oracle Linux is released under the GPLv2. See the ```LICENSE``` file in this
+Released under the GPLv2. See the [LICENSE.txt](./LICENSE.txt) file in this
 repository for more information.
 
 ## Support
