@@ -1,14 +1,77 @@
 # Changelog
+## 2023-12-20-2023
+* Update `oraclelinux:8`, `oraclelinux:8-slim`, `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  *[ELSA-2023-7877 - openssl security update](https://linux.oracle.com/errata/ELSA-2023-7877.html)
+      * [CVE-2023-3446](https://linux.oracle.com/cve/CVE-2023-3446.html)
+      * [CVE-2023-3817](https://linux.oracle.com/cve/CVE-2023-3817.html)
+      * [CVE-2023-5678](https://linux.oracle.com/cve/CVE-2023-5678.html)
+
+* <https://github.com/docker-library/official-images/pull/15949>
+
+## 2023-12-14-2023
+* Update `oraclelinux:7`, `oraclelinux:7-slim`, `oraclelinux:7-slim-fips`, `oraclelinux:9`, `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-7743 - curl security update](https://linux.oracle.com/errata/ELSA-2023-7743.html)
+      * [CVE-2022-43552](https://linux.oracle.com/cve/CVE-2022-43552.html)
+  *[ELSA-2023-7747 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2023-7747.html)
+      * [CVE-2023-39615](https://linux.oracle.com/cve/CVE-2023-39615.html)
+
+* <https://github.com/docker-library/official-images/pull/15914>
+
+## 2023-12-06-2023
+* Release Oracle Linux 8 Update 9 for `amd64` and `arm64v8`:
+  * Update `oraclelinux:8` to Update 9
+  * Update `oraclelinux:8-slim` to Update 9
+  * Update `oraclelinux:8-slim-fips` to Update 9
+
+* <https://github.com/docker-library/official-images/pull/15845>
+
+## 2023-11-16-2023
+* Release Oracle Linux 9 Update 3 for `amd64` and `arm64v8`:
+  * Update `oraclelinux:9` to Update 3
+  * Update `oraclelinux:9-slim` to Update 3
+
+* <https://github.com/docker-library/official-images/pull/15735>
+
+## 2023-11-13-2023
+* Update `oraclelinux:7`, `oraclelinux:7-slim` and `oraclelinux:7-slim-fips` for `amd64` and `arm64v8`:
+  *[ELSA-2023-6885 - python security update](https://linux.oracle.com/errata/ELSA-2023-6885.html)
+      * [CVE-2023-40217](https://linux.oracle.com/cve/CVE-2023-40217.html)
+
+* <https://github.com/docker-library/official-images/pull/15711>
+
+## 2023-10-27-2023
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  *[ELSA-2023-5997 - python3 security update](https://linux.oracle.com/errata/ELSA-2023-5997.html)
+      * [CVE-2023-40217](https://linux.oracle.com/cve/CVE-2023-40217.html)
+
+* <https://github.com/docker-library/official-images/pull/15633>
+
+## 2023-10-20-2023
+* Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+  *[ELSA-2023-5462 - python3.9 security update](https://linux.oracle.com/errata/ELSA-2023-5462.html)
+      * [CVE-2023-40217](https://linux.oracle.com/cve/CVE-2023-40217.html)
+  *[ELSA-2023-5838 - nghttp2 security update](https://linux.oracle.com/errata/ELSA-2023-5838.html)
+      * [CVE-2023-44487](https://linux.oracle.com/cve/CVE-2023-44487.html)
+  *[ELSA-2023-5763 - curl security update](https://linux.oracle.com/errata/ELSA-2023-5763.html)
+      * [CVE-2023-38546](https://linux.oracle.com/cve/CVE-2023-38546.html)
+      * [CVE-2023-38545](https://linux.oracle.com/cve/CVE-2023-38545.html)
+
+* Update `oraclelinux:8` and `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  *[ELSA-2023-5837 - nghttp2 security update](https://linux.oracle.com/errata/ELSA-2023-5837.html)
+      * [CVE-2023-44487](https://linux.oracle.com/cve/CVE-2023-44487.html)
+
+* <https://github.com/docker-library/official-images/pull/15588>
+
 ## 2023-10-11
 * Update `oraclelinux:7`, `oraclelinux:7-slim` and `oraclelinux:7-slim-fips` for `amd64` and `arm64v8`:
-  *[ELSA-2023-5615 - Moderate: libssh2 security update](https://linux.oracle.com/errata/ELSA-2023-5616.html)
+  *[ELSA-2023-5615 - libssh2 security update](https://linux.oracle.com/errata/ELSA-2023-5616.html)
     * [CVE-2020-22218](https://linux.oracle.com/cve/CVE-2020-22218.html)
   *[ELBA-2023-5623 - ca-certificates bug fix update](https://linux.oracle.com/errata/ELBA-2023-5623.html)
 
 * Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
-  *[ELSA-2023-5474 - Important: bind security update](https://linux.oracle.com/errata/ELSA-2023-5474.html)
+  *[ELSA-2023-5474 - bind security update](https://linux.oracle.com/errata/ELSA-2023-5474.html)
     * [CVE-2023-3341](https://linux.oracle.com/cve/CVE-2023-3341.html)
-  *[ELSA-2023-5455 - Important: glibc security update](https://linux.oracle.com/errata/ELSA-2023-5455.html)
+  *[ELSA-2023-5455 - glibc security update](https://linux.oracle.com/errata/ELSA-2023-5455.html)
     * [CVE-2023-4527](https://linux.oracle.com/cve/CVE-2023-4527.html)
     * [CVE-2023-4806](https://linux.oracle.com/cve/CVE-2023-4806.html)
     * [CVE-2023-4813](https://linux.oracle.com/cve/CVE-2023-4813.html)
