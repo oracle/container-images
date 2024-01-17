@@ -1,4 +1,28 @@
 # Changelog
+## 2024-01-17-2024
+* Update `oraclelinux:7`, `oraclelinux:7-slim`, `oraclelinux:7-slim-fips`, `oraclelinux:8`, `oraclelinux:8-slim`, `oraclelinux:8-slim-fips`, `oraclelinux:9`, `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+
+* Republish all images for `tzdata-2023d-1`:
+  * OL7, OL8, OL9: <https://linux.oracle.com/errata/ELBA-2024-0076.html>
+
+*[ELSA-2024-0119 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2024-0119.html)
+      * [CVE-2023-39615](https://linux.oracle.com/cve/CVE-2023-39615.html)
+
+*[ELSA-2024-0256 - python3 security update](https://linux.oracle.com/errata/ELSA-2024-0256.html)
+      * [CVE-2023-27043](https://linux.oracle.com/cve/CVE-2023-27043.html)
+
+*[ELSA-2024-0114 - python3 security update](https://linux.oracle.com/errata/ELSA-2024-0114.html)
+      * [CVE-2022-48560](https://linux.oracle.com/cve/CVE-2022-48560.html)
+      * [CVE-2022-48564](https://linux.oracle.com/cve/CVE-2022-48564.html)
+
+*[ELSA-2024-0155 - gnutls security update](https://linux.oracle.com/errata/ELSA-2024-0155.html)
+* [CVE-2023-5981](https://linux.oracle.com/cve/CVE-2023-5981.html)
+
+*[ELSA-2024-0253 - sqlite security update](https://linux.oracle.com/errata/ELSA-2024-0253.html)
+* [CVE-2023-7104](https://linux.oracle.com/cve/CVE-2023-7104.html)
+
+* <https://github.com/docker-library/official-images/pull/16070>
+
 ## 2023-12-20-2023
 * Update `oraclelinux:8`, `oraclelinux:8-slim`, `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   *[ELSA-2023-7877 - openssl security update](https://linux.oracle.com/errata/ELSA-2023-7877.html)
