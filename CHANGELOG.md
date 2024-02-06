@@ -1,4 +1,22 @@
 # Changelog
+## 2024-02-06
+* Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  *[ELSA-2024-0627 - gnutls security update](https://linux.oracle.com/errata/ELSA-2024-0627.html)
+    * [CVE-2024-0553](https://linux.oracle.com/cve/CVE-2024-0553.html)
+  *[ELSA-2024-0628 - libssh security update](https://linux.oracle.com/errata/ELSA-2024-0628.html)
+    * [CVE-2023-48795](https://linux.oracle.com/cve/CVE-2023-48795.html)
+  *[ELSA-2024-0647 - rpm security update](https://linux.oracle.com/errata/ELSA-2024-0647.html)
+    * [CVE-2021-35937](https://linux.oracle.com/cve/CVE-2021-35937.html)
+    * [CVE-2021-35938](https://linux.oracle.com/cve/CVE-2021-35938.html)
+    * [CVE-2021-35939](https://linux.oracle.com/cve/CVE-2021-35939.html)
+* Update `oraclelinux:9`, `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  *[ELSA-2024-0533 - gnutls security update](https://linux.oracle.com/errata/ELSA-2024-0533.html)
+    * [CVE-2023-5981](https://linux.oracle.com/cve/CVE-2023-5981.html)
+    * [CVE-2024-0553](https://linux.oracle.com/cve/CVE-2024-0553.html)
+    * [CVE-2024-0567](https://linux.oracle.com/cve/CVE-2024-0567.html)
+
+* <https://github.com/docker-library/official-images/pull/16206>
+
 ## 2024-01-25
 * Update `oraclelinux:9` and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
   *[ELSA-2024-0463 - rpm security update](https://linux.oracle.com/errata/ELSA-2024-0463.html)
