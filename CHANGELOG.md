@@ -1,4 +1,10 @@
 # Changelog
+## 2024-02-12
+* Republish all images for `tzdata-2024a-1`:
+  * OL7, OL8, OL9: <https://linux.oracle.com/errata/ELBA-2024-0762.html>
+
+* <https://github.com/docker-library/official-images/pull/16237>
+
 ## 2024-02-06
 * Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   *[ELSA-2024-0627 - gnutls security update](https://linux.oracle.com/errata/ELSA-2024-0627.html)
