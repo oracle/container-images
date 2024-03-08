@@ -1,4 +1,18 @@
 # Changelog
+## 2024-03-07
+* Update `oraclelinux:8`, `oraclelinux:9`, and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+
+  *[ELSA-2024-1130 - openssh security update](https://linux.oracle.com/errata/ELSA-2024-1130.html)
+    * [CVE-2023-48795](https://linux.oracle.com/cve/CVE-2023-48795.html)
+    * [CVE-2023-51385](https://linux.oracle.com/cve/CVE-2023-51385.html)
+  *[ELSA-2024-1129 - curl security update](https://linux.oracle.com/errata/ELSA-2024-1129.html)
+    * [CVE-2023-46218](https://linux.oracle.com/cve/CVE-2023-46218.html)
+  *[ELSA-2024-12164 - openssh security update](https://linux.oracle.com/errata/ELSA-2024-12164.html)
+    * [CVE-2023-48795](https://linux.oracle.com/cve/CVE-2023-48795.html)
+    * [CVE-2023-51385](https://linux.oracle.com/cve/CVE-2023-51385.html)
+
+* <https://github.com/docker-library/official-images/pull/16376>
+
 ## 2024-02-12
 * Republish all images for `tzdata-2024a-1`:
   * OL7, OL8, OL9: <https://linux.oracle.com/errata/ELBA-2024-0762.html>
