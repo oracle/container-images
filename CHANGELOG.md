@@ -1,4 +1,12 @@
 # Changelog
+## 2024-03-29
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  *[ELSA-2024-1530 - expat security update](https://linux.oracle.com/errata/ELSA-2024-1530.html)
+    * [CVE-2023-52425](https://linux.oracle.com/cve/CVE-2023-52425.html)
+    * [CVE-2024-28757](https://linux.oracle.com/cve/CVE-2024-28757.html)
+
+* <https://github.com/docker-library/official-images/pull/16503>
+
 ## 2024-02-12
 * Republish all images for `tzdata-2024a-1`:
   * OL7, OL8, OL9: <https://linux.oracle.com/errata/ELBA-2024-0762.html>
