@@ -1,4 +1,12 @@
 # Changelog
+## 2024-04-24
+* Update `oraclelinux:9`, `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-1879 - gnutls security update](https://linux.oracle.com/errata/ELSA-2024-1879.html)
+    * [CVE-2024-28834](https://linux.oracle.com/cve/CVE-2024-28834.html)
+    * [CVE-2024-28835](https://linux.oracle.com/cve/CVE-2024-28835.html)
+
+* <https://github.com/docker-library/official-images/pull/16660>
+
 ## 2024-04-16
 * Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2024-1782 - bind and dhcp security update](https://linux.oracle.com/errata/ELSA-2024-1782.html)
