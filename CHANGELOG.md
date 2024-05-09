@@ -1,4 +1,20 @@
 # Changelog
+## 2024-05-09
+* Release Oracle Linux 9 Update 4 for `amd64` and `arm64v8`
+
+* Update `oraclelinux:9`, `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-2679 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2024-2679.html)
+    * [CVE-2024-25062](https://linux.oracle.com/cve/CVE-2024-25062.html)
+  * [ELSA-2024-2570 - gnutls security update](https://linux.oracle.com/errata/ELSA-2024-2570.html)
+    * [CVE-2024-28834](https://linux.oracle.com/cve/CVE-2024-28834.html)
+    * [CVE-2024-28835](https://linux.oracle.com/cve/CVE-2024-28835.html)
+
+* Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-2722 - glibc security update](https://linux.oracle.com/errata/ELSA-2024-2722.html)
+    * [none](https://linux.oracle.com/cve/CVE-2024-2961.html)
+
+* <https://github.com/docker-library/official-images/pull/16749>
+
 ## 2024-04-24
 * Update `oraclelinux:9`, `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2024-1879 - gnutls security update](https://linux.oracle.com/errata/ELSA-2024-1879.html)
