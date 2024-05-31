@@ -1,4 +1,38 @@
 # Changelog
+## 2024-05-31
+
+* Release Oracle Linux 8 Update 10 for `amd64` and `arm64v8`
+  * Shift `oraclelinux:8` to point to `oraclelinux:8.10`
+  * Update `oraclelinux:8-slim` to Update 10
+  * Update `oraclelinux:8-slim-fips` to Update 10
+
+* Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-3271 - bind and dhcp security update](https://linux.oracle.com/errata/ELSA-2024-3271.html)
+    * [CVE-2023-4408](https://linux.oracle.com/cve/CVE-2023-4408.html)
+    * [CVE-2023-50387](https://linux.oracle.com/cve/CVE-2023-50387.html)
+    * [CVE-2023-50868](https://linux.oracle.com/cve/CVE-2023-50868.html)
+  * [ELSA-2024-3268 - krb5 security update](https://linux.oracle.com/errata/ELSA-2024-3268.html)
+    * [CVE-2024-26458](https://linux.oracle.com/cve/CVE-2024-26458.html)
+    * [CVE-2024-26461](https://linux.oracle.com/cve/CVE-2024-26461.html)
+  * [ELSA-2024-3347 - python3 security update](https://linux.oracle.com/errata/ELSA-2024-3347.html)
+    * [CVE-2023-6597](https://linux.oracle.com/cve/CVE-2023-6597.html)
+    * [CVE-2024-0450](https://linux.oracle.com/cve/CVE-2024-0450.html)
+  * [ELSA-2024-3344 - glibc security update](https://linux.oracle.com/errata/ELSA-2024-3344.html)
+    * [CVE-2024-33599](https://linux.oracle.com/cve/CVE-2024-33599.html)
+    * [CVE-2024-33600](https://linux.oracle.com/cve/CVE-2024-33600.html)
+    * [CVE-2024-33601](https://linux.oracle.com/cve/CVE-2024-33601.html)
+    * [CVE-2024-33602](https://linux.oracle.com/cve/CVE-2024-33602.html)
+
+* Update `oraclelinux:9`, `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-3339 - glibc security update](https://linux.oracle.com/errata/ELSA-2024-3339.html)
+    * [CVE-2024-2961](https://linux.oracle.com/cve/CVE-2024-2961.html)
+    * [CVE-2024-33599](https://linux.oracle.com/cve/CVE-2024-33599.html)
+    * [CVE-2024-33600](https://linux.oracle.com/cve/CVE-2024-33600.html)
+    * [CVE-2024-33601](https://linux.oracle.com/cve/CVE-2024-33601.html)
+    * [CVE-2024-33602](https://linux.oracle.com/cve/CVE-2024-33602.html)
+
+* <https://github.com/docker-library/official-images/pull/16891>
+
 ## 2024-05-09
 * Release Oracle Linux 9 Update 4 for `amd64` and `arm64v8`
 
