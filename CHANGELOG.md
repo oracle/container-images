@@ -1,4 +1,15 @@
 # Changelog
+## 2024-06-07
+* Update `oraclelinux:7`, `oraclelinux:7-slim` and `oraclelinux:7-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-3588 - glibc security update](https://linux.oracle.com/errata/ELSA-2024-3588.html)
+    * [CVE-2024-2961](https://linux.oracle.com/cve/CVE-2024-2961.html)
+    * [CVE-2024-33599](https://linux.oracle.com/cve/CVE-2024-33599.html)
+    * [CVE-2024-33600](https://linux.oracle.com/cve/CVE-2024-33600.html)
+    * [CVE-2024-33601](https://linux.oracle.com/cve/CVE-2024-33601.html)
+    * [CVE-2024-33602](https://linux.oracle.com/cve/CVE-2024-33602.html)
+
+* <https://github.com/docker-library/official-images/pull/16943>
+
 ## 2024-06-06
 * Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2024-3626 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2024-3626.html)
