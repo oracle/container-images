@@ -1,4 +1,13 @@
 # Changelog
+## 2024-06-11
+* Update `oraclelinux:7` for `amd64` and `arm64v8`:
+  * [ELSA-2024-3741 - bind, bind-dyndb-ldap, and dhcp security update](https://linux.oracle.com/errata/ELSA-2024-3741.html)
+    * [CVE-2023-4408](https://linux.oracle.com/cve/CVE-2023-4408.html)
+    * [CVE-2023-50387](https://linux.oracle.com/cve/CVE-2023-50387.html)
+    * [CVE-2023-50868](https://linux.oracle.com/cve/CVE-2023-50868.html)
+
+* <https://github.com/docker-library/official-images/pull/16963>
+
 ## 2024-06-06
 * Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2024-3626 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2024-3626.html)
