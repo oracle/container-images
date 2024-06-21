@@ -1,4 +1,10 @@
 # Changelog
+## 2024-06-21
+* Update `oraclelinux:9`, `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-3501 - nghttp2 security update](https://linux.oracle.com/errata/ELSA-2024-3501.html)
+    * [CVE-2024-28182](https://linux.oracle.com/cve/CVE-2024-28182.html)
+* <https://github.com/docker-library/official-images/pull/17034>
+
 ## 2024-06-06
 * Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2024-3626 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2024-3626.html)
