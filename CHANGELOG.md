@@ -1,6 +1,6 @@
 # Changelog
 ## 2024-06-25
-* Update `oraclelinux:9`, `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
   * [ELSA-2024-4078 - python3.9 security update](https://linux.oracle.com/errata/ELSA-2024-4078.html)
     * [CVE-2023-6597](https://linux.oracle.com/cve/CVE-2023-6597.html)
     * [CVE-2024-0450](https://linux.oracle.com/cve/CVE-2024-0450.html)
