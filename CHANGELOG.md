@@ -1,4 +1,12 @@
 # Changelog
+## 2024-07-03
+* Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-4252 - nghttp2 security update](https://linux.oracle.com/errata/ELSA-2024-4252.html)
+    * [CVE-2024-28182](https://linux.oracle.com/cve/CVE-2024-28182.html)
+  * [ELSA-2024-4264 - openldap security update](https://linux.oracle.com/errata/ELSA-2024-4264.html)
+    * [CVE-2023-2953](https://linux.oracle.com/cve/CVE-2023-2953.html)
+* <https://github.com/docker-library/official-images/pull/17117>
+
 ## 2024-06-25
 * Update `oraclelinux:9` for `amd64` and `arm64v8`:
   * [ELSA-2024-4078 - python3.9 security update](https://linux.oracle.com/errata/ELSA-2024-4078.html)
