@@ -1,4 +1,10 @@
 # Changelog
+## 2024-07-08
+* Update `oraclelinux:9`, `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-4312 - openssh security update](https://linux.oracle.com/errata/ELSA-2024-4312.html)
+    * [CVE-2024-6387](https://linux.oracle.com/cve/CVE-2024-6387.html)
+* <https://github.com/docker-library/official-images/pull/17142>
+
 ## 2024-07-03
 * Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2024-4252 - nghttp2 security update](https://linux.oracle.com/errata/ELSA-2024-4252.html)
