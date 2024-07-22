@@ -32,6 +32,26 @@
     * [CVE-2024-28182](https://linux.oracle.com/cve/CVE-2024-28182.html)
 * <https://github.com/docker-library/official-images/pull/17034>
 
+## 2024-06-11
+* Update `oraclelinux:7` for `amd64` and `arm64v8`:
+  * [ELSA-2024-3741 - bind, bind-dyndb-ldap, and dhcp security update](https://linux.oracle.com/errata/ELSA-2024-3741.html)
+    * [CVE-2023-4408](https://linux.oracle.com/cve/CVE-2023-4408.html)
+    * [CVE-2023-50387](https://linux.oracle.com/cve/CVE-2023-50387.html)
+    * [CVE-2023-50868](https://linux.oracle.com/cve/CVE-2023-50868.html)
+
+* <https://github.com/docker-library/official-images/pull/16963>
+
+## 2024-06-07
+* Update `oraclelinux:7`, `oraclelinux:7-slim` and `oraclelinux:7-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-3588 - glibc security update](https://linux.oracle.com/errata/ELSA-2024-3588.html)
+    * [CVE-2024-2961](https://linux.oracle.com/cve/CVE-2024-2961.html)
+    * [CVE-2024-33599](https://linux.oracle.com/cve/CVE-2024-33599.html)
+    * [CVE-2024-33600](https://linux.oracle.com/cve/CVE-2024-33600.html)
+    * [CVE-2024-33601](https://linux.oracle.com/cve/CVE-2024-33601.html)
+    * [CVE-2024-33602](https://linux.oracle.com/cve/CVE-2024-33602.html)
+
+* <https://github.com/docker-library/official-images/pull/16943>
+
 ## 2024-06-06
 * Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2024-3626 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2024-3626.html)
@@ -126,6 +146,20 @@
     * [CVE-2024-28757](https://linux.oracle.com/cve/CVE-2024-28757.html)
 
 * <https://github.com/docker-library/official-images/pull/16503>
+
+## 2024-03-07
+* Update `oraclelinux:8`, `oraclelinux:9`, and `oraclelinux:9-slim` for `amd64` and `arm64v8`:
+
+  *[ELSA-2024-1130 - openssh security update](https://linux.oracle.com/errata/ELSA-2024-1130.html)
+    * [CVE-2023-48795](https://linux.oracle.com/cve/CVE-2023-48795.html)
+    * [CVE-2023-51385](https://linux.oracle.com/cve/CVE-2023-51385.html)
+  *[ELSA-2024-1129 - curl security update](https://linux.oracle.com/errata/ELSA-2024-1129.html)
+    * [CVE-2023-46218](https://linux.oracle.com/cve/CVE-2023-46218.html)
+  *[ELSA-2024-12164 - openssh security update](https://linux.oracle.com/errata/ELSA-2024-12164.html)
+    * [CVE-2023-48795](https://linux.oracle.com/cve/CVE-2023-48795.html)
+    * [CVE-2023-51385](https://linux.oracle.com/cve/CVE-2023-51385.html)
+
+* <https://github.com/docker-library/official-images/pull/16376>
 
 ## 2024-02-12
 * Republish all images for `tzdata-2024a-1`:
