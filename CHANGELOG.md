@@ -1,4 +1,10 @@
 # Changelog
+## 2024-07-24
+* Update `oraclelinux:9`, `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-4779 - python3 security update](https://linux.oracle.com/errata/ELSA-2024-4779.html)
+    * [CVE-2024-4032](https://linux.oracle.com/cve/CVE-2024-4032.html)
+* <https://github.com/docker-library/official-images/pull/17250>
+
 ## 2024-07-11
 * Update `oraclelinux:9`, `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2024-4457 - openssh security update](https://linux.oracle.com/errata/ELSA-2024-4457.html)
