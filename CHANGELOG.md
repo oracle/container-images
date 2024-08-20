@@ -1,4 +1,17 @@
 # Changelog
+## 2024-08-19
+* Update `oraclelinux:8` and `oraclelinux:9` for `amd64` and `arm64v8`:
+  * [ELSA-2024-5530 - python-setuptools security update](https://linux.oracle.com/errata/ELSA-2024-5530.html)
+    * [CVE-2024-6345](https://linux.oracle.com/cve/CVE-2024-6345.html)
+  * [ELSA-2024-5524 - bind security update](https://linux.oracle.com/errata/ELSA-2024-5524.html)
+    * [CVE-2024-1737](https://linux.oracle.com/cve/CVE-2024-1737.html)
+    * [CVE-2024-1975](https://linux.oracle.com/cve/CVE-2024-1975.html)
+  * [ELSA-2024-5534 - python-setuptools security update](https://linux.oracle.com/errata/ELSA-2024-5534.html)
+    * [CVE-2024-6345](https://linux.oracle.com/cve/CVE-2024-6345.html)
+  * [ELSA-2024-5529 - curl security update](https://linux.oracle.com/errata/ELSA-2024-5529.html)
+    * [CVE-2024-2398](https://linux.oracle.com/cve/CVE-2024-2398.html)
+* <https://github.com/docker-library/official-images/pull/17395>
+
 ## 2024-08-14
 * Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2024-5312 - krb5 security update](https://linux.oracle.com/errata/ELSA-2024-5312.html)
