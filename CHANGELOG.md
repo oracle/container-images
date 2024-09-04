@@ -1,4 +1,13 @@
 # Changelog
+## 2024-09-03
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  * [ELSA-2024-6163 - python3.9 security update](https://linux.oracle.com/errata/ELSA-2024-6163.html)
+    * [CVE-2024-6923](https://linux.oracle.com/cve/CVE-2024-6923.html)
+  * [ELSA-2024-6166 - krb5 security update](https://linux.oracle.com/errata/ELSA-2024-6166.html)
+    * [CVE-2024-37370](https://linux.oracle.com/cve/CVE-2024-37370.html)
+    * [CVE-2024-37371](https://linux.oracle.com/cve/CVE-2024-37371.html)
+* <https://github.com/docker-library/official-images/pull/17480>
+
 ## 2024-08-22
 * Update `oraclelinux:8`, `oraclelinux:8-slim`, `oraclelinux:8-slim-fips`, `oraclelinux:9`, `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
   * [ELBA-2024-5691 - ca-certificates bug fix update](https://linux.oracle.com/errata/ELBA-2023-5623.html)](https://linux.oracle.com/errata/ELBA-2024-5691.html)
