@@ -1,4 +1,10 @@
 # Changelog
+## 2024-09-09
+* Update `oraclelinux:9`, `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-6464 - glib2 security update](https://linux.oracle.com/errata/ELSA-2024-6464.html)
+    * [CVE-2024-34397](https://linux.oracle.com/cve/CVE-2024-34397.html)
+* <https://github.com/docker-library/official-images/pull/17526>
+
 ## 2024-09-03
 * Update `oraclelinux:9` for `amd64` and `arm64v8`:
   * [ELSA-2024-6163 - python3.9 security update](https://linux.oracle.com/errata/ELSA-2024-6163.html)
