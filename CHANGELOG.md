@@ -1,4 +1,16 @@
 # Changelog
+## 2024-09-25
+* Update `oraclelinux:8`, `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-6989 - expat security update](https://linux.oracle.com/errata/ELSA-2024-6989.html)
+    * [CVE-2024-45490](https://linux.oracle.com/cve/CVE-2024-45490.html)
+    * [CVE-2024-45491](https://linux.oracle.com/cve/CVE-2024-45491.html)
+    * [CVE-2024-45492](https://linux.oracle.com/cve/CVE-2024-45492.html)
+  * [ELSA-2024-6975 - python3 security update](https://linux.oracle.com/errata/ELSA-2024-6975.html)
+    * [CVE-2024-4032](https://linux.oracle.com/cve/CVE-2024-4032.html)
+    * [CVE-2024-6232](https://linux.oracle.com/cve/CVE-2024-6232.html)
+    * [CVE-2024-6923](https://linux.oracle.com/cve/CVE-2024-6923.html)
+* <https://github.com/docker-library/official-images/pull/17619>
+
 ## 2024-09-20
 * Update `oraclelinux:9`, `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2024-6783 - openssl security update](https://linux.oracle.com/errata/ELSA-2024-6783.html)
