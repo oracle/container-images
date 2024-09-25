@@ -1,0 +1,5 @@
+Updated change log for:
+ELSA-2024-6989/CVE-2024-45490/CVE-2024-45491/CVE-2024-45492
+ELSA-2024-6975/CVE-2024-4032/CVE-2024-6232/CVE-2024-6923
+
+Signed-off-by: Mark Will <mark.will@oracle.com>
