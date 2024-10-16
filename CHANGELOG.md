@@ -1,4 +1,13 @@
 # Changelog
+## 2024-10-15
+* Update `oraclelinux:7` , `oraclelinux:7-slim` and `oraclelinux:7-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-12704 - e2fsprogs security update - Release e2fsprogs security update e2fsprogs-1.45.4-3.0.1.el7.x86_64](https://linux.oracle.com/errata/ELSA-2024-12704.html)
+    * [CVE-2022-1304](https://linux.oracle.com/cve/CVE-2024-37370.html)
+  * [ELSA-2024-5076 - krb5 security update](https://linux.oracle.com/errata/ELSA-2024-5076.html)
+    * [CVE-2024-37370](https://linux.oracle.com/cve/CVE-2024-37370.html)
+    * [CVE-2024-37371](https://linux.oracle.com/cve/CVE-2024-37371.html)
+* <https://github.com/docker-library/official-images/pull/17729>
+
 ## 2024-10-10
 * Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2024-7848 - openssl security update](https://linux.oracle.com/errata/ELSA-2024-7848.html)
