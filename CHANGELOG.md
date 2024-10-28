@@ -1,4 +1,10 @@
 # Changelog
+## 2024-10-25
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  * [ELSA-2024-8446 - python3.9 security update](https://linux.oracle.com/errata/ELSA-2024-8446.html)
+    * [CVE-2024-6232](https://linux.oracle.com/cve/CVE-2024-6232.html)
+* <https://github.com/docker-library/official-images/pull/17790>
+
 ## 2024-10-15
 * Update `oraclelinux:7` , `oraclelinux:7-slim` and `oraclelinux:7-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2024-12704 - e2fsprogs security update - Release e2fsprogs security update e2fsprogs-1.45.4-3.0.1.el7.x86_64](https://linux.oracle.com/errata/ELSA-2024-12704.html)
