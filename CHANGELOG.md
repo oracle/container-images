@@ -1,4 +1,9 @@
 # Changelog
+## 2024-11-06
+* Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELBA-2024-8805 - tzdata bug fix and enhancement update ](https://linux.oracle.com/errata/ELBA-2024-8805.html)
+* <https://github.com/docker-library/official-images/pull/17850>
+
 ## 2024-10-25
 * Update `oraclelinux:9` for `amd64` and `arm64v8`:
   * [ELSA-2024-8446 - python3.9 security update](https://linux.oracle.com/errata/ELSA-2024-8446.html)
