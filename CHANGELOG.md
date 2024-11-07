@@ -1,4 +1,13 @@
 # Changelog
+## 2024-11-07
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-8922 - bzip2 security update](https://linux.oracle.com/errata/ELSA-2024-8922.html)
+    * [CVE-2019-12900](https://linux.oracle.com/cve/CVE-2019-12900.html)
+  * [ELSA-2024-8860 - krb5 security update](https://linux.oracle.com/errata/ELSA-2024-8860.html)
+    * [CVE-2024-3596](https://linux.oracle.com/cve/CVE-2024-3596.html)
+  * [ELBA-2024-8805 - tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2024-8805.html)
+* <https://github.com/docker-library/official-images/pull/17860>
+
 ## 2024-11-06
 * Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
   * [ELBA-2024-8805 - tzdata bug fix and enhancement update ](https://linux.oracle.com/errata/ELBA-2024-8805.html)
