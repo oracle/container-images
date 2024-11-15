@@ -1,4 +1,12 @@
 # Changelog
+## 2024-11-15
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-8922 - bzip2 security update](https://linux.oracle.com/errata/ELSA-2024-8922.html)
+    * [CVE-2019-12900](https://linux.oracle.com/cve/CVE-2019-12900.html)
+  * [ELSA-2024-9502 - expat security update](https://linux.oracle.com/errata/ELSA-2024-9502.html)
+    * [CVE-2024-50602](https://linux.oracle.com/cve/CVE-2024-50602.html)
+* <https://github.com/docker-library/official-images/pull/17912>
+
 ## 2024-11-07
 * Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2024-8922 - bzip2 security update](https://linux.oracle.com/errata/ELSA-2024-8922.html)
