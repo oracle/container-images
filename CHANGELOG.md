@@ -1,4 +1,9 @@
 # Changelog
+## 2024-11-20
+* Release Oracle Linux 9 Update 5 for `amd64` and `arm64v8`:
+
+* <https://github.com/docker-library/official-images/pull/17943>
+
 ## 2024-11-15
 * Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2024-8922 - bzip2 security update](https://linux.oracle.com/errata/ELSA-2024-8922.html)
