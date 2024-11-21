@@ -1,4 +1,14 @@
 # Changelog
+## 2024-11-21
+* Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2024-9541 - expat security update](https://linux.oracle.com/errata/ELSA-2024-9541.html)
+    * [CVE-2024-50602](https://linux.oracle.com/cve/CVE-2024-50602.html)
+  * [ELSA-2024-9474 - krb5 security update](https://linux.oracle.com/errata/ELSA-2024-9474.html)
+    * [CVE-2024-3596](https://linux.oracle.com/cve/CVE-2024-3596.html)
+  * [ELSA-2024-9468 - python3.9 security update](https://linux.oracle.com/errata/ELSA-2024-9468.html)
+    * [CVE-2024-6232](https://linux.oracle.com/cve/CVE-2024-6232.html)
+* <https://github.com/docker-library/official-images/pull/17952>
+
 ## 2024-11-20
 * Release Oracle Linux 9 Update 5 for `amd64` and `arm64v8`:
 
