@@ -1,4 +1,10 @@
 # Changelog
+## 2024-11-26
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  * [ELSA-2024-10244 - pam:1.5.1 security update](https://linux.oracle.com/errata/ELSA-2024-10244.html)
+    * [CVE-2024-10963](https://linux.oracle.com/cve/CVE-2024-10963.html)
+* <https://github.com/docker-library/official-images/pull/17980>
+
 ## 2024-11-25
 * Update `oraclelinux:7` , `oraclelinux:7-slim` and `oraclelinux:7-slim-fips` for `amd64` and `arm64v8`:
   * [ELBA-2024-8805 - tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2024-8805.html)
