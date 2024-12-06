@@ -1,4 +1,11 @@
 # Changelog
+## 2024-12-05
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2024-10779 - python3:3.6.8 security update](https://linux.oracle.com/errata/ELSA-2024-10779.html)
+    * [CVE-2024-11168](https://linux.oracle.com/cve/CVE-2024-11168.html)
+    * [CVE-2024-9287](https://linux.oracle.com/cve/CVE-2024-9287.html)
+* <https://github.com/docker-library/official-images/pull/18031>
+
 ## 2024-11-27
 * Update `oraclelinux:8` for `amd64` and `arm64v8`:
   * [ELSA-2024-10379 - pam security update](https://linux.oracle.com/errata/ELSA-2024-10379.html)
