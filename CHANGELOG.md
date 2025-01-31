@@ -1,4 +1,10 @@
 # Changelog
+## 2025-01-30
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2025-0733 - bzip2 security update](https://linux.oracle.com/errata/ELSA-2025-0733.html)
+    * [CVE-2019-12900](https://linux.oracle.com/cve/CVE-2019-12900.html)
+* <https://github.com/docker-library/official-images/pull/>
+
 ## 2024-12-20
 * Update `oraclelinux:9` for `amd64` and `arm64v8`:
   * [ELSA-2024-11250 - pam security update](https://linux.oracle.com/errata/ELSA-2024-11250.html)
