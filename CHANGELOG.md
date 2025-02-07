@@ -1,4 +1,9 @@
 # Changelog
+## 2025-02-07
+* Update `oraclelinux:8` , `oraclelinux:8-slim` , `oraclelinux:8-slim-fips` , `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELBA-2025-1104 - tzdata-2025a ](https://linux.oracle.com/errata/ELBA-2025-1104.html)
+* <https://github.com/docker-library/official-images/pull/18411>
+
 ## 2025-02-05
 * Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2025-0925 - bzip2 security update](https://linux.oracle.com/errata/ELSA-2025-0925.html)
