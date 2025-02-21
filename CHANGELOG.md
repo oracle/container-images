@@ -1,4 +1,10 @@
 # Changelog
+## 2025-02-21
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2025-1675 - bind security update](https://linux.oracle.com/errata/ELSA-2025-1675.html)
+    * [CVE-2024-11187](https://linux.oracle.com/cve/CVE-2024-11187.html)
+* <https://github.com/docker-library/official-images/pull/18499>
+
 ## 2025-02-19
 * Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2025-1517 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2025-1517.html)
