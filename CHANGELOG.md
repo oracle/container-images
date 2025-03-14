@@ -1,4 +1,10 @@
 # Changelog
+## 2025-03-14
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2025-2722 - krb5 security update](https://linux.oracle.com/errata/ELSA-2025-2722.html)
+    * [CVE-2025-24528](https://linux.oracle.com/cve/CVE-2025-24528.html)
+* <https://github.com/docker-library/official-images/pull/18636>
+
 ## 2025-03-13
 * Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2025-2686 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2025-2686.html)
