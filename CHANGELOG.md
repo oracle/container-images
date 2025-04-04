@@ -1,4 +1,10 @@
 # Changelog
+## 2025-04-04
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  * [ELSA-2025-3531 - expat security update](https://linux.oracle.com/errata/ELSA-2025-3531.html)
+    * [CVE-2024-8176](https://linux.oracle.com/cve/CVE-2024-8176.html)
+* <https://github.com/docker-library/official-images/pull/18778>
+
 ## 2025-03-31
 * Update `oraclelinux:8` , `oraclelinux:8-slim` , `oraclelinux:8-slim-fips` , `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
   * [ELBA-2025-3394 - tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2025-3394.html)
