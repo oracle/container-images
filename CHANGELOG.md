@@ -1,4 +1,10 @@
 # Changelog
+## 2025-04-15
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2025-3828 - glibc security update](https://linux.oracle.com/errata/ELSA-2025-3828.html)
+    * [CVE-2025-0395](https://linux.oracle.com/cve/CVE-2025-0395.html)
+* <https://github.com/docker-library/official-images/pull/18869>
+
 ## 2025-04-04
 * Update `oraclelinux:9` for `amd64` and `arm64v8`:
   * [ELSA-2025-3531 - expat security update](https://linux.oracle.com/errata/ELSA-2025-3531.html)
