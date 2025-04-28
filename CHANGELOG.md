@@ -1,4 +1,12 @@
 # Changelog
+## 2025-04-25
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2025-4051 - gnutls security update](https://linux.oracle.com/errata/ELSA-2025-4051.html)
+    * [CVE-2024-12243](https://linux.oracle.com/cve/CVE-2024-12243.html)
+  * [ELSA-2025-4049 - libtasn1 security update](https://linux.oracle.com/errata/ELSA-2025-4049.html)
+    * [CVE-2024-12133](https://linux.oracle.com/cve/CVE-2024-12133.html)
+* <https://github.com/docker-library/official-images/pull/18935>
+
 ## 2025-04-16
 * Update `oraclelinux:8` for `amd64` and `arm64v8`:
   * [ELSA-2025-3913 - expat security update](https://linux.oracle.com/errata/ELSA-2025-3913.html)
