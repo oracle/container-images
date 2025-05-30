@@ -1,4 +1,8 @@
 # Changelog
+## 2025-05-30
+* Release Oracle Linux 9 Update 6 for `amd64` and `arm64v8`
+* <https://github.com/docker-library/official-images/pull/19140>
+
 ## 2025-04-29
 * Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2025-4244 - glibc security update](https://linux.oracle.com/errata/ELSA-2025-4244.html)
