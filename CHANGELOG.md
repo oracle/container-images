@@ -1,4 +1,16 @@
 # Changelog
+## 2025-06-25
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  * [ELSA-2025-9432 - iputils security update](https://linux.oracle.com/errata/ELSA-2025-9432.html)
+    * [CVE-2025-47268](https://linux.oracle.com/cve/CVE-2025-47268.html)
+  * [ELSA-2025-9430 - krb5 security update](https://linux.oracle.com/errata/ELSA-2025-9430.html)
+    * [CVE-2025-3576](https://linux.oracle.com/cve/CVE-2025-3576.html)
+  * [ELSA-2025-9431 - libarchive security update](https://linux.oracle.com/errata/ELSA-2025-9431.html)
+    * [CVE-2025-25724](https://linux.oracle.com/cve/CVE-2025-25724.html)
+  * [ELSA-2025-9526 - pam security update](https://linux.oracle.com/errata/ELSA-2025-9526.html)
+    * [CVE-2025-6020](https://linux.oracle.com/cve/CVE-2025-6020.html)
+* <https://github.com/docker-library/official-images/pull/19330>
+
 ## 2025-06-12
 * Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2025-8958 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2025-8958.html)
