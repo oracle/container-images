@@ -1,4 +1,10 @@
 # Changelog
+## 2025-07-01
+* Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2025-9877 - glibc security update](https://linux.oracle.com/errata/ELSA-2025-9877.html)
+    * [CVE-2025-5702](https://linux.oracle.com/cve/CVE-2025-5702.html)
+* <https://github.com/docker-library/official-images/pull/19365>
+
 ## 2025-06-30
 * Release Oracle Linux 10 for `amd64` and `arm64v8`
 * <https://github.com/docker-library/official-images/pull/19359>
