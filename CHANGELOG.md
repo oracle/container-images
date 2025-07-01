@@ -1,4 +1,8 @@
 # Changelog
+## 2025-06-30
+* Release Oracle Linux 10 for `amd64` and `arm64v8`
+* <https://github.com/docker-library/official-images/pull/19359>
+
 ## 2025-06-25
 * Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2025-9432 - iputils security update](https://linux.oracle.com/errata/ELSA-2025-9432.html)
