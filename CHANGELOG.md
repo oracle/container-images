@@ -1,4 +1,10 @@
 # Changelog
+## 2025-07-02
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2025-10027 - pam security update](https://linux.oracle.com/errata/ELSA-2025-10027.html)
+    * [CVE-2025-6020](https://linux.oracle.com/cve/CVE-2025-6020.html)
+* <https://github.com/docker-library/official-images/pull/19377>
+
 ## 2025-06-30
 * Release Oracle Linux 10 for `amd64` and `arm64v8`
 * <https://github.com/docker-library/official-images/pull/19359>
