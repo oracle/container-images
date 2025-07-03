@@ -1,5 +1,15 @@
 # Changelog
 ## 2025-07-02
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2025-10128 - python3 security update](https://linux.oracle.com/errata/ELSA-2025-10128.html)
+    * [CVE-2024-12718](https://linux.oracle.com/cve/CVE-2024-12718.html)
+    * [CVE-2025-4138](https://linux.oracle.com/cve/CVE-2025-4138.html)
+    * [CVE-2025-4330](https://linux.oracle.com/cve/CVE-2025-4330.html)
+    * [CVE-2025-4435](https://linux.oracle.com/cve/CVE-2025-4435.html)
+    * [CVE-2025-4517](https://linux.oracle.com/cve/CVE-2025-4517.html)
+* <https://github.com/docker-library/official-images/pull/19380>
+
+## 2025-07-02
 * Update `oraclelinux:9` for `amd64` and `arm64v8`:
   * [ELSA-2025-10136 - python3.9 security update](https://linux.oracle.com/errata/ELSA-2025-10136.html)
     * [CVE-2024-12718](https://linux.oracle.com/cve/CVE-2024-12718.html)
