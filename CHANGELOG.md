@@ -1,4 +1,10 @@
 # Changelog
+## 2025-07-08
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  * [ELSA-2025-10407 - python-setuptools security update](https://linux.oracle.com/errata/ELSA-2025-10407.html)
+    * [CVE-2025-47273](https://linux.oracle.com/cve/CVE-2025-47273.html)
+* <https://github.com/docker-library/official-images/pull/19423>
+
 ## 2025-07-02
 * Update `oraclelinux:8` for `amd64` and `arm64v8`:
   * [ELSA-2025-10128 - python3 security update](https://linux.oracle.com/errata/ELSA-2025-10128.html)
