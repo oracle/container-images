@@ -1,4 +1,36 @@
 # Changelog
+## 2025-07-09
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2025-7512 - expat security update](https://linux.oracle.com/errata/ELSA-2025-7512.html)
+    * [CVE-2024-8176](https://linux.oracle.com/cve/CVE-2024-8176.html)
+  * [ELSA-2025-9421 - iputils security update](https://linux.oracle.com/errata/ELSA-2025-9421.html)
+    * [CVE-2025-47268](https://linux.oracle.com/cve/CVE-2025-47268.html)
+  * [ELSA-2025-9418 - krb5 security update](https://linux.oracle.com/errata/ELSA-2025-9418.html)
+    * [CVE-2025-3576](https://linux.oracle.com/cve/CVE-2025-3576.html)
+  * [ELSA-2025-7510 - libarchive security update](https://linux.oracle.com/errata/ELSA-2025-7510.html)
+    * [CVE-2024-57970](https://linux.oracle.com/cve/CVE-2024-57970.html)
+  * [ELSA-2025-9420 - libarchive security update](https://linux.oracle.com/errata/ELSA-2025-9420.html)
+    * [CVE-2025-25724](https://linux.oracle.com/cve/CVE-2025-25724.html)
+  * [ELSA-2025-10630 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2025-10630.html)
+    * [CVE-2025-49794](https://linux.oracle.com/cve/CVE-2025-49794.html)
+    * [CVE-2025-49795](https://linux.oracle.com/cve/CVE-2025-49795.html)
+    * [CVE-2025-49796](https://linux.oracle.com/cve/CVE-2025-49796.html)
+    * [CVE-2025-6021](https://linux.oracle.com/cve/CVE-2025-6021.html)
+  * [ELSA-2025-9940 - python-setuptools security update](https://linux.oracle.com/errata/ELSA-2025-9940.html)
+    * [CVE-2025-47273](https://linux.oracle.com/cve/CVE-2025-47273.html)
+  * [ELSA-2025-7517 - sqlite security update](https://linux.oracle.com/errata/ELSA-2025-7517.html)
+    * [CVE-2025-3277](https://linux.oracle.com/cve/CVE-2025-3277.html)
+  * [ELEA-2025-7514 - tzdasta ](https://linux.oracle.com/errata/ELEA-2025-7514.html)
+  * [ELSA-2025-7524 - xz security update](https://linux.oracle.com/errata/ELSA-2025-7524.html)
+    * [CVE-2025-31115](https://linux.oracle.com/cve/CVE-2025-31115.html)
+* <https://github.com/docker-library/official-images/pull/19434>
+
+## 2025-07-08
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  * [ELSA-2025-10407 - python-setuptools security update](https://linux.oracle.com/errata/ELSA-2025-10407.html)
+    * [CVE-2025-47273](https://linux.oracle.com/cve/CVE-2025-47273.html)
+* <https://github.com/docker-library/official-images/pull/19423>
+
 ## 2025-07-02
 * Update `oraclelinux:8` for `amd64` and `arm64v8`:
   * [ELSA-2025-10128 - python3 security update](https://linux.oracle.com/errata/ELSA-2025-10128.html)
