@@ -1,4 +1,12 @@
 # Changelog
+## 2025-07-15
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2025-11035 - lz4 security update](https://linux.oracle.com/errata/ELSA-2025-11035.html)
+    * [CVE-2019-17543](https://linux.oracle.com/cve/CVE-2019-17543.html)
+  * [ELSA-2025-11036 - python-setuptools security update](https://linux.oracle.com/errata/ELSA-2025-11036.html)
+    * [CVE-2025-47273](https://linux.oracle.com/cve/CVE-2025-47273.html)
+* <https://github.com/docker-library/official-images/pull/19478>
+
 ## 2025-07-10
 * Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2025-10698 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2025-10698.html)
