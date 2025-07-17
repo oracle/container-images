@@ -1,5 +1,13 @@
 # Changelog
 ## 2025-07-17
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2025-11327 - glib2 security update](https://linux.oracle.com/errata/ELSA-2025-11327.html)
+    * [CVE-2024-34397](https://linux.oracle.com/cve/CVE-2024-34397.html)
+    * [CVE-2024-52533](https://linux.oracle.com/cve/CVE-2024-52533.html)
+    * [CVE-2025-4373](https://linux.oracle.com/cve/CVE-2025-4373.html)
+* <https://github.com/docker-library/official-images/pull/19496>
+
+## 2025-07-17
 * Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
   * [ELSA-2025-10855 - glib2 security update](https://linux.oracle.com/errata/ELSA-2025-10855.html)
     * [CVE-2024-52533](https://linux.oracle.com/cve/CVE-2024-52533.html)
