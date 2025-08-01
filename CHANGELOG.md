@@ -1,4 +1,10 @@
 # Changelog
+## 2025-08-01
+* Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2025-12447 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2025-12447.html)
+    * [CVE-2025-7425](https://linux.oracle.com/cve/CVE-2025-7425.html)
+* <https://github.com/docker-library/official-images/pull/19584>
+
 ## 2025-07-30
 * Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
   * [ELSA-2025-11933 - sqlite security update](https://linux.oracle.com/errata/ELSA-2025-11933.html)
