@@ -1,4 +1,20 @@
 # Changelog
+## 2025-08-07
+* Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2025-13428 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2025-13428.html)
+    * [CVE-2025-32414](https://linux.oracle.com/cve/CVE-2025-32414.html)
+    * [CVE-2025-32415](https://linux.oracle.com/cve/CVE-2025-32415.html)
+  * [ELSA-2025-12748 - glibc security update](https://linux.oracle.com/errata/ELSA-2025-12748.html)
+    * [CVE-2025-8058](https://linux.oracle.com/cve/CVE-2025-8058.html)
+  * [ELSA-2025-12876 - ncurses security update](https://linux.oracle.com/errata/ELSA-2025-12876.html)
+    * [CVE-2022-29458](https://linux.oracle.com/cve/CVE-2022-29458.html)
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2025-12980 - glibc security update](https://linux.oracle.com/errata/ELSA-2025-12980.html)
+    * [CVE-2025-8058](https://linux.oracle.com/cve/CVE-2025-8058.html)
+  * [ELSA-2025-13203 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2025-13203.html)
+    * [CVE-2025-32415](https://linux.oracle.com/cve/CVE-2025-32415.html)
+* <https://github.com/docker-library/official-images/pull/19627>
+
 ## 2025-08-01
 * Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2025-12450 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2025-12450.html)
