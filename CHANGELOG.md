@@ -1,4 +1,16 @@
 # Changelog
+## 2025-08-21
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2025-14135 - libarchive security update](https://linux.oracle.com/errata/ELSA-2025-14135.html)
+    * [CVE-2025-5914](https://linux.oracle.com/cve/CVE-2025-5914.html)
+* Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2025-14130 - libarchive security update](https://linux.oracle.com/errata/ELSA-2025-14130.html)
+    * [CVE-2025-5914](https://linux.oracle.com/cve/CVE-2025-5914.html)
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2025-14137 - libarchive security update](https://linux.oracle.com/errata/ELSA-2025-14137.html)
+    * [CVE-2025-5914](https://linux.oracle.com/cve/CVE-2025-5914.html)
+* <https://github.com/docker-library/official-images/pull/19738>
+
 ## 2025-08-11
 * Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
   * [ELSA-2025-13240 - glibc security update](https://linux.oracle.com/errata/ELSA-2025-13240.html)
