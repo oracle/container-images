@@ -1,4 +1,10 @@
 # Changelog
+## 2025-09-11
+* Update `oraclelinux:10` for `amd64` and `arm64v8`:
+  * [ELSA-2025-14984 - python3.12 security update](https://linux.oracle.com/errata/ELSA-2025-14984.html)
+    * [CVE-2025-8194](https://linux.oracle.com/cve/CVE-2025-8194.html)
+* <https://github.com/docker-library/official-images/pull/19858>
+
 ## 2025-09-10
 * Update `oraclelinux:9` for `amd64` and `arm64v8`:
   * [ELSA-2025-15099 - pam security update](https://linux.oracle.com/errata/ELSA-2025-15099.html)
