@@ -1,4 +1,13 @@
 # Changelog
+## 2025-09-22
+* Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2025-16116 - gnutls security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2025-16116.html)
+    * [CVE-2025-32988](https://linux.oracle.com/cve/CVE-2025-32988.html)
+    * [CVE-2025-32989](https://linux.oracle.com/cve/CVE-2025-32989.html)
+    * [CVE-2025-32990](https://linux.oracle.com/cve/CVE-2025-32990.html)
+    * [CVE-2025-6395](https://linux.oracle.com/cve/CVE-2025-6395.html)
+* <https://github.com/docker-library/official-images/pull/19920>
+
 ## 2025-09-11
 * Update `oraclelinux:10` for `amd64` and `arm64v8`:
   * [ELSA-2025-14984 - python3.12 security update](https://linux.oracle.com/errata/ELSA-2025-14984.html)
