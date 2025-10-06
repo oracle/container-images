@@ -1,4 +1,10 @@
 # Changelog
+## 2025-10-06
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2025-16823 - openssh security update](https://linux.oracle.com/errata/ELSA-2025-16823.html)
+    * [CVE-2025-26465](https://linux.oracle.com/cve/CVE-2025-26465.html)
+* <https://github.com/docker-library/official-images/pull/20027>
+
 ## 2025-09-22
 * Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
   * [ELSA-2025-16115 - gnutls security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2025-16115.html)
