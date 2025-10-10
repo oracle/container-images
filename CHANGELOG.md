@@ -1,4 +1,10 @@
 # Changelog
+## 2025-10-09
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  * [ELSA-2025-17558 - iputils security update](https://linux.oracle.com/errata/ELSA-2025-17558.html)
+    * [CVE-2025-48964](https://linux.oracle.com/cve/CVE-2025-48964.html)
+* <https://github.com/docker-library/official-images/pull/20069>
+
 ## 2025-10-06
 * Update `oraclelinux:8` for `amd64` and `arm64v8`:
   * [ELSA-2025-16823 - openssh security update](https://linux.oracle.com/errata/ELSA-2025-16823.html)
