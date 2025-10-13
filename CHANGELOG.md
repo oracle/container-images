@@ -1,4 +1,15 @@
 # Changelog
+## 2025-10-13
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2025-17415 - gnutls security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2025-17415.html)
+    * [CVE-2025-32988](https://linux.oracle.com/cve/CVE-2025-32988.html)
+    * [CVE-2025-32990](https://linux.oracle.com/cve/CVE-2025-32990.html)
+    * [CVE-2025-6395](https://linux.oracle.com/cve/CVE-2025-6395.html)
+  * [ELSA-2025-17715 - vim security update](https://linux.oracle.com/errata/ELSA-2025-17715.html)
+    * [CVE-2025-53905](https://linux.oracle.com/cve/CVE-2025-53905.html)
+    * [CVE-2025-53906](https://linux.oracle.com/cve/CVE-2025-53906.html)
+* <https://github.com/docker-library/official-images/pull/20082>
+
 ## 2025-10-09
 * Update `oraclelinux:9` for `amd64` and `arm64v8`:
   * [ELSA-2025-17558 - iputils security update](https://linux.oracle.com/errata/ELSA-2025-17558.html)
