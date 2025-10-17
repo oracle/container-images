@@ -1,4 +1,10 @@
 # Changelog
+## 2025-10-16
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2025-18231 - libssh security update](https://linux.oracle.com/errata/ELSA-2025-18231.html)
+    * [CVE-2025-5318](https://linux.oracle.com/cve/CVE-2025-5318.html)
+* <https://github.com/docker-library/official-images/pull/20104>
+
 ## 2025-10-14
 * Update `oraclelinux:10` for `amd64` and `arm64v8`:
   * [ELSA-2025-17913 - vim security update](https://linux.oracle.com/errata/ELSA-2025-17913.html)
