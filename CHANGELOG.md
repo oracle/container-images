@@ -1,4 +1,9 @@
 # Changelog
+## 2025-10-30
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELBA-2025-19289 - ca-certificates bug fix and enhancement update ](https://linux.oracle.com/errata/ELBA-2025-19289.html)
+* <https://github.com/docker-library/official-images/pull/20194>
+
 ## 2025-10-20
 * Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2025-18286 - libssh security update](https://linux.oracle.com/errata/ELSA-2025-18286.html)
