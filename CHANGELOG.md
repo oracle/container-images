@@ -1,4 +1,10 @@
 # Changelog
+## 2025-11-06
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2025-19835 - bind security update](https://linux.oracle.com/errata/ELSA-2025-19835.html)
+    * [CVE-2025-40778](https://linux.oracle.com/cve/CVE-2025-40778.html)
+* <https://github.com/docker-library/official-images/pull/20237>
+
 ## 2025-11-03
 * Update `oraclelinux:10` for `amd64` and `arm64v8`:
   * [ELSA-2025-19403 - expat security update](https://linux.oracle.com/errata/ELSA-2025-19403.html)
