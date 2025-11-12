@@ -1,4 +1,9 @@
 # Changelog
+## 2025-11-10
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELBA-2025-19952 - ca-certificates bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2025-19952.html)
+* <https://github.com/docker-library/official-images/pull/20261>
+
 ## 2025-11-06
 * Update `oraclelinux:8` for `amd64` and `arm64v8`:
   * [ELSA-2025-19835 - bind security update](https://linux.oracle.com/errata/ELSA-2025-19835.html)
