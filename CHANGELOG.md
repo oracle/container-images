@@ -1,4 +1,10 @@
 # Changelog
+## 2025-11-20
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2025-21776 - expat security update](https://linux.oracle.com/errata/ELSA-2025-21776.html)
+    * [CVE-2025-59375](https://linux.oracle.com/cve/CVE-2025-59375.html)
+* <https://github.com/docker-library/official-images/pull/20335>
+
 ## 2025-11-10
 * Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
   * [ELBA-2025-19952 - ca-certificates bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2025-19952.html)
