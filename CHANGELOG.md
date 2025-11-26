@@ -3,7 +3,6 @@
 * Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2025-21977 - libssh security update](https://linux.oracle.com/errata/ELSA-2025-21977.html)
     * [CVE-2025-5372](https://linux.oracle.com/cve/CVE-2025-5372.html)
-    * [none](https://linux.oracle.com/cve/none.html)
 * <https://github.com/docker-library/official-images/pull/20363>
 
 ## 2025-11-20
