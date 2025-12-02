@@ -1,4 +1,10 @@
 # Changelog
+## 2025-12-02
+* Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2025-22376 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2025-22376.html)
+    * [CVE-2025-9714](https://linux.oracle.com/cve/CVE-2025-9714.html)
+* <https://github.com/docker-library/official-images/pull/20393>
+
 ## 2025-12-01
 * Release Oracle Linux 9 Update 7 for `amd64` and `arm64v8`
 * <https://github.com/docker-library/official-images/pull/20382>
