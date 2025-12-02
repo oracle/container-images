@@ -1,4 +1,8 @@
 # Changelog
+## 2025-12-01
+* Release Oracle Linux 9 Update 7 for `amd64` and `arm64v8`
+* <https://github.com/docker-library/official-images/pull/20382>
+
 ## 2025-11-25
 * Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2025-21977 - libssh security update](https://linux.oracle.com/errata/ELSA-2025-21977.html)
