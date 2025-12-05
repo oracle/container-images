@@ -1,4 +1,9 @@
 # Changelog
+## 2025-12-05
+* Release Oracle Linux 10 Update 1 for `amd64` and `arm64v8`
+
+* <https://github.com/docker-library/official-images/pull/20436>
+
 ## 2025-12-04
 * Update `oraclelinux:9` for `amd64` and `arm64v8`:
   * [ELSA-2025-22660 - systemd security update](https://linux.oracle.com/errata/ELSA-2025-22660.html)
