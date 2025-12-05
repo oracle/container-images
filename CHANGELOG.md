@@ -1,4 +1,10 @@
 # Changelog
+## 2025-12-04
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  * [ELSA-2025-22660 - systemd security update](https://linux.oracle.com/errata/ELSA-2025-22660.html)
+    * [CVE-2025-4598](https://linux.oracle.com/cve/CVE-2025-4598.html)
+* <https://github.com/docker-library/official-images/pull/20428>
+
 ## 2025-12-02
 * Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2025-22376 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2025-22376.html)
