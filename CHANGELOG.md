@@ -1,4 +1,17 @@
 # Changelog
+## 2025-12-24
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2025-23484 - libssh security update](https://linux.oracle.com/errata/ELSA-2025-23484.html)
+    * [CVE-2025-5987](https://linux.oracle.com/cve/CVE-2025-5987.html)
+  * [ELSA-2025-23479 - openssh security update](https://linux.oracle.com/errata/ELSA-2025-23479.html)
+    * [CVE-2025-61984](https://linux.oracle.com/cve/CVE-2025-61984.html)
+    * [CVE-2025-61985](https://linux.oracle.com/cve/CVE-2025-61985.html)
+  * [ELSA-2025-23940 - python3.12 security update](https://linux.oracle.com/errata/ELSA-2025-23940.html)
+    * [CVE-2025-8291](https://linux.oracle.com/cve/CVE-2025-8291.html)
+  * [ELBA-2025-23464 - tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2025-23464.html)
+    * tzdata-2025c
+* <https://github.com/docker-library/official-images/pull/20554>
+
 ## 2025-12-23
 * Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2025-23383 - curl security update](https://linux.oracle.com/errata/ELSA-2025-23383.html)
