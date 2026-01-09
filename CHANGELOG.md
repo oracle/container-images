@@ -1,4 +1,10 @@
 # Changelog
+## 2026-01-09
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2026-0337 - openssl security update](https://linux.oracle.com/errata/ELSA-2026-0337.html)
+    * [CVE-2025-9230](https://linux.oracle.com/cve/CVE-2025-9230.html)
+* <https://github.com/docker-library/official-images/pull/20609>
+
 ## 2026-01-05
 * Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
   * [ELSA-2026-0002 - tar security update](https://linux.oracle.com/errata/ELSA-2026-0002.html)
