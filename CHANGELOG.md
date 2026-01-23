@@ -1,4 +1,10 @@
 # Changelog
+## 2026-01-22
+* Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2026-0936 - glib2 security update](https://linux.oracle.com/errata/ELSA-2026-0936.html)
+    * [CVE-2025-13601](https://linux.oracle.com/cve/CVE-2025-13601.html)
+* <https://github.com/docker-library/official-images/pull/20704>
+
 ## 2026-01-20
 * Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
   * [ELSA-2026-0845 - brotli security update](https://linux.oracle.com/errata/ELSA-2026-0845.html)
