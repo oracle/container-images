@@ -19,9 +19,8 @@
 ## 2026-01-28
 * Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
   * [ELSA-2026-1334 - glibc security update](https://linux.oracle.com/errata/ELSA-2026-1334.html)
-    * [CVE-2026-0861](https://linux.oracle.com/cve/CVE-2026-0861.html)
+    * [CVE-2026-0861](https://linux.oracle.com/cve/CVE-2026-0861.html)
     * [CVE-2026-0915](https://linux.oracle.com/cve/CVE-2026-0915.html)
-    * [none](https://linux.oracle.com/cve/none.html)
 * <https://github.com/docker-library/official-images/pull/20741>
 
 ## 2026-01-28
