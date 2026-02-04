@@ -1,4 +1,13 @@
 # Changelog
+## 2026-02-03
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2026-1825 - curl security update](https://linux.oracle.com/errata/ELSA-2026-1825.html)
+    * [CVE-2025-9086](https://linux.oracle.com/cve/CVE-2025-9086.html)
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2026-1631 - python3 security update](https://linux.oracle.com/errata/ELSA-2026-1631.html)
+    * [CVE-2025-12084](https://linux.oracle.com/cve/CVE-2025-12084.html)
+* <https://github.com/docker-library/official-images/pull/20790>
+
 ## 2026-02-02
 * Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
   * [ELSA-2026-1696 - util-linux security update](https://linux.oracle.com/errata/ELSA-2026-1696.html)
