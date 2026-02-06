@@ -1,6 +1,4 @@
 # Changelog
-
-### ANother TEST
 ## 2026-02-06
 * Update `oraclelinux:8` for `amd64` and `arm64v8`:
   * [ELSA-2026-2128 - python3 security update](https://linux.oracle.com/errata/ELSA-2026-2128.html)
