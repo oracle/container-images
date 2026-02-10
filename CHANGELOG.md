@@ -5,8 +5,6 @@
     * [CVE-2025-6176](https://linux.oracle.com/cve/CVE-2025-6176.html)
 * <https://github.com/docker-library/official-images/pull/20834>
 
-
-### ANother TEST
 ## 2026-02-06
 * Update `oraclelinux:8` for `amd64` and `arm64v8`:
   * [ELSA-2026-2128 - python3 security update](https://linux.oracle.com/errata/ELSA-2026-2128.html)
