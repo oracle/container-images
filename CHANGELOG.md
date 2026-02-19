@@ -1,4 +1,12 @@
 # Changelog
+## 2026-02-18
+* Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2026-2786 - glibc security update](https://linux.oracle.com/errata/ELSA-2026-2786.html)
+    * [CVE-2025-15281](https://linux.oracle.com/cve/CVE-2025-15281.html)
+    * [CVE-2026-0861](https://linux.oracle.com/cve/CVE-2026-0861.html)
+    * [CVE-2026-0915](https://linux.oracle.com/cve/CVE-2026-0915.html)
+* <https://github.com/docker-library/official-images/pull/20880>
+
 ## 2026-02-10
 * Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2026-2389 - brotli security update](https://linux.oracle.com/errata/ELSA-2026-2389.html)
