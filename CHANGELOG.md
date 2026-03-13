@@ -1,4 +1,16 @@
 # Changelog
+## 2026-03-13
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2026-4442 - vim security update](https://linux.oracle.com/errata/ELSA-2026-4442.html)
+    * [CVE-2026-25749](https://linux.oracle.com/cve/CVE-2026-25749.html)
+* Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2026-4442 - vim security update](https://linux.oracle.com/errata/ELSA-2026-4442.html)
+    * [CVE-2026-25749](https://linux.oracle.com/cve/CVE-2026-25749.html)
+  * [ELSA-2026-4188 - gnutls security update](https://linux.oracle.com/errata/ELSA-2026-4188.html)
+    * [CVE-2025-14831](https://linux.oracle.com/cve/CVE-2025-14831.html)
+    * [CVE-2025-9820](https://linux.oracle.com/cve/CVE-2025-9820.html)
+* <https://github.com/docker-library/official-images/pull/21035>
+
 ## 2026-03-10
 * Update `oraclelinux:9` for `amd64` and `arm64v8`:
   * [ELSA-2026-4168 - python3.9 security update](https://linux.oracle.com/errata/ELSA-2026-4168.html)
