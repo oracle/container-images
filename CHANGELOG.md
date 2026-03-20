@@ -1,4 +1,24 @@
 # Changelog
+## 2026-03-19
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2026-5063 - libarchive security update](https://linux.oracle.com/errata/ELSA-2026-5063.html)
+    * [CVE-2026-4111](https://linux.oracle.com/cve/CVE-2026-4111.html)
+  * [ELBA-2026-4902 - tzdata bug fix and enhancement update ](https://linux.oracle.com/errata/ELBA-2026-4902.html)
+    * tzdata 2026a update
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELBA-2026-4902 - tzdata bug fix and enhancement update ](https://linux.oracle.com/errata/ELBA-2026-4902.html)
+    * tzdata 2026a update
+  * [ELSA-2026-4772 - glibc security update](https://linux.oracle.com/errata/ELSA-2026-4772.html)
+    * [CVE-2025-15281](https://linux.oracle.com/cve/CVE-2025-15281.html)
+    * [CVE-2026-0915](https://linux.oracle.com/cve/CVE-2026-0915.html)
+* Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELBA-2026-4902 - tzdata bug fix and enhancement update ](https://linux.oracle.com/errata/ELBA-2026-4902.html)
+    * tzdata 2026a update
+  * [ELSA-2026-5080 - libarchive security update](https://linux.oracle.com/errata/ELSA-2026-5080.html)
+    * [CVE-2026-4111](https://linux.oracle.com/cve/CVE-2026-4111.html)
+
+* <https://github.com/docker-library/official-images/pull/21071>
+
 ## 2026-03-17
 * Update `oraclelinux:10` for `amd64` and `arm64v8`:
   * [ELSA-2026-4713 - python3.12 security update](https://linux.oracle.com/errata/ELSA-2026-4713.html)
