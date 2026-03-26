@@ -1,4 +1,10 @@
 # Changelog
+## 2026-03-26
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2026-5913 - ncurses security update](https://linux.oracle.com/errata/ELSA-2026-5913.html)
+    * [CVE-2025-69720](https://linux.oracle.com/cve/CVE-2025-69720.html)
+* <https://github.com/docker-library/official-images/pull/21122>
+
 ## 2026-03-25
 * Update `oraclelinux:9` for `amd64` and `arm64v8`:
   * [ELSA-2026-5602 - vim security update](https://linux.oracle.com/errata/ELSA-2026-5602.html)
