@@ -1,4 +1,13 @@
 # Changelog
+## 2026-03-30
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2026-5585 - gnutls security update](https://linux.oracle.com/errata/ELSA-2026-5585.html)
+    * [CVE-2025-14831](https://linux.oracle.com/cve/CVE-2025-14831.html)
+    * [CVE-2025-9820](https://linux.oracle.com/cve/CVE-2025-9820.html)
+  * [ELSA-2026-5588 - python3 security update](https://linux.oracle.com/errata/ELSA-2026-5588.html)
+    * [CVE-2025-0938](https://linux.oracle.com/cve/CVE-2025-0938.html)
+* <https://github.com/docker-library/official-images/pull/21140>
+
 ## 2026-03-26
 * Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
   * [ELSA-2026-5913 - ncurses security update](https://linux.oracle.com/errata/ELSA-2026-5913.html)
