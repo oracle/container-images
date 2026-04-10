@@ -1,4 +1,42 @@
 # Changelog
+## 2026-04-10
+* Update `oraclelinux:10` for `amd64` and `arm64v8`:
+  * [ELSA-2026-6463 - openssh security update](https://linux.oracle.com/errata/ELSA-2026-6463.html)
+    * [CVE-2026-3497](https://linux.oracle.com/cve/CVE-2026-3497.html)
+  * [ELSA-2026-6256 - python3.12 security update](https://linux.oracle.com/errata/ELSA-2026-6256.html)
+    * [CVE-2026-4519](https://linux.oracle.com/cve/CVE-2026-4519.html)
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2026-6463 - openssh security update](https://linux.oracle.com/errata/ELSA-2026-6463.html)
+    * [CVE-2026-3497](https://linux.oracle.com/cve/CVE-2026-3497.html)
+  * [ELSA-2026-6256 - python3.12 security update](https://linux.oracle.com/errata/ELSA-2026-6256.html)
+    * [CVE-2026-4519](https://linux.oracle.com/cve/CVE-2026-4519.html)
+  * [ELSA-2026-6461 - openssh security update](https://linux.oracle.com/errata/ELSA-2026-6461.html)
+    * [CVE-2026-3497](https://linux.oracle.com/cve/CVE-2026-3497.html)
+  * [ELSA-2026-6473 - python3 security update](https://linux.oracle.com/errata/ELSA-2026-6473.html)
+    * [CVE-2026-4519](https://linux.oracle.com/cve/CVE-2026-4519.html)
+  * [ELSA-2026-6915 - vim security update](https://linux.oracle.com/errata/ELSA-2026-6915.html)
+    * [CVE-2026-28417](https://linux.oracle.com/cve/CVE-2026-28417.html)
+    * [CVE-2026-28421](https://linux.oracle.com/cve/CVE-2026-28421.html)
+    * [CVE-2026-33412](https://linux.oracle.com/cve/CVE-2026-33412.html)
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  * [ELSA-2026-6463 - openssh security update](https://linux.oracle.com/errata/ELSA-2026-6463.html)
+    * [CVE-2026-3497](https://linux.oracle.com/cve/CVE-2026-3497.html)
+  * [ELSA-2026-6256 - python3.12 security update](https://linux.oracle.com/errata/ELSA-2026-6256.html)
+    * [CVE-2026-4519](https://linux.oracle.com/cve/CVE-2026-4519.html)
+  * [ELSA-2026-6461 - openssh security update](https://linux.oracle.com/errata/ELSA-2026-6461.html)
+    * [CVE-2026-3497](https://linux.oracle.com/cve/CVE-2026-3497.html)
+  * [ELSA-2026-6473 - python3 security update](https://linux.oracle.com/errata/ELSA-2026-6473.html)
+    * [CVE-2026-4519](https://linux.oracle.com/cve/CVE-2026-4519.html)
+  * [ELSA-2026-6915 - vim security update](https://linux.oracle.com/errata/ELSA-2026-6915.html)
+    * [CVE-2026-28417](https://linux.oracle.com/cve/CVE-2026-28417.html)
+    * [CVE-2026-28421](https://linux.oracle.com/cve/CVE-2026-28421.html)
+    * [CVE-2026-33412](https://linux.oracle.com/cve/CVE-2026-33412.html)
+  * [ELSA-2026-6462 - openssh security update](https://linux.oracle.com/errata/ELSA-2026-6462.html)
+    * [CVE-2026-3497](https://linux.oracle.com/cve/CVE-2026-3497.html)
+  * [ELSA-2026-6766 - python3.9 security update](https://linux.oracle.com/errata/ELSA-2026-6766.html)
+    * [CVE-2026-4519](https://linux.oracle.com/cve/CVE-2026-4519.html)
+* <https://github.com/docker-library/official-images/pull/21216>
+
 ## 2026-03-30
 * Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2026-5585 - gnutls security update](https://linux.oracle.com/errata/ELSA-2026-5585.html)
