@@ -1,4 +1,34 @@
 # Changelog
+## 2026-04-14
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2026-7711 - vim security update](https://linux.oracle.com/errata/ELSA-2026-7711.html)
+    * [CVE-2026-28417](https://linux.oracle.com/cve/CVE-2026-28417.html)
+    * [CVE-2026-28421](https://linux.oracle.com/cve/CVE-2026-28421.html)
+    * [CVE-2026-33412](https://linux.oracle.com/cve/CVE-2026-33412.html)
+  * [ELSA-2026-7666 - nghttp2 security update](https://linux.oracle.com/errata/ELSA-2026-7666.html)
+    * [CVE-2026-27135](https://linux.oracle.com/cve/CVE-2026-27135.html)
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2026-7711 - vim security update](https://linux.oracle.com/errata/ELSA-2026-7711.html)
+    * [CVE-2026-28417](https://linux.oracle.com/cve/CVE-2026-28417.html)
+    * [CVE-2026-28421](https://linux.oracle.com/cve/CVE-2026-28421.html)
+    * [CVE-2026-33412](https://linux.oracle.com/cve/CVE-2026-33412.html)
+  * [ELSA-2026-7666 - nghttp2 security update](https://linux.oracle.com/errata/ELSA-2026-7666.html)
+    * [CVE-2026-27135](https://linux.oracle.com/cve/CVE-2026-27135.html)
+  * [ELSA-2026-7667 - nghttp2 security update](https://linux.oracle.com/errata/ELSA-2026-7667.html)
+    * [CVE-2026-27135](https://linux.oracle.com/cve/CVE-2026-27135.html)
+* Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2026-7711 - vim security update](https://linux.oracle.com/errata/ELSA-2026-7711.html)
+    * [CVE-2026-28417](https://linux.oracle.com/cve/CVE-2026-28417.html)
+    * [CVE-2026-28421](https://linux.oracle.com/cve/CVE-2026-28421.html)
+    * [CVE-2026-33412](https://linux.oracle.com/cve/CVE-2026-33412.html)
+  * [ELSA-2026-7666 - nghttp2 security update](https://linux.oracle.com/errata/ELSA-2026-7666.html)
+    * [CVE-2026-27135](https://linux.oracle.com/cve/CVE-2026-27135.html)
+  * [ELSA-2026-7667 - nghttp2 security update](https://linux.oracle.com/errata/ELSA-2026-7667.html)
+    * [CVE-2026-27135](https://linux.oracle.com/cve/CVE-2026-27135.html)
+  * [ELSA-2026-7668 - nghttp2 security update](https://linux.oracle.com/errata/ELSA-2026-7668.html)
+    * [CVE-2026-27135](https://linux.oracle.com/cve/CVE-2026-27135.html)
+* <https://github.com/docker-library/official-images/pull/21237>
+
 ## 2026-04-10
 * Update `oraclelinux:10` for `amd64` and `arm64v8`:
   * [ELSA-2026-6463 - openssh security update](https://linux.oracle.com/errata/ELSA-2026-6463.html)
