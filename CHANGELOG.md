@@ -1,4 +1,30 @@
 # Changelog
+## 2026-04-28
+* Update `oraclelinux:10` for `amd64` and `arm64v8`:
+  * [ELSA-2026-10711 - python3.12 security update](https://linux.oracle.com/errata/ELSA-2026-10711.html)
+    * [CVE-2026-4786](https://linux.oracle.com/cve/CVE-2026-4786.html)
+    * [CVE-2026-6100](https://linux.oracle.com/cve/CVE-2026-6100.html)
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2026-10711 - python3.12 security update](https://linux.oracle.com/errata/ELSA-2026-10711.html)
+    * [CVE-2026-4786](https://linux.oracle.com/cve/CVE-2026-4786.html)
+    * [CVE-2026-6100](https://linux.oracle.com/cve/CVE-2026-6100.html)
+  * [ELSA-2026-11349 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2026-11349.html)
+    * [CVE-2025-9714](https://linux.oracle.com/cve/CVE-2025-9714.html)
+  * [ELSA-2026-11077 - python3 security update](https://linux.oracle.com/errata/ELSA-2026-11077.html)
+    * [CVE-2026-4786](https://linux.oracle.com/cve/CVE-2026-4786.html)
+    * [CVE-2026-6100](https://linux.oracle.com/cve/CVE-2026-6100.html)
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  * [ELSA-2026-10711 - python3.12 security update](https://linux.oracle.com/errata/ELSA-2026-10711.html)
+    * [CVE-2026-4786](https://linux.oracle.com/cve/CVE-2026-4786.html)
+    * [CVE-2026-6100](https://linux.oracle.com/cve/CVE-2026-6100.html)
+  * [ELSA-2026-11349 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2026-11349.html)
+    * [CVE-2025-9714](https://linux.oracle.com/cve/CVE-2025-9714.html)
+  * [ELSA-2026-11077 - python3 security update](https://linux.oracle.com/errata/ELSA-2026-11077.html)
+    * [CVE-2026-4786](https://linux.oracle.com/cve/CVE-2026-4786.html)
+    * [CVE-2026-6100](https://linux.oracle.com/cve/CVE-2026-6100.html)
+  * [ELSA-2026-10949 - python3.9 security update](https://linux.oracle.com/errata/ELSA-2026-10949.html)
+* <https://github.com/docker-library/official-images/pull/21340>
+
 ## 2026-04-17
 * Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
   * [ELSA-2026-8492 - libarchive security update](https://linux.oracle.com/errata/ELSA-2026-8492.html)
