@@ -1,4 +1,16 @@
 # Changelog
+## 2026-04-30
+* Update `oraclelinux:10` for `amd64` and `arm64v8`:
+  * [ELSA-2026-11389 - vim security update](https://linux.oracle.com/errata/ELSA-2026-11389.html)
+    * [CVE-2026-34982](https://linux.oracle.com/cve/CVE-2026-34982.html)
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  * [ELSA-2026-11510 - vim security update](https://linux.oracle.com/errata/ELSA-2026-11510.html)
+    * [CVE-2026-34982](https://linux.oracle.com/cve/CVE-2026-34982.html)
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2026-11509 - vim security update](https://linux.oracle.com/errata/ELSA-2026-11509.html)
+    * [CVE-2026-34982](https://linux.oracle.com/cve/CVE-2026-34982.html)
+* <https://github.com/docker-library/official-images/pull/21353>
+
 ## 2026-04-28
 * Update `oraclelinux:10` for `amd64` and `arm64v8`:
   * [ELSA-2026-10711 - python3.12 security update](https://linux.oracle.com/errata/ELSA-2026-10711.html)
