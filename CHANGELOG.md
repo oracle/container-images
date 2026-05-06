@@ -1,5 +1,17 @@
 # Changelog
 ## 2026-05-06
+* Update `oraclelinux:8` for `amd64` and `arm64v8`:
+  * [ELSA-2026-13285 - libcap security update](https://linux.oracle.com/errata/ELSA-2026-13285.html)
+    * [CVE-2026-4878](https://linux.oracle.com/cve/CVE-2026-4878.html)
+  * [ELSA-2026-13383 - openssh security update](https://linux.oracle.com/errata/ELSA-2026-13383.html)
+    * [CVE-2026-35385](https://linux.oracle.com/cve/CVE-2026-35385.html)
+    * [CVE-2026-35386](https://linux.oracle.com/cve/CVE-2026-35386.html)
+    * [CVE-2026-35387](https://linux.oracle.com/cve/CVE-2026-35387.html)
+    * [CVE-2026-35388](https://linux.oracle.com/cve/CVE-2026-35388.html)
+    * [CVE-2026-35414](https://linux.oracle.com/cve/CVE-2026-35414.html)
+* <https://github.com/docker-library/official-images/pull/21399>
+
+## 2026-05-06
 * Update `oraclelinux:10` for `amd64` and `arm64v8`:
   * [ELSA-2026-13380 - openssh security update](https://linux.oracle.com/errata/ELSA-2026-13380.html)
     * [CVE-2026-35385](https://linux.oracle.com/cve/CVE-2026-35385.html)
