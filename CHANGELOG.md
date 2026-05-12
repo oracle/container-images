@@ -1,4 +1,19 @@
 # Changelog
+## 2026-05-12
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2026-15969 - glib2 security update](https://linux.oracle.com/errata/ELSA-2026-15969.html)
+    * [CVE-2025-14087](https://linux.oracle.com/cve/CVE-2025-14087.html)
+    * [CVE-2025-14512](https://linux.oracle.com/cve/CVE-2025-14512.html)
+* Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2026-15971 - glib2 security update](https://linux.oracle.com/errata/ELSA-2026-15971.html)
+    * [CVE-2025-14087](https://linux.oracle.com/cve/CVE-2025-14087.html)
+    * [CVE-2025-14512](https://linux.oracle.com/cve/CVE-2025-14512.html)
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2026-15953 - glib2 security update](https://linux.oracle.com/errata/ELSA-2026-15953.html)
+    * [CVE-2025-14087](https://linux.oracle.com/cve/CVE-2025-14087.html)
+    * [CVE-2025-14512](https://linux.oracle.com/cve/CVE-2025-14512.html)
+* <https://github.com/docker-library/official-images/pull/21447>
+
 ## 2026-05-06
 * Update `oraclelinux:8` for `amd64` and `arm64v8`:
   * [ELSA-2026-13285 - libcap security update](https://linux.oracle.com/errata/ELSA-2026-13285.html)
