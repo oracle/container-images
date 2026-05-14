@@ -1,4 +1,11 @@
 # Changelog
+## 2026-05-14
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2026-16799 - krb5 security update](https://linux.oracle.com/errata/ELSA-2026-16799.html)
+    * [CVE-2026-40355](https://linux.oracle.com/cve/CVE-2026-40355.html)
+    * [CVE-2026-40356](https://linux.oracle.com/cve/CVE-2026-40356.html)
+* <https://github.com/docker-library/official-images/pull/21475>
+
 ## 2026-05-12
 * Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
   * [ELSA-2026-15969 - glib2 security update](https://linux.oracle.com/errata/ELSA-2026-15969.html)
