@@ -1,6 +1,5 @@
 # Changelog
 ## 2026-06-23
-
 * Release Oracle Linux 9 Update 8 for `amd64` and `arm64v8`
 * <https://github.com/docker-library/official-images/pull/21720>
 
