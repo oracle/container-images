@@ -1,4 +1,37 @@
 # Changelog
+## 2026-06-25
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2026-24339 - bind security update](https://linux.oracle.com/errata/ELSA-2026-24339.html)
+    * [CVE-2026-3039](https://linux.oracle.com/cve/CVE-2026-3039.html)
+    * [CVE-2026-5946](https://linux.oracle.com/cve/CVE-2026-5946.html)
+  * [ELSA-2026-22721 - expat security update](https://linux.oracle.com/errata/ELSA-2026-22721.html)
+    * [CVE-2026-45186](https://linux.oracle.com/cve/CVE-2026-45186.html)
+  * [ELSA-2026-20587 - glibc security update](https://linux.oracle.com/errata/ELSA-2026-20587.html)
+    * [CVE-2026-4046](https://linux.oracle.com/cve/CVE-2026-4046.html)
+  * [ELSA-2026-20611 - gnutls security update](https://linux.oracle.com/errata/ELSA-2026-20611.html)
+    * [CVE-2026-33845](https://linux.oracle.com/cve/CVE-2026-33845.html)
+    * [CVE-2026-33846](https://linux.oracle.com/cve/CVE-2026-33846.html)
+    * [CVE-2026-3833](https://linux.oracle.com/cve/CVE-2026-3833.html)
+    * [CVE-2026-42009](https://linux.oracle.com/cve/CVE-2026-42009.html)
+    * [CVE-2026-42010](https://linux.oracle.com/cve/CVE-2026-42010.html)
+    * [CVE-2026-42011](https://linux.oracle.com/cve/CVE-2026-42011.html)
+    * [CVE-2026-42012](https://linux.oracle.com/cve/CVE-2026-42012.html)
+    * [CVE-2026-42013](https://linux.oracle.com/cve/CVE-2026-42013.html)
+    * [CVE-2026-42014](https://linux.oracle.com/cve/CVE-2026-42014.html)
+    * [CVE-2026-42015](https://linux.oracle.com/cve/CVE-2026-42015.html)
+    * [CVE-2026-5260](https://linux.oracle.com/cve/CVE-2026-5260.html)
+  * [ELSA-2026-26354 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2026-26354.html)
+    * [CVE-2024-34459](https://linux.oracle.com/cve/CVE-2024-34459.html)
+  * [ELSA-2026-26275 - openssl security update](https://linux.oracle.com/errata/ELSA-2026-26275.html)
+    * [CVE-2024-4741](https://linux.oracle.com/cve/CVE-2024-4741.html)
+    * [CVE-2026-45447](https://linux.oracle.com/cve/CVE-2026-45447.html)
+  * [ - ](https://linux.oracle.com/errata/.html)
+  * [ELSA-2026-22730 - vim security update](https://linux.oracle.com/errata/ELSA-2026-22730.html)
+    * [CVE-2026-35177](https://linux.oracle.com/cve/CVE-2026-35177.html)
+  * [ELSA-2026-28553 - vim security update](https://linux.oracle.com/errata/ELSA-2026-28553.html)
+    * [CVE-2026-41411](https://linux.oracle.com/cve/CVE-2026-41411.html)
+* <https://github.com/docker-library/official-images/pull/21731>
+
 ## 2026-06-23
 * Release Oracle Linux 9 Update 8 for `amd64` and `arm64v8`
 * <https://github.com/docker-library/official-images/pull/21720>
