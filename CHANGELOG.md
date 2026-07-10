@@ -1,4 +1,24 @@
 # Changelog
+## 2026-07-10
+* Update `oraclelinux:9` for `amd64` and `arm64v8`:
+  * [ELSA-2026-25239 - openssl security update - Release openssl-3.5.5-4.el9_8.src.rpm version to the 9.3 security validation channel/repo](https://linux.oracle.com/errata/ELSA-2026-25239.html)
+    * [CVE-2026-34180](https://linux.oracle.com/cve/CVE-2026-34180.html)
+    * [CVE-2026-34181](https://linux.oracle.com/cve/CVE-2026-34181.html)
+    * [CVE-2026-34182](https://linux.oracle.com/cve/CVE-2026-34182.html)
+    * [CVE-2026-34183](https://linux.oracle.com/cve/CVE-2026-34183.html)
+    * [CVE-2026-42764](https://linux.oracle.com/cve/CVE-2026-42764.html)
+    * [CVE-2026-42766](https://linux.oracle.com/cve/CVE-2026-42766.html)
+    * [CVE-2026-42767](https://linux.oracle.com/cve/CVE-2026-42767.html)
+    * [CVE-2026-42768](https://linux.oracle.com/cve/CVE-2026-42768.html)
+    * [CVE-2026-42769](https://linux.oracle.com/cve/CVE-2026-42769.html)
+    * [CVE-2026-42770](https://linux.oracle.com/cve/CVE-2026-42770.html)
+    * [CVE-2026-45445](https://linux.oracle.com/cve/CVE-2026-45445.html)
+    * [CVE-2026-45446](https://linux.oracle.com/cve/CVE-2026-45446.html)
+    * [CVE-2026-45447](https://linux.oracle.com/cve/CVE-2026-45447.html)
+    * [CVE-2026-7383](https://linux.oracle.com/cve/CVE-2026-7383.html)
+    * [CVE-2026-9076](https://linux.oracle.com/cve/CVE-2026-9076.html)
+* <https://github.com/docker-library/official-images/pull/21824>
+
 ## 2026-07-09
 * Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2026-28911 - coreutils security update](https://linux.oracle.com/errata/ELSA-2026-28911.html)
