@@ -1,4 +1,30 @@
 # Changelog
+## 2026-07-21
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2026-33124 - coreutils security update](https://linux.oracle.com/errata/ELSA-2026-33124.html)
+    * [CVE-2025-5278](https://linux.oracle.com/cve/CVE-2025-5278.html)
+  * [ELSA-2026-22715 - expat security update](https://linux.oracle.com/errata/ELSA-2026-22715.html)
+    * [CVE-2026-45186](https://linux.oracle.com/cve/CVE-2026-45186.html)
+  * [ELSA-2026-19148 - glib2 security update](https://linux.oracle.com/errata/ELSA-2026-19148.html)
+    * [CVE-2025-14087](https://linux.oracle.com/cve/CVE-2025-14087.html)
+    * [CVE-2025-14512](https://linux.oracle.com/cve/CVE-2025-14512.html)
+  * [ELSA-2026-18139 - glibc security update](https://linux.oracle.com/errata/ELSA-2026-18139.html)
+    * [CVE-2025-15281](https://linux.oracle.com/cve/CVE-2025-15281.html)
+  * [ELSA-2026-19145 - krb5 security update](https://linux.oracle.com/errata/ELSA-2026-19145.html)
+    * [CVE-2026-40355](https://linux.oracle.com/cve/CVE-2026-40355.html)
+    * [CVE-2026-40356](https://linux.oracle.com/cve/CVE-2026-40356.html)
+  * [ELSA-2026-19130 - libcap security update](https://linux.oracle.com/errata/ELSA-2026-19130.html)
+    * [CVE-2026-4878](https://linux.oracle.com/cve/CVE-2026-4878.html)
+  * [ELSA-2026-28236 - libsolv security update](https://linux.oracle.com/errata/ELSA-2026-28236.html)
+    * [CVE-2026-48864](https://linux.oracle.com/cve/CVE-2026-48864.html)
+    * [CVE-2026-9149](https://linux.oracle.com/cve/CVE-2026-9149.html)
+    * [CVE-2026-9150](https://linux.oracle.com/cve/CVE-2026-9150.html)
+  * [ELSA-2026-28235 - libtasn1 security update](https://linux.oracle.com/errata/ELSA-2026-28235.html)
+    * [CVE-2025-13151](https://linux.oracle.com/cve/CVE-2025-13151.html)
+  * [ELSA-2026-28235 - ](https://linux.oracle.com/errata/ELSA-2026-28235.html)
+    * [CVE-2025-13151](https://linux.oracle.com/cve/CVE-2025-13151.html)
+* <https://github.com/docker-library/official-images/pull/21892>
+
 ## 2026-07-16
 * Update `oraclelinux:9` for `amd64` and `arm64v8`:
   * [ELSA-2026-38511 - vim security update](https://linux.oracle.com/errata/ELSA-2026-38511.html)
