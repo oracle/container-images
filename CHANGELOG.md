@@ -1,4 +1,20 @@
 # Changelog
+## 2026-08-18
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2026-55855 - libssh security update](https://linux.oracle.com/errata/ELSA-2026-55855.html)
+    * [CVE-2026-15370](https://linux.oracle.com/cve/CVE-2026-15370.html)
+    * [CVE-2026-59842](https://linux.oracle.com/cve/CVE-2026-59842.html)
+    * [CVE-2026-59843](https://linux.oracle.com/cve/CVE-2026-59843.html)
+    * [CVE-2026-59844](https://linux.oracle.com/cve/CVE-2026-59844.html)
+    * [CVE-2026-59845](https://linux.oracle.com/cve/CVE-2026-59845.html)
+    * [CVE-2026-59846](https://linux.oracle.com/cve/CVE-2026-59846.html)
+    * [CVE-2026-59847](https://linux.oracle.com/cve/CVE-2026-59847.html)
+    * [CVE-2026-59848](https://linux.oracle.com/cve/CVE-2026-59848.html)
+    * [CVE-2026-59849](https://linux.oracle.com/cve/CVE-2026-59849.html)
+    * [CVE-2026-59850](https://linux.oracle.com/cve/CVE-2026-59850.html)
+    * [CVE-2026-59851](https://linux.oracle.com/cve/CVE-2026-59851.html)
+* <https://github.com/docker-library/official-images/pull/22086>
+
 ## 2026-08-17
 * Update `oraclelinux:8` for `amd64` and `arm64v8`:
   * [ELSA-2026-54654 - bind security update](https://linux.oracle.com/errata/ELSA-2026-54654.html)
