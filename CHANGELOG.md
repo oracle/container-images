@@ -1,4 +1,28 @@
 # Changelog
+## 2026-09-04
+* Update Oracle Linux 8 slim, Oracle Linux 8 slim FIPS, and Oracle Linux 8 for `amd64` and `arm64v8`:
+  * [ELSA-2026-55804 - ELSA-2026-55804 Moderate: nghttp2 security update](https://linux.oracle.com/errata/ELSA-2026-55804.html)
+    * [CVE-2026-58055](https://nvd.nist.gov/vuln/detail/CVE-2026-58055)
+  * [ELSA-2026-56131 - ELSA-2026-56131 Moderate: pam security update](https://linux.oracle.com/errata/ELSA-2026-56131.html)
+    * [CVE-2026-54411](https://nvd.nist.gov/vuln/detail/CVE-2026-54411)
+  * [ELSA-2026-56133 - ELSA-2026-56133 Moderate: attr security update](https://linux.oracle.com/errata/ELSA-2026-56133.html)
+    * [CVE-2026-54371](https://nvd.nist.gov/vuln/detail/CVE-2026-54371)
+  * [ELSA-2026-56219 - ELSA-2026-56219 Important: python3 security update](https://linux.oracle.com/errata/ELSA-2026-56219.html)
+    * [CVE-2026-11940](https://nvd.nist.gov/vuln/detail/CVE-2026-11940)
+  * [ELSA-2026-57462 - ELSA-2026-57462 Important: curl security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2026-57462.html)
+    * [CVE-2026-8286](https://nvd.nist.gov/vuln/detail/CVE-2026-8286)
+  * [ELSA-2026-58938 - ELSA-2026-58938 Important: sqlite security update](https://linux.oracle.com/errata/ELSA-2026-58938.html)
+    * [CVE-2026-11822](https://nvd.nist.gov/vuln/detail/CVE-2026-11822)
+    * [CVE-2026-11824](https://nvd.nist.gov/vuln/detail/CVE-2026-11824)
+* Update Oracle Linux 10 slim and Oracle Linux 10 for `amd64` and `arm64v8`:
+  * [ELSA-2026-57015 - ELSA-2026-57015 Moderate: glib2 security update](https://linux.oracle.com/errata/ELSA-2026-57015.html)
+    * [CVE-2026-15588](https://nvd.nist.gov/vuln/detail/CVE-2026-15588)
+    * [CVE-2026-58010](https://nvd.nist.gov/vuln/detail/CVE-2026-58010)
+    * [CVE-2026-58011](https://nvd.nist.gov/vuln/detail/CVE-2026-58011)
+    * [CVE-2026-58012](https://nvd.nist.gov/vuln/detail/CVE-2026-58012)
+    * [CVE-2026-58013](https://nvd.nist.gov/vuln/detail/CVE-2026-58013)
+    * [CVE-2026-58014](https://nvd.nist.gov/vuln/detail/CVE-2026-58014)
+    * [CVE-2026-58015](https://nvd.nist.gov/vuln/detail/CVE-2026-58015)
 ## 2026-08-18
 * Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
   * [ELSA-2026-55855 - libssh security update](https://linux.oracle.com/errata/ELSA-2026-55855.html)
