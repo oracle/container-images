@@ -1,4 +1,28 @@
 # Changelog
+## 2026-09-11
+* Update Oracle Linux 8 for `amd64` and `arm64v8`:
+  * [ELSA-2026-64809 - ELSA-2026-64809-0 Moderate: expat security update](https://linux.oracle.com/errata/ELSA-2026-64809.html)
+    * [CVE-2026-50219](https://nvd.nist.gov/vuln/detail/CVE-2026-50219)
+    * [CVE-2026-56132](https://nvd.nist.gov/vuln/detail/CVE-2026-56132)
+  * [ELSA-2026-65998 - ELSA-2026-65998-0 Moderate: gzip security update](https://linux.oracle.com/errata/ELSA-2026-65998.html)
+    * [CVE-2026-41991](https://nvd.nist.gov/vuln/detail/CVE-2026-41991)
+    * [CVE-2026-41992](https://nvd.nist.gov/vuln/detail/CVE-2026-41992)
+  * [ELSA-2026-66451 - ELSA-2026-66451-0 Moderate: glib2 security update](https://linux.oracle.com/errata/ELSA-2026-66451.html)
+    * [CVE-2026-16118](https://nvd.nist.gov/vuln/detail/CVE-2026-16118)
+  * [ELSA-2026-66348 - ELSA-2026-66348-0 Important: vim security update](https://linux.oracle.com/errata/ELSA-2026-66348.html)
+    * [CVE-2026-28420](https://nvd.nist.gov/vuln/detail/CVE-2026-28420)
+    * [CVE-2026-52859](https://nvd.nist.gov/vuln/detail/CVE-2026-52859)
+    * [CVE-2026-55892](https://nvd.nist.gov/vuln/detail/CVE-2026-55892)
+    * [CVE-2026-59857](https://nvd.nist.gov/vuln/detail/CVE-2026-59857)
+    * [CVE-2026-73072](https://nvd.nist.gov/vuln/detail/CVE-2026-73072)
+    * [CVE-2026-73076](https://nvd.nist.gov/vuln/detail/CVE-2026-73076)
+    * [CVE-2026-73078](https://nvd.nist.gov/vuln/detail/CVE-2026-73078)
+* Update Oracle Linux 9 slim, Oracle Linux 9 slim FIPS, and Oracle Linux 9 for `amd64` and `arm64v8`:
+  * [ELSA-2026-64812 - ELSA-2026-64812-0 Moderate: expat security update](https://linux.oracle.com/errata/ELSA-2026-64812.html)
+    * [CVE-2026-50219](https://nvd.nist.gov/vuln/detail/CVE-2026-50219)
+    * [CVE-2026-56132](https://nvd.nist.gov/vuln/detail/CVE-2026-56132)
+  * [ELSA-2026-64800 - ELSA-2026-64800-0 Moderate: glib2 security update](https://linux.oracle.com/errata/ELSA-2026-64800.html)
+    * [CVE-2026-16118](https://nvd.nist.gov/vuln/detail/CVE-2026-16118)
 ## 2026-09-04
 * Update Oracle Linux 8 slim, Oracle Linux 8 slim FIPS, and Oracle Linux 8 for `amd64` and `arm64v8`:
   * [ELSA-2026-55804 - ELSA-2026-55804 Moderate: nghttp2 security update](https://linux.oracle.com/errata/ELSA-2026-55804.html)
