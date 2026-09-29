@@ -1,4 +1,24 @@
 # Changelog
+## 2026-09-28
+* Update Oracle Linux 9 slim, Oracle Linux 9 slim FIPS, and Oracle Linux 9 for `amd64` and `arm64v8`:
+  * [ELSA-2026-69126 - ELSA-2026-69126 Important: curl security update](https://linux.oracle.com/errata/ELSA-2026-69126.html)
+    * [CVE-2026-8458](https://nvd.nist.gov/vuln/detail/CVE-2026-8458)
+    * [CVE-2026-8927](https://nvd.nist.gov/vuln/detail/CVE-2026-8927)
+  * [ELSA-2026-69130 - ELSA-2026-69130 Important: openssh security update](https://linux.oracle.com/errata/ELSA-2026-69130.html)
+    * [CVE-2026-59995](https://nvd.nist.gov/vuln/detail/CVE-2026-59995)
+    * [CVE-2026-59999](https://nvd.nist.gov/vuln/detail/CVE-2026-59999)
+    * [CVE-2026-73281](https://nvd.nist.gov/vuln/detail/CVE-2026-73281)
+    * [CVE-2026-73282](https://nvd.nist.gov/vuln/detail/CVE-2026-73282)
+    * [CVE-2026-73283](https://nvd.nist.gov/vuln/detail/CVE-2026-73283)
+  * [ELSA-2026-69540 - ELSA-2026-69540 Important: rsyslog security update](https://linux.oracle.com/errata/ELSA-2026-69540.html)
+    * [CVE-2026-78002](https://nvd.nist.gov/vuln/detail/CVE-2026-78002)
+  * [ELSA-2026-71585 - ELSA-2026-71585 Important: libxml2 security update](https://linux.oracle.com/errata/ELSA-2026-71585.html)
+    * [CVE-2026-74860](https://nvd.nist.gov/vuln/detail/CVE-2026-74860)
+    * [CVE-2026-86138](https://nvd.nist.gov/vuln/detail/CVE-2026-86138)
+    * [CVE-2026-86140](https://nvd.nist.gov/vuln/detail/CVE-2026-86140)
+    * [CVE-2026-86142](https://nvd.nist.gov/vuln/detail/CVE-2026-86142)
+    * [CVE-2026-86143](https://nvd.nist.gov/vuln/detail/CVE-2026-86143)
+    * [CVE-2026-86144](https://nvd.nist.gov/vuln/detail/CVE-2026-86144)
 ## 2026-09-21
 * Update Oracle Linux 9 slim, Oracle Linux 9 slim FIPS, and Oracle Linux 9 for `amd64` and `arm64v8`:
   * [ELSA-2026-66403 - ELSA-2026-66403-0 Moderate: coreutils security update](https://linux.oracle.com/errata/ELSA-2026-66403.html)
