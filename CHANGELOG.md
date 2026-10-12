@@ -1,4 +1,19 @@
 # Changelog
+## 2026-10-12
+* Update Oracle Linux 8 slim and Oracle Linux 8 for `amd64` and `arm64v8`:
+  * [ELSA-2026-79162 - ELSA-2026-79162 Important: bind security update](https://linux.oracle.com/errata/ELSA-2026-79162.html)
+    * [CVE-2026-19666](https://nvd.nist.gov/vuln/detail/CVE-2026-19666)
+    * [CVE-2026-19667](https://nvd.nist.gov/vuln/detail/CVE-2026-19667)
+    * [CVE-2026-80274](https://nvd.nist.gov/vuln/detail/CVE-2026-80274)
+  * [ELBA-2026-77613 - ELBA-2026-77613 tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2026-77613.html)
+* Update Oracle Linux 9 slim, Oracle Linux 9 slim FIPS, and Oracle Linux 9 for `amd64` and `arm64v8`:
+  * [ELSA-2026-28209 - ELSA-2026-28209 Moderate: vim security update](https://linux.oracle.com/errata/ELSA-2026-28209.html)
+    * [CVE-2026-41411](https://nvd.nist.gov/vuln/detail/CVE-2026-41411)
+* Update Oracle Linux 10 slim and Oracle Linux 10 for `amd64` and `arm64v8`:
+  * [ELSA-2026-77020 - ELSA-2026-77020 Important: python3.12 security update](https://linux.oracle.com/errata/ELSA-2026-77020.html)
+    * [CVE-2026-19445](https://nvd.nist.gov/vuln/detail/CVE-2026-19445)
+    * [CVE-2026-19553](https://nvd.nist.gov/vuln/detail/CVE-2026-19553)
+  * [ELBA-2026-77613 - ELBA-2026-77613 tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2026-77613.html)
 ## 2026-09-28
 * Update Oracle Linux 9 slim, Oracle Linux 9 slim FIPS, and Oracle Linux 9 for `amd64` and `arm64v8`:
   * [ELSA-2026-69126 - ELSA-2026-69126 Important: curl security update](https://linux.oracle.com/errata/ELSA-2026-69126.html)
