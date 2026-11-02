@@ -1,4 +1,12 @@
 # Changelog
+## 2026-11-02
+* Update Oracle Linux 8 slim, Oracle Linux 8 slim FIPS, and Oracle Linux 8 for `amd64` and `arm64v8`:
+  * [ELSA-2026-90501 - ELSA-2026-90501 Important: brotli security update](https://linux.oracle.com/errata/ELSA-2026-90501.html)
+    * [CVE-2026-111497](https://nvd.nist.gov/vuln/detail/CVE-2026-111497)
+* Update Oracle Linux 9 slim, Oracle Linux 9 slim FIPS, and Oracle Linux 9 for `amd64` and `arm64v8`:
+  * [ELBA-2026-90817 - ELBA-2026-90817 krb5 bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2026-90817.html)
+  * [ELSA-2026-92907 - ELSA-2026-92907 Moderate: curl security update](https://linux.oracle.com/errata/ELSA-2026-92907.html)
+    * [CVE-2026-8932](https://nvd.nist.gov/vuln/detail/CVE-2026-8932)
 ## 2026-10-27
 * Update Oracle Linux 8 slim, Oracle Linux 8 slim FIPS, and Oracle Linux 8 for `amd64` and `arm64v8`:
   * [ELSA-2026-85968 - ELSA-2026-85968 Important: openssl security update](https://linux.oracle.com/errata/ELSA-2026-85968.html)
