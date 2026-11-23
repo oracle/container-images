@@ -1,4 +1,252 @@
 # Changelog
+## 2026-11-23
+* Update Oracle Linux 8 slim, Oracle Linux 8 slim FIPS, and Oracle Linux 8 for `amd64` and `arm64v8`:
+  * [ELEA-2026-73439 - ELEA-2026-73439 gcc bug fix and enhancement update](https://linux.oracle.com/errata/ELEA-2026-73439.html)
+  * [ELSA-2026-93925 - ELSA-2026-93925 Important: bind security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2026-93925.html)
+    * [CVE-2026-19630](https://nvd.nist.gov/vuln/detail/CVE-2026-19630)
+    * [CVE-2026-19662](https://nvd.nist.gov/vuln/detail/CVE-2026-19662)
+    * [CVE-2026-94300](https://nvd.nist.gov/vuln/detail/CVE-2026-94300)
+  * [ELSA-2026-76777 - ELSA-2026-76777 Moderate: glibc security update](https://linux.oracle.com/errata/ELSA-2026-76777.html)
+    * [CVE-2026-6368](https://nvd.nist.gov/vuln/detail/CVE-2026-6368)
+    * [CVE-2026-6791](https://nvd.nist.gov/vuln/detail/CVE-2026-6791)
+  * [ELBA-2026-95254 - ELBA-2026-95254 tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2026-95254.html)
+  * [ELSA-2026-96087 - ELSA-2026-96087 Moderate: glibc security update](https://linux.oracle.com/errata/ELSA-2026-96087.html)
+    * [CVE-2026-8674](https://nvd.nist.gov/vuln/detail/CVE-2026-8674)
+    * [CVE-2026-86805](https://nvd.nist.gov/vuln/detail/CVE-2026-86805)
+    * [CVE-2026-89092](https://nvd.nist.gov/vuln/detail/CVE-2026-89092)
+    * [CVE-2026-95818](https://nvd.nist.gov/vuln/detail/CVE-2026-95818)
+  * [ELSA-2026-96212 - ELSA-2026-96212 Important: util-linux security update](https://linux.oracle.com/errata/ELSA-2026-96212.html)
+    * [CVE-2026-13595](https://nvd.nist.gov/vuln/detail/CVE-2026-13595)
+    * [CVE-2026-53613](https://nvd.nist.gov/vuln/detail/CVE-2026-53613)
+    * [CVE-2026-53615](https://nvd.nist.gov/vuln/detail/CVE-2026-53615)
+  * [ELSA-2026-98119 - ELSA-2026-98119 Important: vim security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2026-98119.html)
+    * [CVE-2026-43961](https://nvd.nist.gov/vuln/detail/CVE-2026-43961)
+  * [ELSA-2026-99691 - ELSA-2026-99691 Moderate: python3 security update](https://linux.oracle.com/errata/ELSA-2026-99691.html)
+    * [CVE-2026-103995](https://nvd.nist.gov/vuln/detail/CVE-2026-103995)
+    * [CVE-2026-114583](https://nvd.nist.gov/vuln/detail/CVE-2026-114583)
+    * [CVE-2026-116566](https://nvd.nist.gov/vuln/detail/CVE-2026-116566)
+  * [ELSA-2026-98115 - ELSA-2026-98115 Moderate: gcc security update](https://linux.oracle.com/errata/ELSA-2026-98115.html)
+    * [CVE-2026-114690](https://nvd.nist.gov/vuln/detail/CVE-2026-114690)
+    * [CVE-2026-114691](https://nvd.nist.gov/vuln/detail/CVE-2026-114691)
+  * [ELSA-2026-100671 - ELSA-2026-100671 Important: expat security update](https://linux.oracle.com/errata/ELSA-2026-100671.html)
+    * [CVE-2026-113351](https://nvd.nist.gov/vuln/detail/CVE-2026-113351)
+    * [CVE-2026-115506](https://nvd.nist.gov/vuln/detail/CVE-2026-115506)
+    * [CVE-2026-117610](https://nvd.nist.gov/vuln/detail/CVE-2026-117610)
+    * [CVE-2026-118370](https://nvd.nist.gov/vuln/detail/CVE-2026-118370)
+  * [ELSA-2026-100637 - ELSA-2026-100637 Moderate: rpm security update](https://linux.oracle.com/errata/ELSA-2026-100637.html)
+    * [CVE-2026-78367](https://nvd.nist.gov/vuln/detail/CVE-2026-78367)
+    * [CVE-2026-84837](https://nvd.nist.gov/vuln/detail/CVE-2026-84837)
+* Update Oracle Linux 9 slim, Oracle Linux 9 slim FIPS, and Oracle Linux 9 for `amd64` and `arm64v8`:
+  * [ELSA-2026-79281 - ELSA-2026-79281 Moderate: glibc security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2026-79281.html)
+    * [CVE-2026-18374](https://nvd.nist.gov/vuln/detail/CVE-2026-18374)
+    * [CVE-2026-19542](https://nvd.nist.gov/vuln/detail/CVE-2026-19542)
+    * [CVE-2026-6368](https://nvd.nist.gov/vuln/detail/CVE-2026-6368)
+    * [CVE-2026-6791](https://nvd.nist.gov/vuln/detail/CVE-2026-6791)
+    * [CVE-2026-77117](https://nvd.nist.gov/vuln/detail/CVE-2026-77117)
+    * [CVE-2026-80489](https://nvd.nist.gov/vuln/detail/CVE-2026-80489)
+  * [ELBA-2026-95254 - ELBA-2026-95254 tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2026-95254.html)
+  * [ELSA-2026-95618 - ELSA-2026-95618 Moderate: glibc security update](https://linux.oracle.com/errata/ELSA-2026-95618.html)
+    * [CVE-2026-8674](https://nvd.nist.gov/vuln/detail/CVE-2026-8674)
+    * [CVE-2026-86805](https://nvd.nist.gov/vuln/detail/CVE-2026-86805)
+    * [CVE-2026-89092](https://nvd.nist.gov/vuln/detail/CVE-2026-89092)
+    * [CVE-2026-95818](https://nvd.nist.gov/vuln/detail/CVE-2026-95818)
+  * Updated in 9.9:
+    * `acl-2.4.0-2.el9.src.rpm`
+    * `attr-2.6.0-2.el9.src.rpm`
+    * `audit-3.1.5-9.0.1.el9.src.rpm`
+    * `coreutils-8.32-43.0.1.el9.src.rpm`
+    * `crypto-policies-20260714-1.git65b74f7.0.1.el9.src.rpm`
+    * `curl-7.76.1-43.el9.src.rpm`
+    * `dbus-1.12.20-10.0.1.el9.src.rpm`
+    * `dbus-broker-28-10.el9_9.src.rpm`
+    * `dhcp-4.4.2-22.b1.el9.src.rpm`
+    * `dnf-4.14.0-37.0.1.el9.src.rpm`
+    * `dnf-plugins-core-4.3.0-27.0.1.el9.src.rpm`
+    * `elfutils-0.195-1.el9.src.rpm`
+    * `file-5.39-19.el9.src.rpm`
+    * `gawk-5.1.0-7.el9.src.rpm`
+    * `gcc-11.5.0-15.0.1.el9.src.rpm`
+    * `glib2-2.68.4-29.el9.src.rpm`
+    * `glibc-2.34-285.0.1.el9_9.src.rpm`
+    * `ima-evm-utils-1.6.2-4.el9.src.rpm`
+    * `initscripts-10.11.9-2.0.1.el9.src.rpm`
+    * `iproute-6.17.0-3.el9.src.rpm`
+    * `krb5-1.21.1-10.0.1.el9.src.rpm`
+    * `libdnf-0.69.0-20.0.1.el9.src.rpm`
+    * `libseccomp-2.5.6-1.el9.src.rpm`
+    * `libselinux-3.6-4.el9.src.rpm`
+    * `libxml2-2.9.13-16.el9.src.rpm`
+    * `nghttp2-1.43.0-8.el9.src.rpm`
+    * `openldap-2.6.13-1.el9.src.rpm`
+    * `openssh-9.9p1-16.0.1.el9_9.src.rpm`
+    * `oraclelinux-release-9.9-1.0.4.el9.src.rpm`
+    * `oraclelinux-release-el9-1.0-31.el9.src.rpm`
+    * `pam-1.5.1-29.0.1.el9.src.rpm`
+    * `policycoreutils-3.6-9.el9.src.rpm`
+    * `procps-ng-3.3.17-15.0.1.el9.src.rpm`
+    * `redhat-release-9.9-1.0.0.1.el9.src.rpm`
+    * `rsyslog-8.2604.0-4.0.1.el9.src.rpm`
+    * `shadow-utils-4.9-17.el9.src.rpm`
+    * `systemd-252-79.0.1.el9_9.src.rpm`
+    * `tzdata-2026e-1.el9_9.src.rpm`
+    * `util-linux-2.37.4-28.0.1.el9_9.src.rpm`
+    * `vim-8.2.2637-43.0.1.el9_9.src.rpm`
+  * [ELSA-2026-98512 - ELSA-2026-98512 Moderate: glibc security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2026-98512.html)
+    * [CVE-2026-86805](https://nvd.nist.gov/vuln/detail/CVE-2026-86805)
+    * [CVE-2026-89092](https://nvd.nist.gov/vuln/detail/CVE-2026-89092)
+    * [CVE-2026-95818](https://nvd.nist.gov/vuln/detail/CVE-2026-95818)
+  * [ELSA-2026-99715 - ELSA-2026-99715 Important: krb5 security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2026-99715.html)
+    * [CVE-2026-107364](https://nvd.nist.gov/vuln/detail/CVE-2026-107364)
+    * [CVE-2026-107708](https://nvd.nist.gov/vuln/detail/CVE-2026-107708)
+    * [CVE-2026-107778](https://nvd.nist.gov/vuln/detail/CVE-2026-107778)
+    * [CVE-2026-107884](https://nvd.nist.gov/vuln/detail/CVE-2026-107884)
+    * [CVE-2026-111423](https://nvd.nist.gov/vuln/detail/CVE-2026-111423)
+    * [CVE-2026-112314](https://nvd.nist.gov/vuln/detail/CVE-2026-112314)
+    * [CVE-2026-112315](https://nvd.nist.gov/vuln/detail/CVE-2026-112315)
+    * [CVE-2026-112316](https://nvd.nist.gov/vuln/detail/CVE-2026-112316)
+    * [CVE-2026-112317](https://nvd.nist.gov/vuln/detail/CVE-2026-112317)
+    * [CVE-2026-112318](https://nvd.nist.gov/vuln/detail/CVE-2026-112318)
+    * [CVE-2026-112319](https://nvd.nist.gov/vuln/detail/CVE-2026-112319)
+    * [CVE-2026-112320](https://nvd.nist.gov/vuln/detail/CVE-2026-112320)
+    * [CVE-2026-112321](https://nvd.nist.gov/vuln/detail/CVE-2026-112321)
+    * [CVE-2026-112322](https://nvd.nist.gov/vuln/detail/CVE-2026-112322)
+    * [CVE-2026-112323](https://nvd.nist.gov/vuln/detail/CVE-2026-112323)
+    * [CVE-2026-118380](https://nvd.nist.gov/vuln/detail/CVE-2026-118380)
+    * [CVE-2026-119079](https://nvd.nist.gov/vuln/detail/CVE-2026-119079)
+    * [CVE-2026-71199](https://nvd.nist.gov/vuln/detail/CVE-2026-71199)
+    * [CVE-2026-71200](https://nvd.nist.gov/vuln/detail/CVE-2026-71200)
+  * [ELSA-2026-98511 - ELSA-2026-98511 Moderate: python3.9 security update](https://linux.oracle.com/errata/ELSA-2026-98511.html)
+    * [CVE-2026-114583](https://nvd.nist.gov/vuln/detail/CVE-2026-114583)
+    * [CVE-2026-12345](https://nvd.nist.gov/vuln/detail/CVE-2026-12345)
+    * [CVE-2026-19445](https://nvd.nist.gov/vuln/detail/CVE-2026-19445)
+    * [CVE-2026-19553](https://nvd.nist.gov/vuln/detail/CVE-2026-19553)
+  * [ELSA-2026-99593 - ELSA-2026-99593 Moderate: rpm security update](https://linux.oracle.com/errata/ELSA-2026-99593.html)
+    * [CVE-2026-78367](https://nvd.nist.gov/vuln/detail/CVE-2026-78367)
+    * [CVE-2026-84837](https://nvd.nist.gov/vuln/detail/CVE-2026-84837)
+  * [ELSA-2026-98519 - ELSA-2026-98519 Important: util-linux security update](https://linux.oracle.com/errata/ELSA-2026-98519.html)
+    * [CVE-2026-53615](https://nvd.nist.gov/vuln/detail/CVE-2026-53615)
+  * [ELSA-2026-100686 - ELSA-2026-100686 Important: curl security update](https://linux.oracle.com/errata/ELSA-2026-100686.html)
+    * [CVE-2026-11856](https://nvd.nist.gov/vuln/detail/CVE-2026-11856)
+    * [CVE-2026-1965](https://nvd.nist.gov/vuln/detail/CVE-2026-1965)
+    * [CVE-2026-3783](https://nvd.nist.gov/vuln/detail/CVE-2026-3783)
+    * [CVE-2026-3784](https://nvd.nist.gov/vuln/detail/CVE-2026-3784)
+    * [CVE-2026-5545](https://nvd.nist.gov/vuln/detail/CVE-2026-5545)
+    * [CVE-2026-6253](https://nvd.nist.gov/vuln/detail/CVE-2026-6253)
+    * [CVE-2026-6429](https://nvd.nist.gov/vuln/detail/CVE-2026-6429)
+    * [CVE-2026-7168](https://nvd.nist.gov/vuln/detail/CVE-2026-7168)
+    * [CVE-2026-8286](https://nvd.nist.gov/vuln/detail/CVE-2026-8286)
+    * [CVE-2026-8458](https://nvd.nist.gov/vuln/detail/CVE-2026-8458)
+    * [CVE-2026-8924](https://nvd.nist.gov/vuln/detail/CVE-2026-8924)
+    * [CVE-2026-8927](https://nvd.nist.gov/vuln/detail/CVE-2026-8927)
+    * [CVE-2026-8932](https://nvd.nist.gov/vuln/detail/CVE-2026-8932)
+    * [CVE-2026-9547](https://nvd.nist.gov/vuln/detail/CVE-2026-9547)
+  * [ELSA-2026-98478 - ELSA-2026-98478 Important: expat security update](https://linux.oracle.com/errata/ELSA-2026-98478.html)
+    * [CVE-2026-102633](https://nvd.nist.gov/vuln/detail/CVE-2026-102633)
+    * [CVE-2026-66046](https://nvd.nist.gov/vuln/detail/CVE-2026-66046)
+    * [CVE-2026-77214](https://nvd.nist.gov/vuln/detail/CVE-2026-77214)
+    * [CVE-2026-93990](https://nvd.nist.gov/vuln/detail/CVE-2026-93990)
+  * [ELSA-2026-100679 - ELSA-2026-100679 Important: expat security update](https://linux.oracle.com/errata/ELSA-2026-100679.html)
+    * [CVE-2026-113351](https://nvd.nist.gov/vuln/detail/CVE-2026-113351)
+    * [CVE-2026-115506](https://nvd.nist.gov/vuln/detail/CVE-2026-115506)
+    * [CVE-2026-117610](https://nvd.nist.gov/vuln/detail/CVE-2026-117610)
+    * [CVE-2026-118370](https://nvd.nist.gov/vuln/detail/CVE-2026-118370)
+  * [ELSA-2026-98452 - ELSA-2026-98452 Moderate: glib2 security update](https://linux.oracle.com/errata/ELSA-2026-98452.html)
+    * [CVE-2026-16118](https://nvd.nist.gov/vuln/detail/CVE-2026-16118)
+  * [ELSA-2026-98468 - ELSA-2026-98468 Important: libxml2 security update](https://linux.oracle.com/errata/ELSA-2026-98468.html)
+    * [CVE-2026-11979](https://nvd.nist.gov/vuln/detail/CVE-2026-11979)
+    * [CVE-2026-6653](https://nvd.nist.gov/vuln/detail/CVE-2026-6653)
+    * [CVE-2026-74860](https://nvd.nist.gov/vuln/detail/CVE-2026-74860)
+    * [CVE-2026-86138](https://nvd.nist.gov/vuln/detail/CVE-2026-86138)
+    * [CVE-2026-86140](https://nvd.nist.gov/vuln/detail/CVE-2026-86140)
+    * [CVE-2026-86142](https://nvd.nist.gov/vuln/detail/CVE-2026-86142)
+    * [CVE-2026-86143](https://nvd.nist.gov/vuln/detail/CVE-2026-86143)
+    * [CVE-2026-86144](https://nvd.nist.gov/vuln/detail/CVE-2026-86144)
+  * [ELSA-2026-98484 - ELSA-2026-98484 Moderate: openssl security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2026-98484.html)
+    * [CVE-2026-35189](https://nvd.nist.gov/vuln/detail/CVE-2026-35189)
+    * [CVE-2026-35191](https://nvd.nist.gov/vuln/detail/CVE-2026-35191)
+    * [CVE-2026-42772](https://nvd.nist.gov/vuln/detail/CVE-2026-42772)
+    * [CVE-2026-54872](https://nvd.nist.gov/vuln/detail/CVE-2026-54872)
+    * [CVE-2026-54873](https://nvd.nist.gov/vuln/detail/CVE-2026-54873)
+    * [CVE-2026-54875](https://nvd.nist.gov/vuln/detail/CVE-2026-54875)
+    * [CVE-2026-72897](https://nvd.nist.gov/vuln/detail/CVE-2026-72897)
+    * [CVE-2026-75804](https://nvd.nist.gov/vuln/detail/CVE-2026-75804)
+    * [CVE-2026-75805](https://nvd.nist.gov/vuln/detail/CVE-2026-75805)
+    * [CVE-2026-75806](https://nvd.nist.gov/vuln/detail/CVE-2026-75806)
+    * [CVE-2026-77696](https://nvd.nist.gov/vuln/detail/CVE-2026-77696)
+    * [CVE-2026-84784](https://nvd.nist.gov/vuln/detail/CVE-2026-84784)
+  * [ELSA-2026-98456 - ELSA-2026-98456 Important: rsyslog security update](https://linux.oracle.com/errata/ELSA-2026-98456.html)
+    * [CVE-2026-78002](https://nvd.nist.gov/vuln/detail/CVE-2026-78002)
+  * [ELSA-2026-100487 - ELSA-2026-100487 Important: vim security update](https://linux.oracle.com/errata/ELSA-2026-100487.html)
+    * [CVE-2026-43961](https://nvd.nist.gov/vuln/detail/CVE-2026-43961)
+  * [ELSA-2026-98486 - ELSA-2026-98486 Moderate: xz security update](https://linux.oracle.com/errata/ELSA-2026-98486.html)
+    * [CVE-2026-34743](https://nvd.nist.gov/vuln/detail/CVE-2026-34743)
+  * [ELBA-2026-100483 - ELBA-2026-100483 systemd bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2026-100483.html)
+  * [ELBA-2026-98518 - ELBA-2026-98518 tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2026-98518.html)
+* Update Oracle Linux 10 slim and Oracle Linux 10 for `amd64` and `arm64v8`:
+  * [ELSA-2026-93461 - ELSA-2026-93461 Important: util-linux security update](https://linux.oracle.com/errata/ELSA-2026-93461.html)
+    * [CVE-2026-13595](https://nvd.nist.gov/vuln/detail/CVE-2026-13595)
+    * [CVE-2026-27456](https://nvd.nist.gov/vuln/detail/CVE-2026-27456)
+    * [CVE-2026-53612](https://nvd.nist.gov/vuln/detail/CVE-2026-53612)
+    * [CVE-2026-53613](https://nvd.nist.gov/vuln/detail/CVE-2026-53613)
+    * [CVE-2026-53614](https://nvd.nist.gov/vuln/detail/CVE-2026-53614)
+    * [CVE-2026-53615](https://nvd.nist.gov/vuln/detail/CVE-2026-53615)
+    * [CVE-2026-76642](https://nvd.nist.gov/vuln/detail/CVE-2026-76642)
+    * [CVE-2026-78408](https://nvd.nist.gov/vuln/detail/CVE-2026-78408)
+    * [CVE-2026-78410](https://nvd.nist.gov/vuln/detail/CVE-2026-78410)
+  * [ELSA-2026-76781 - ELSA-2026-76781 Moderate: glibc security, bug fix, and enhancement update](https://linux.oracle.com/errata/ELSA-2026-76781.html)
+    * [CVE-2026-19499](https://nvd.nist.gov/vuln/detail/CVE-2026-19499)
+    * [CVE-2026-19542](https://nvd.nist.gov/vuln/detail/CVE-2026-19542)
+    * [CVE-2026-6368](https://nvd.nist.gov/vuln/detail/CVE-2026-6368)
+    * [CVE-2026-6791](https://nvd.nist.gov/vuln/detail/CVE-2026-6791)
+  * [ELBA-2026-95254 - ELBA-2026-95254 tzdata bug fix and enhancement update](https://linux.oracle.com/errata/ELBA-2026-95254.html)
+  * [ELSA-2026-96092 - ELSA-2026-96092 Important: curl security update](https://linux.oracle.com/errata/ELSA-2026-96092.html)
+    * [CVE-2026-92392](https://nvd.nist.gov/vuln/detail/CVE-2026-92392)
+  * Updated in 10.3:
+    * `acl-2.4.0-2.el10.src.rpm`
+    * `attr-2.6.0-2.el10.src.rpm`
+    * `audit-4.2.1-3.0.1.el10.src.rpm`
+    * `authselect-1.5.3-1.el10.src.rpm`
+    * `coreutils-9.5-14.0.1.el10_3.src.rpm`
+    * `crypto-policies-20260811-1.git4dcd294.el10.src.rpm`
+    * `curl-8.12.1-6.el10.src.rpm`
+    * `dbus-1.14.10-6.el10.src.rpm`
+    * `dbus-broker-36-5.el10_3.src.rpm`
+    * `dnf-4.20.0-28.0.1.el10.src.rpm`
+    * `dnf-plugins-core-4.7.0-12.0.1.el10.src.rpm`
+    * `elfutils-0.195-1.el10.src.rpm`
+    * `file-5.45-12.el10.src.rpm`
+    * `gawk-5.3.0-7.el10.src.rpm`
+    * `gcc-14.4.1-3.0.1.el10.src.rpm`
+    * `glib2-2.80.4-22.el10.src.rpm`
+    * `ima-evm-utils-1.6.2-6.el10.src.rpm`
+    * `krb5-1.21.3-11.0.1.el10.src.rpm`
+    * `libcap-ng-0.9.3-2.el10.src.rpm`
+    * `libdnf-0.73.1-17.0.1.el10.src.rpm`
+    * `libpwquality-1.4.5-13.el10.src.rpm`
+    * `libselinux-3.11-2.el10.src.rpm`
+    * `libsemanage-3.11-1.el10.src.rpm`
+    * `libsepol-3.11-2.el10.src.rpm`
+    * `libssh-0.12.2-2.el10.src.rpm`
+    * `libxml2-2.12.5-15.el10.src.rpm`
+    * `lua-5.4.8-1.el10.src.rpm`
+    * `nghttp2-1.68.0-6.el10.src.rpm`
+    * `openldap-2.6.13-1.el10.src.rpm`
+    * `openssh-9.9p1-33.0.1.el10_3.src.rpm`
+    * `oraclelinux-release-10.3-1.0.4.el10.src.rpm`
+    * `oraclelinux-release-el10-1.0-21.el10.src.rpm`
+    * `pam-1.6.1-11.el10.src.rpm`
+    * `policycoreutils-3.11-1.el10.src.rpm`
+    * `procps-ng-4.0.4-13.el10.src.rpm`
+    * `redhat-release-10.3-15.0.1.el10.src.rpm`
+    * `rpm-4.19.1.1-25.el10.src.rpm`
+    * `rsyslog-8.2604.0-5.el10.src.rpm`
+    * `rust-rpm-sequoia-1.10.2.3-1.el10.src.rpm`
+    * `shadow-utils-4.15.0-13.el10.src.rpm`
+    * `systemd-257-33.0.1.el10.src.rpm`
+    * `tzdata-2026e-1.el10_3.src.rpm`
+    * `util-linux-2.40.2-23.0.1.el10_3.src.rpm`
+    * `vim-9.1.083-25.0.1.el10_3.src.rpm`
+    * `xz-5.6.2-5.el10.src.rpm`
 ## 2026-11-02
 * Update Oracle Linux 8 slim, Oracle Linux 8 slim FIPS, and Oracle Linux 8 for `amd64` and `arm64v8`:
   * [ELSA-2026-90501 - ELSA-2026-90501 Important: brotli security update](https://linux.oracle.com/errata/ELSA-2026-90501.html)
